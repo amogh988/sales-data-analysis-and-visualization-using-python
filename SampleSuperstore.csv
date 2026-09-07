@@ -1,0 +1,1001 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,ORD-2024-00001,2024-04-12,2024-04-16,Same Day,CU7949,Rahul Verma,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-15311,Technology,Accessories,Mouse,92100.2,3,0.1,10111.98
+2,ORD-2024-00002,2024-11-09,2024-11-14,First Class,CU2267,Riya Kumar,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-21394,Furniture,Bookcases,Wooden Bookcase,243570.1,10,0.15,21085.23
+3,ORD-2024-00003,2024-06-15,2024-06-17,Standard Class,CU1775,Riya More,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-90077,Office Supplies,Binders,File Binder,12810.25,10,0.0,1863.6
+4,ORD-2025-00004,2025-01-22,2025-01-24,Same Day,CU8629,Arjun Verma,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-11016,Furniture,Furnishings,Wall Clock,23037.95,2,0.05,3398.09
+5,ORD-2024-00005,2024-12-03,2024-12-08,Second Class,CU7736,Karan Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-71858,Technology,Phones,Smartphone,69729.78,1,0.0,-5451.31
+6,ORD-2024-00006,2024-08-18,2024-08-20,Second Class,CU9110,Amit Shah,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-37266,Office Supplies,Paper,Printer Paper,3224.03,1,0.3,444.21
+7,ORD-2025-00007,2025-02-01,2025-02-04,First Class,CU4242,Manish Nair,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-43827,Office Supplies,Binders,File Binder,13641.23,3,0.0,30.92
+8,ORD-2024-00008,2024-08-30,2024-09-03,Standard Class,CU8392,Vikas Yadav,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-76842,Technology,Laptops,Laptop,102205.99,5,0.3,13949.33
+9,ORD-2024-00009,2024-09-15,2024-09-18,Same Day,CU2853,Nisha Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-49353,Technology,Phones,Android Phone,159779.03,10,0.15,10653.05
+10,ORD-2025-00010,2025-01-20,2025-01-23,Standard Class,CU6249,Sachin Yadav,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-60859,Furniture,Furnishings,Desk Lamp,12815.64,1,0.05,2655.76
+11,ORD-2024-00011,2024-09-03,2024-09-07,Standard Class,CU5282,Amit Gupta,Corporate,India,Patna,Bihar,800001,East,PR-TE-61663,Office Supplies,Storage,Storage Box,16351.78,6,0.2,-1638.52
+12,ORD-2025-00012,2025-02-06,2025-02-08,Standard Class,CU1262,Anjali Shah,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-26371,Office Supplies,Storage,Storage Box,3702.56,1,0.05,-87.03
+13,ORD-2024-00013,2024-10-30,2024-11-03,Second Class,CU2648,Amit Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-63351,Office Supplies,Storage,Document Storage,40462.56,9,0.0,8607.95
+14,ORD-2025-00014,2025-05-24,2025-05-25,Standard Class,CU5911,Amit Yadav,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-96416,Office Supplies,Binders,File Binder,2397.84,2,0.05,341.74
+15,ORD-2025-00015,2025-04-14,2025-04-19,Same Day,CU8683,Kavita Shah,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-83744,Office Supplies,Storage,Document Storage,5026.67,2,0.2,-329.6
+16,ORD-2024-00016,2024-02-15,2024-02-20,Standard Class,CU9319,Amit Shah,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-44584,Technology,Phones,Smartphone,696258.23,8,0.2,105478.33
+17,ORD-2024-00017,2024-11-18,2024-11-20,First Class,CU6801,Vikas More,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-59689,Technology,Accessories,Headphones,765316.12,10,0.05,108246.79
+18,ORD-2025-00018,2025-06-08,2025-06-12,Standard Class,CU6919,Arjun Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-62921,Furniture,Furnishings,Desk Lamp,8952.21,4,0.0,1903.09
+19,ORD-2024-00019,2024-11-09,2024-11-11,Standard Class,CU6315,Rohit Kumar,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-76412,Furniture,Tables,Computer Table,21677.9,6,0.1,-732.26
+20,ORD-2025-00020,2025-10-17,2025-10-22,Standard Class,CU2664,Akash Desai,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-26896,Technology,Laptops,Gaming Laptop,7982.62,1,0.1,1697.7
+21,ORD-2024-00021,2024-04-27,2024-04-28,Standard Class,CU3744,Rohit Singh,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-71389,Office Supplies,Paper,Copy Paper,9197.17,7,0.2,-115.23
+22,ORD-2024-00022,2024-04-03,2024-04-07,Second Class,CU3849,Rohit Joshi,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-75417,Technology,Laptops,Business Laptop,198063.98,5,0.15,16980.13
+23,ORD-2024-00023,2024-11-20,2024-11-25,Second Class,CU6052,Amit Sharma,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-48304,Technology,Accessories,Mouse,84680.49,1,0.15,897.28
+24,ORD-2024-00024,2024-10-11,2024-10-16,Standard Class,CU4974,Sachin Gupta,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-99588,Furniture,Tables,Dining Table,115956.43,7,0.0,3757.7
+25,ORD-2025-00025,2025-01-10,2025-01-14,Second Class,CU3143,Deepak Kumar,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-17357,Office Supplies,Paper,Printer Paper,18425.37,5,0.0,-697.63
+26,ORD-2025-00026,2025-11-25,2025-11-30,First Class,CU1395,Deepak Joshi,Consumer,India,Patna,Bihar,800001,East,PR-FU-82936,Office Supplies,Paper,Printer Paper,1668.24,1,0.0,359.54
+27,ORD-2025-00027,2025-12-18,2025-12-22,Standard Class,CU8860,Vikas More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-31689,Technology,Phones,Smartphone,182562.43,3,0.15,26238.07
+28,ORD-2024-00028,2024-05-12,2024-05-15,Standard Class,CU7938,Pooja Rao,Consumer,India,Patna,Bihar,800001,East,PR-TE-93460,Technology,Accessories,Mouse,703361.83,9,0.05,33838.87
+29,ORD-2025-00029,2025-10-09,2025-10-14,Standard Class,CU5186,Riya Singh,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-65129,Office Supplies,Paper,Notebook,24990.62,7,0.0,1973.01
+30,ORD-2024-00030,2024-06-21,2024-06-26,Same Day,CU1133,Amit Singh,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-46395,Technology,Laptops,Laptop,199242.68,9,0.0,15470.38
+31,ORD-2024-00031,2024-05-28,2024-06-02,Same Day,CU9120,Priya Kumar,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-88859,Furniture,Bookcases,Office Bookcase,41150.5,9,0.05,9716.64
+32,ORD-2024-00032,2024-12-23,2024-12-27,Standard Class,CU7132,Deepak Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-45547,Technology,Laptops,Business Laptop,197347.8,8,0.05,-1325.5
+33,ORD-2025-00033,2025-06-30,2025-07-05,Second Class,CU3193,Amit Singh,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-72292,Office Supplies,Paper,Notebook,25225.03,9,0.05,-961.19
+34,ORD-2025-00034,2025-11-19,2025-11-24,Second Class,CU2460,Neha Shah,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-33524,Technology,Accessories,Headphones,77960.29,1,0.2,15584.79
+35,ORD-2024-00035,2024-03-23,2024-03-24,Second Class,CU1249,Pooja Kumar,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-71877,Technology,Laptops,Laptop,64047.63,3,0.2,4738.39
+36,ORD-2024-00036,2024-09-24,2024-09-25,Second Class,CU5530,Rahul Jain,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-91317,Office Supplies,Binders,File Binder,34201.55,9,0.0,4265.01
+37,ORD-2024-00037,2024-11-01,2024-11-03,Standard Class,CU3180,Anjali Shah,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-49811,Technology,Accessories,Headphones,82262.06,2,0.15,-1577.24
+38,ORD-2025-00038,2025-05-22,2025-05-26,Second Class,CU7090,Kavita Nair,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-32415,Furniture,Tables,Office Table,11247.41,2,0.2,531.97
+39,ORD-2025-00039,2025-11-26,2025-11-27,Standard Class,CU7376,Neha Sharma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-61745,Office Supplies,Storage,Storage Box,1855.56,2,0.2,-70.63
+40,ORD-2024-00040,2024-03-13,2024-03-15,Standard Class,CU2276,Pooja Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-10302,Technology,Laptops,Gaming Laptop,276627.61,8,0.3,36387.42
+41,ORD-2025-00041,2025-04-18,2025-04-22,Standard Class,CU2531,Karan Nair,Consumer,India,Patna,Bihar,800001,East,PR-FU-98869,Technology,Laptops,Laptop,128474.07,10,0.3,15887.8
+42,ORD-2025-00042,2025-09-22,2025-09-27,Second Class,CU1232,Anjali Shah,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-36734,Technology,Phones,Android Phone,130537.56,6,0.05,8342.67
+43,ORD-2025-00043,2025-09-14,2025-09-15,Standard Class,CU2733,Amit Mehta,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-TE-81158,Technology,Phones,Business Phone,90989.72,4,0.05,1502.7
+44,ORD-2025-00044,2025-03-21,2025-03-22,Second Class,CU1117,Arjun Singh,Corporate,India,Patna,Bihar,800001,East,PR-FU-94471,Furniture,Bookcases,Office Bookcase,124663.8,5,0.15,23092.79
+45,ORD-2024-00045,2024-07-12,2024-07-15,Second Class,CU7233,Arjun Sharma,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-52533,Technology,Phones,Smartphone,233183.06,6,0.05,-2915.9
+46,ORD-2024-00046,2024-09-15,2024-09-16,Second Class,CU3832,Rohit Gupta,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-89767,Technology,Laptops,Laptop,207826.45,7,0.05,-1760.0
+47,ORD-2024-00047,2024-04-04,2024-04-05,Standard Class,CU7413,Pooja Jain,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-96740,Office Supplies,Binders,File Binder,2129.16,5,0.1,297.17
+48,ORD-2024-00048,2024-03-18,2024-03-20,Standard Class,CU3192,Amit Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-21246,Furniture,Tables,Office Table,45083.7,2,0.3,-460.5
+49,ORD-2025-00049,2025-09-07,2025-09-10,Second Class,CU1922,Nisha Yadav,Corporate,India,Patna,Bihar,800001,East,PR-FU-20789,Furniture,Tables,Dining Table,60936.31,7,0.1,6070.72
+50,ORD-2025-00050,2025-02-14,2025-02-15,Standard Class,CU4228,Nisha Verma,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-24382,Technology,Laptops,Laptop,487468.4,10,0.0,34517.67
+51,ORD-2025-00051,2025-02-14,2025-02-17,Standard Class,CU9554,Arjun Rao,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-85916,Technology,Laptops,Gaming Laptop,409260.5,5,0.15,6049.27
+52,ORD-2025-00052,2025-09-14,2025-09-18,Standard Class,CU4368,Simran Verma,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-57882,Office Supplies,Paper,Copy Paper,3501.72,8,0.05,-234.56
+53,ORD-2025-00053,2025-02-08,2025-02-10,Standard Class,CU5212,Nisha Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-23224,Furniture,Chairs,Office Chair,89917.49,6,0.1,504.89
+54,ORD-2025-00054,2025-08-24,2025-08-27,Second Class,CU4572,Vikas Joshi,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-47148,Technology,Laptops,Gaming Laptop,41979.66,2,0.1,-2456.53
+55,ORD-2024-00055,2024-06-04,2024-06-06,First Class,CU3482,Amit More,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-43719,Technology,Phones,Smartphone,8596.12,1,0.15,414.54
+56,ORD-2024-00056,2024-10-11,2024-10-12,First Class,CU4335,Sneha Sharma,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-22342,Technology,Phones,Business Phone,120683.65,3,0.05,11124.78
+57,ORD-2025-00057,2025-04-02,2025-04-05,First Class,CU4310,Pooja Singh,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-82258,Technology,Accessories,Headphones,100206.62,2,0.2,-6541.76
+58,ORD-2024-00058,2024-09-20,2024-09-22,First Class,CU9966,Vikas Rao,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-12198,Furniture,Tables,Computer Table,67472.34,4,0.15,12029.7
+59,ORD-2025-00059,2025-07-01,2025-07-06,Standard Class,CU2279,Rohit Mehta,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-72516,Office Supplies,Storage,Storage Box,11969.78,4,0.1,-197.97
+60,ORD-2024-00060,2024-12-29,2024-12-30,Same Day,CU6877,Vikas Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-61693,Technology,Accessories,Mouse,326261.12,7,0.0,49141.17
+61,ORD-2024-00061,2024-04-18,2024-04-20,Standard Class,CU9041,Riya Kumar,Consumer,India,Patna,Bihar,800001,East,PR-TE-71396,Office Supplies,Binders,File Binder,14077.36,5,0.05,1724.04
+62,ORD-2024-00062,2024-06-16,2024-06-18,Second Class,CU3866,Karan Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-21555,Technology,Laptops,Laptop,69611.11,1,0.05,1689.99
+63,ORD-2024-00063,2024-10-22,2024-10-25,Standard Class,CU2762,Sneha Nair,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-22112,Office Supplies,Storage,Document Storage,4569.04,6,0.05,306.76
+64,ORD-2025-00064,2025-04-26,2025-04-27,Standard Class,CU2252,Priya Shah,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-95469,Technology,Phones,Smartphone,509906.99,8,0.0,36557.73
+65,ORD-2025-00065,2025-09-04,2025-09-08,Same Day,CU6604,Deepak Kumar,Home Office,India,Mumbai,Maharashtra,400001,West,PR-TE-68053,Furniture,Tables,Office Table,35250.3,7,0.0,5697.65
+66,ORD-2024-00066,2024-09-24,2024-09-27,First Class,CU9007,Vikas Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-51786,Furniture,Tables,Dining Table,49240.96,10,0.0,-3387.67
+67,ORD-2025-00067,2025-01-06,2025-01-09,Second Class,CU8694,Riya Kumar,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-54547,Technology,Accessories,Keyboard,350516.06,8,0.1,24531.74
+68,ORD-2025-00068,2025-12-22,2025-12-23,Standard Class,CU8206,Priya Jain,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-26371,Office Supplies,Binders,Document Folder,3026.45,3,0.05,103.53
+69,ORD-2024-00069,2024-11-13,2024-11-18,Standard Class,CU2165,Priya More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-44801,Technology,Accessories,Keyboard,385007.73,10,0.3,-29338.95
+70,ORD-2025-00070,2025-10-26,2025-10-27,First Class,CU5805,Karan Desai,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-66638,Office Supplies,Paper,Notebook,4754.81,1,0.0,853.46
+71,ORD-2024-00071,2024-08-13,2024-08-14,Standard Class,CU7402,Akash Sharma,Home Office,India,Patna,Bihar,800001,East,PR-TE-91412,Office Supplies,Storage,Storage Box,1980.19,6,0.2,-6.44
+72,ORD-2025-00072,2025-11-19,2025-11-20,Standard Class,CU8287,Neha More,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-85758,Technology,Phones,Smartphone,629458.35,10,0.1,103372.75
+73,ORD-2024-00073,2024-12-22,2024-12-24,Standard Class,CU1954,Rohit Jain,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-35559,Technology,Accessories,USB Cable,699564.22,9,0.1,77812.43
+74,ORD-2024-00074,2024-09-07,2024-09-12,Second Class,CU7183,Priya Verma,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-96231,Technology,Phones,Smartphone,225340.2,5,0.2,14758.56
+75,ORD-2024-00075,2024-12-18,2024-12-21,First Class,CU3808,Manish Rao,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-64302,Technology,Phones,Smartphone,316050.88,5,0.05,62717.22
+76,ORD-2024-00076,2024-12-28,2025-01-02,Standard Class,CU5543,Rahul Desai,Corporate,India,Patna,Bihar,800001,East,PR-FU-11007,Furniture,Furnishings,Wall Clock,52727.04,7,0.05,6116.26
+77,ORD-2025-00077,2025-08-08,2025-08-09,Standard Class,CU9073,Deepak Desai,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-30953,Technology,Accessories,Mouse,82320.3,5,0.2,15032.37
+78,ORD-2024-00078,2024-09-26,2024-10-01,Standard Class,CU4356,Rahul Yadav,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-99186,Technology,Phones,Android Phone,73871.92,1,0.3,-11425.05
+79,ORD-2024-00079,2024-06-05,2024-06-08,Standard Class,CU5179,Arjun Mehta,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-73416,Office Supplies,Storage,File Cabinet,19279.44,4,0.3,-2789.16
+80,ORD-2025-00080,2025-07-23,2025-07-27,Standard Class,CU6776,Simran Gupta,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-78916,Furniture,Chairs,Dining Chair,18015.64,1,0.0,1788.36
+81,ORD-2025-00081,2025-07-15,2025-07-19,Standard Class,CU2763,Riya Joshi,Consumer,India,Patna,Bihar,800001,East,PR-FU-75455,Technology,Phones,Business Phone,131566.47,3,0.15,-10023.88
+82,ORD-2025-00082,2025-05-15,2025-05-20,Second Class,CU9920,Karan More,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-61195,Office Supplies,Storage,Storage Box,2451.7,1,0.2,166.73
+83,ORD-2024-00083,2024-08-01,2024-08-04,Standard Class,CU7368,Amit Patil,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-55004,Furniture,Furnishings,Desk Lamp,33921.39,6,0.3,5278.45
+84,ORD-2025-00084,2025-10-27,2025-10-29,Standard Class,CU7917,Neha Gupta,Home Office,India,Kolkata,West Bengal,700001,East,PR-FU-36015,Technology,Laptops,Business Laptop,121328.61,2,0.05,-6249.32
+85,ORD-2025-00085,2025-11-20,2025-11-24,Standard Class,CU5904,Priya Nair,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-46877,Technology,Accessories,Headphones,348150.05,7,0.1,15410.87
+86,ORD-2024-00086,2024-03-27,2024-03-31,Standard Class,CU4665,Sachin Desai,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-TE-26082,Office Supplies,Binders,Document Folder,27786.66,7,0.3,1733.15
+87,ORD-2024-00087,2024-02-28,2024-03-02,Second Class,CU4453,Nisha Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-90818,Technology,Phones,Smartphone,99019.24,6,0.0,5668.8
+88,ORD-2024-00088,2024-04-26,2024-04-28,Second Class,CU3958,Meena Verma,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-37490,Office Supplies,Binders,File Binder,13018.88,7,0.05,444.85
+89,ORD-2025-00089,2025-04-22,2025-04-24,Same Day,CU4814,Nisha Patil,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-71272,Furniture,Chairs,Executive Chair,25975.24,9,0.3,940.48
+90,ORD-2024-00090,2024-08-16,2024-08-21,Second Class,CU7276,Akash Sharma,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-33499,Office Supplies,Paper,Notebook,22990.1,10,0.1,2664.53
+91,ORD-2024-00091,2024-10-10,2024-10-11,Standard Class,CU1968,Nisha Patil,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-10281,Technology,Phones,Smartphone,77915.24,1,0.15,4727.03
+92,ORD-2024-00092,2024-07-16,2024-07-21,Standard Class,CU8473,Rahul Gupta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-25398,Furniture,Chairs,Office Chair,52083.28,3,0.3,3717.15
+93,ORD-2024-00093,2024-06-26,2024-06-30,Same Day,CU8519,Pooja More,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-47380,Furniture,Furnishings,Wall Clock,21781.64,4,0.05,-1339.85
+94,ORD-2024-00094,2024-07-11,2024-07-13,Standard Class,CU4124,Sachin Nair,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-36984,Furniture,Tables,Office Table,12444.83,10,0.0,1782.71
+95,ORD-2025-00095,2025-12-04,2025-12-05,Second Class,CU5114,Sneha Singh,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-46321,Technology,Phones,Smartphone,53553.79,5,0.2,6561.03
+96,ORD-2024-00096,2024-12-30,2025-01-02,Standard Class,CU9927,Amit Sharma,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-32443,Furniture,Tables,Dining Table,76071.18,9,0.2,7569.4
+97,ORD-2025-00097,2025-09-13,2025-09-15,Second Class,CU9234,Rahul Mehta,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-91709,Technology,Accessories,Keyboard,32821.44,10,0.05,1081.94
+98,ORD-2024-00098,2024-01-21,2024-01-24,First Class,CU7012,Rahul Yadav,Consumer,India,Patna,Bihar,800001,East,PR-FU-46378,Office Supplies,Paper,Notebook,42108.63,9,0.15,-61.67
+99,ORD-2025-00099,2025-10-09,2025-10-11,Second Class,CU4654,Manish Nair,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-28743,Office Supplies,Binders,Ring Binder,13749.91,4,0.05,-448.6
+100,ORD-2024-00100,2024-02-05,2024-02-09,Standard Class,CU5616,Akash Rao,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-91929,Furniture,Tables,Office Table,128097.67,8,0.2,17976.24
+101,ORD-2025-00101,2025-11-12,2025-11-13,Standard Class,CU1482,Anjali Sharma,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-27014,Furniture,Furnishings,Wall Clock,170830.16,8,0.1,25282.27
+102,ORD-2025-00102,2025-10-16,2025-10-19,Same Day,CU7780,Anjali Singh,Consumer,India,Patna,Bihar,800001,East,PR-OS-65754,Technology,Laptops,Laptop,228906.74,9,0.3,15571.98
+103,ORD-2025-00103,2025-06-14,2025-06-18,First Class,CU1707,Akash Kumar,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-82240,Technology,Accessories,Keyboard,72304.77,4,0.2,-3991.47
+104,ORD-2025-00104,2025-03-03,2025-03-06,Standard Class,CU4874,Riya Patil,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-19686,Furniture,Furnishings,Wall Clock,18465.95,3,0.3,-2543.28
+105,ORD-2025-00105,2025-03-17,2025-03-21,Standard Class,CU8123,Riya Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-91437,Furniture,Bookcases,Wooden Bookcase,25817.16,9,0.05,573.1
+106,ORD-2024-00106,2024-04-13,2024-04-18,Standard Class,CU3785,Kavita Desai,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-26163,Office Supplies,Paper,Copy Paper,19004.13,5,0.15,-1432.05
+107,ORD-2025-00107,2025-07-31,2025-08-01,Same Day,CU9597,Neha Shah,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-OS-20382,Technology,Phones,Smartphone,25893.61,1,0.1,4743.74
+108,ORD-2025-00108,2025-05-04,2025-05-08,Standard Class,CU9264,Nisha Yadav,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-34226,Furniture,Tables,Office Table,66031.11,3,0.3,6980.15
+109,ORD-2025-00109,2025-04-10,2025-04-14,Standard Class,CU3530,Simran More,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-33429,Technology,Phones,Business Phone,748128.51,9,0.2,52416.48
+110,ORD-2025-00110,2025-01-26,2025-01-31,Second Class,CU7610,Rahul Desai,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-49922,Technology,Accessories,USB Cable,307115.71,4,0.05,-26615.58
+111,ORD-2024-00111,2024-12-10,2024-12-12,First Class,CU9800,Vikas Desai,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-64823,Furniture,Furnishings,Table Lamp,42131.58,9,0.1,-734.02
+112,ORD-2024-00112,2024-08-08,2024-08-12,Standard Class,CU7140,Simran Kumar,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-79252,Technology,Accessories,Mouse,296063.73,5,0.15,16554.86
+113,ORD-2025-00113,2025-02-08,2025-02-13,Standard Class,CU9656,Manish Joshi,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-63744,Office Supplies,Storage,Storage Box,4881.78,1,0.2,656.63
+114,ORD-2024-00114,2024-11-03,2024-11-08,Standard Class,CU5200,Manish Sharma,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-13191,Furniture,Tables,Computer Table,77674.1,8,0.1,11966.12
+115,ORD-2025-00115,2025-07-25,2025-07-30,Second Class,CU8083,Manish Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-32614,Office Supplies,Binders,Ring Binder,8484.89,7,0.05,1705.45
+116,ORD-2025-00116,2025-05-19,2025-05-22,Standard Class,CU6330,Karan Joshi,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-74027,Furniture,Furnishings,Table Lamp,191474.27,8,0.0,3419.11
+117,ORD-2024-00117,2024-12-15,2024-12-17,First Class,CU9569,Sneha Yadav,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-96205,Furniture,Furnishings,Desk Lamp,195294.21,8,0.0,837.12
+118,ORD-2025-00118,2025-11-06,2025-11-10,First Class,CU5941,Pooja Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-87425,Furniture,Chairs,Office Chair,3143.05,2,0.1,-231.47
+119,ORD-2025-00119,2025-12-25,2025-12-29,Standard Class,CU1301,Manish Yadav,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-92566,Office Supplies,Paper,Notebook,46027.4,10,0.3,-3302.95
+120,ORD-2024-00120,2024-09-12,2024-09-15,Second Class,CU5183,Sachin Kumar,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-13754,Office Supplies,Paper,Copy Paper,8214.3,2,0.05,-181.05
+121,ORD-2025-00121,2025-05-29,2025-06-01,First Class,CU1448,Rohit Shah,Corporate,India,Patna,Bihar,800001,East,PR-OS-31727,Office Supplies,Storage,Document Storage,1311.52,9,0.2,-63.73
+122,ORD-2025-00122,2025-04-17,2025-04-19,Second Class,CU2037,Riya Sharma,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-29873,Office Supplies,Storage,Document Storage,5336.76,2,0.0,1066.58
+123,ORD-2024-00123,2024-03-10,2024-03-13,Standard Class,CU6891,Pooja Kumar,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-47804,Furniture,Bookcases,Wooden Bookcase,78479.18,4,0.15,7950.24
+124,ORD-2025-00124,2025-05-30,2025-06-04,Standard Class,CU4390,Sachin Sharma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-65506,Furniture,Furnishings,Wall Clock,99653.21,7,0.15,14763.26
+125,ORD-2025-00125,2025-06-25,2025-06-27,Standard Class,CU2019,Arjun Jain,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-85564,Furniture,Furnishings,Table Lamp,34162.89,4,0.3,-2808.12
+126,ORD-2025-00126,2025-10-21,2025-10-24,Standard Class,CU7397,Manish Jain,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-45525,Office Supplies,Storage,Document Storage,16874.58,9,0.05,301.86
+127,ORD-2025-00127,2025-03-01,2025-03-04,Second Class,CU6105,Vikas Kumar,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-12839,Office Supplies,Paper,Copy Paper,14237.97,4,0.0,1826.54
+128,ORD-2024-00128,2024-06-30,2024-07-04,First Class,CU1905,Simran Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-19833,Office Supplies,Paper,Copy Paper,11608.22,8,0.15,-308.17
+129,ORD-2024-00129,2024-08-15,2024-08-18,Standard Class,CU6591,Karan Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-75428,Technology,Accessories,Keyboard,348476.69,5,0.15,-13716.45
+130,ORD-2024-00130,2024-05-21,2024-05-22,Standard Class,CU7588,Riya Gupta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-16304,Office Supplies,Binders,Ring Binder,4837.87,3,0.05,1064.44
+131,ORD-2025-00131,2025-05-04,2025-05-05,Standard Class,CU2633,Deepak Sharma,Consumer,India,Patna,Bihar,800001,East,PR-TE-60669,Office Supplies,Paper,Copy Paper,22067.8,8,0.2,2896.64
+132,ORD-2025-00132,2025-05-31,2025-06-02,Standard Class,CU2727,Anjali Shah,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-20800,Office Supplies,Binders,File Binder,810.28,2,0.1,51.96
+133,ORD-2025-00133,2025-06-15,2025-06-17,Second Class,CU4867,Pooja Rao,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-39118,Office Supplies,Binders,Document Folder,10815.34,8,0.2,1972.62
+134,ORD-2024-00134,2024-02-13,2024-02-14,Standard Class,CU1007,Riya Rao,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-85939,Technology,Laptops,Gaming Laptop,37253.24,4,0.0,-575.52
+135,ORD-2025-00135,2025-07-12,2025-07-14,Standard Class,CU8167,Amit Kumar,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-27071,Technology,Laptops,Business Laptop,565947.09,7,0.1,35273.71
+136,ORD-2024-00136,2024-12-31,2025-01-03,Second Class,CU9438,Neha Rao,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-18004,Office Supplies,Binders,Document Folder,3209.89,1,0.2,-241.5
+137,ORD-2025-00137,2025-10-27,2025-11-01,Standard Class,CU3504,Arjun Desai,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-91623,Furniture,Chairs,Office Chair,54997.79,4,0.3,26.7
+138,ORD-2025-00138,2025-04-20,2025-04-22,First Class,CU3326,Karan Gupta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-16416,Furniture,Tables,Computer Table,10792.91,1,0.2,-721.87
+139,ORD-2024-00139,2024-10-15,2024-10-19,Standard Class,CU1441,Priya Joshi,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-73278,Technology,Accessories,Headphones,535590.56,6,0.0,-29224.1
+140,ORD-2024-00140,2024-08-14,2024-08-15,First Class,CU7701,Rahul Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-75677,Technology,Laptops,Laptop,421285.59,7,0.0,92419.26
+141,ORD-2025-00141,2025-06-30,2025-07-03,Second Class,CU8880,Anjali Shah,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-58454,Furniture,Furnishings,Wall Clock,73609.15,10,0.3,10714.12
+142,ORD-2025-00142,2025-09-27,2025-09-28,Standard Class,CU2762,Nisha Gupta,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-81363,Office Supplies,Binders,File Binder,1630.03,5,0.2,93.18
+143,ORD-2025-00143,2025-05-28,2025-05-29,Standard Class,CU2492,Simran Patil,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-59812,Office Supplies,Storage,Document Storage,15420.96,7,0.2,-642.03
+144,ORD-2025-00144,2025-11-14,2025-11-15,Standard Class,CU7581,Arjun Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-74046,Furniture,Chairs,Office Chair,83270.11,4,0.1,5475.62
+145,ORD-2025-00145,2025-08-27,2025-09-01,Same Day,CU1193,Priya Singh,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-21190,Technology,Phones,Smartphone,38162.15,3,0.15,5423.9
+146,ORD-2024-00146,2024-09-18,2024-09-19,Standard Class,CU6410,Pooja Yadav,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-73315,Technology,Laptops,Business Laptop,699731.28,8,0.1,37836.95
+147,ORD-2024-00147,2024-02-18,2024-02-19,Second Class,CU6463,Akash Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-80448,Furniture,Furnishings,Desk Lamp,112441.93,10,0.2,-12970.41
+148,ORD-2025-00148,2025-07-24,2025-07-25,Standard Class,CU7132,Riya Verma,Corporate,India,Patna,Bihar,800001,East,PR-FU-82124,Technology,Accessories,Mouse,76353.32,3,0.1,2611.54
+149,ORD-2024-00149,2024-04-12,2024-04-16,Standard Class,CU1989,Rahul Joshi,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-34995,Office Supplies,Paper,Notebook,21410.18,7,0.3,1532.43
+150,ORD-2025-00150,2025-02-15,2025-02-19,Second Class,CU5658,Anjali Yadav,Home Office,India,Mumbai,Maharashtra,400001,West,PR-TE-74200,Furniture,Tables,Dining Table,151920.27,9,0.05,15709.78
+151,ORD-2024-00151,2024-03-24,2024-03-27,Second Class,CU6476,Manish Nair,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-47437,Office Supplies,Binders,Document Folder,12365.6,8,0.05,839.38
+152,ORD-2024-00152,2024-10-05,2024-10-06,First Class,CU2823,Riya Patil,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-94162,Office Supplies,Binders,Document Folder,3201.87,2,0.15,457.44
+153,ORD-2024-00153,2024-03-03,2024-03-06,Standard Class,CU6906,Amit Nair,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-50379,Technology,Laptops,Laptop,314536.89,8,0.05,63294.89
+154,ORD-2025-00154,2025-04-23,2025-04-26,Same Day,CU7980,Deepak More,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-52359,Furniture,Furnishings,Desk Lamp,168977.78,8,0.05,-9760.91
+155,ORD-2025-00155,2025-07-10,2025-07-14,Standard Class,CU3172,Rohit Rao,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-81849,Furniture,Tables,Dining Table,10721.26,10,0.1,-102.38
+156,ORD-2025-00156,2025-10-07,2025-10-11,First Class,CU9556,Deepak More,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-96836,Office Supplies,Paper,Copy Paper,11011.59,4,0.0,-320.79
+157,ORD-2025-00157,2025-07-07,2025-07-09,First Class,CU7652,Priya More,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-95090,Furniture,Chairs,Executive Chair,104259.34,5,0.15,7807.45
+158,ORD-2025-00158,2025-10-25,2025-10-27,Standard Class,CU2708,Karan Singh,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-29595,Furniture,Chairs,Office Chair,13804.1,1,0.2,2348.35
+159,ORD-2025-00159,2025-05-01,2025-05-05,Standard Class,CU8166,Nisha Singh,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-82805,Office Supplies,Paper,Printer Paper,26132.22,10,0.15,-2262.74
+160,ORD-2025-00160,2025-02-10,2025-02-13,Standard Class,CU5258,Vikas More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-58456,Technology,Phones,Android Phone,202337.85,5,0.3,8126.74
+161,ORD-2024-00161,2024-12-02,2024-12-03,Second Class,CU5117,Kavita Patil,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-15845,Office Supplies,Storage,Document Storage,19021.82,6,0.1,3817.8
+162,ORD-2024-00162,2024-11-15,2024-11-20,Second Class,CU2088,Vikas Yadav,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-19764,Technology,Accessories,USB Cable,808254.51,9,0.3,95693.19
+163,ORD-2025-00163,2025-10-09,2025-10-14,First Class,CU4655,Karan Shah,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-51869,Office Supplies,Storage,File Cabinet,27746.33,8,0.0,-1995.39
+164,ORD-2024-00164,2024-10-16,2024-10-21,Standard Class,CU3555,Manish Verma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-78487,Technology,Laptops,Laptop,447514.88,7,0.05,-30628.99
+165,ORD-2025-00165,2025-07-20,2025-07-23,First Class,CU8190,Deepak Kumar,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-90905,Technology,Phones,Android Phone,88129.32,1,0.0,3355.85
+166,ORD-2025-00166,2025-10-21,2025-10-23,Standard Class,CU5945,Simran Patil,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-58766,Office Supplies,Paper,Notebook,23395.18,6,0.3,-1530.86
+167,ORD-2025-00167,2025-08-13,2025-08-14,Standard Class,CU6951,Riya Gupta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-51627,Technology,Laptops,Business Laptop,317464.32,6,0.3,-13548.63
+168,ORD-2025-00168,2025-10-20,2025-10-21,First Class,CU9662,Deepak Rao,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-72368,Furniture,Furnishings,Wall Clock,32545.26,3,0.2,3020.08
+169,ORD-2024-00169,2024-06-23,2024-06-28,Standard Class,CU6842,Nisha Shah,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-FU-55968,Office Supplies,Paper,Copy Paper,37804.11,8,0.15,-1086.51
+170,ORD-2025-00170,2025-06-23,2025-06-24,Standard Class,CU5424,Sneha Nair,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-44773,Technology,Laptops,Business Laptop,232341.44,3,0.15,15028.52
+171,ORD-2024-00171,2024-06-21,2024-06-26,First Class,CU1234,Amit Joshi,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-83016,Technology,Accessories,USB Cable,116780.2,2,0.1,15223.27
+172,ORD-2025-00172,2025-07-18,2025-07-22,Standard Class,CU3064,Arjun Singh,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-64131,Office Supplies,Paper,Copy Paper,12761.09,6,0.05,895.13
+173,ORD-2025-00173,2025-01-12,2025-01-16,Second Class,CU5063,Akash Patil,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-39336,Office Supplies,Storage,Document Storage,183.04,1,0.15,25.01
+174,ORD-2025-00174,2025-09-29,2025-10-03,Standard Class,CU9835,Manish Singh,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-12204,Technology,Accessories,USB Cable,224546.75,3,0.0,3610.17
+175,ORD-2024-00175,2024-03-19,2024-03-23,Second Class,CU6690,Akash Sharma,Home Office,India,Patna,Bihar,800001,East,PR-TE-17659,Office Supplies,Binders,Ring Binder,22809.48,7,0.2,1259.7
+176,ORD-2024-00176,2024-01-25,2024-01-27,Standard Class,CU4313,Akash Yadav,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-26241,Furniture,Chairs,Dining Chair,23711.18,1,0.0,2319.15
+177,ORD-2025-00177,2025-04-03,2025-04-04,Second Class,CU2932,Simran Rao,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-77293,Furniture,Tables,Dining Table,240766.0,10,0.2,29152.41
+178,ORD-2025-00178,2025-06-03,2025-06-07,Second Class,CU8866,Kavita Verma,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-86221,Furniture,Bookcases,Wooden Bookcase,20201.06,2,0.1,2122.28
+179,ORD-2025-00179,2025-08-23,2025-08-25,Second Class,CU9436,Deepak Jain,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-60081,Furniture,Tables,Computer Table,1695.31,2,0.05,41.81
+180,ORD-2024-00180,2024-01-08,2024-01-12,Second Class,CU4583,Rohit Desai,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-29710,Technology,Phones,Android Phone,181606.86,4,0.05,-16256.96
+181,ORD-2024-00181,2024-11-17,2024-11-20,Standard Class,CU3176,Rahul Shah,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-63574,Technology,Phones,Smartphone,34640.2,3,0.15,477.55
+182,ORD-2025-00182,2025-09-20,2025-09-23,Standard Class,CU9345,Amit Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-40099,Office Supplies,Storage,File Cabinet,2911.82,1,0.05,130.01
+183,ORD-2025-00183,2025-12-15,2025-12-16,Standard Class,CU7242,Sachin Mehta,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-TE-76668,Furniture,Chairs,Office Chair,102893.84,6,0.05,14901.37
+184,ORD-2024-00184,2024-11-22,2024-11-24,First Class,CU5570,Sachin Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-92190,Technology,Laptops,Gaming Laptop,192165.3,10,0.15,-10775.7
+185,ORD-2025-00185,2025-01-01,2025-01-04,Second Class,CU1580,Nisha Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-47044,Furniture,Furnishings,Wall Clock,165658.42,8,0.05,-12841.33
+186,ORD-2025-00186,2025-11-30,2025-12-05,Second Class,CU5082,Riya Singh,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-55475,Office Supplies,Storage,Document Storage,643.33,6,0.2,71.21
+187,ORD-2024-00187,2024-12-08,2024-12-10,Standard Class,CU6141,Kavita Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-12708,Office Supplies,Paper,Copy Paper,14993.3,3,0.3,-316.39
+188,ORD-2024-00188,2024-07-20,2024-07-23,Standard Class,CU3800,Rohit Singh,Home Office,India,Pune,Maharashtra,411001,West,PR-FU-52712,Office Supplies,Paper,Copy Paper,15531.44,10,0.3,1254.32
+189,ORD-2024-00189,2024-03-28,2024-03-30,Standard Class,CU1680,Rahul Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-94040,Furniture,Bookcases,Wooden Bookcase,20938.48,6,0.0,706.03
+190,ORD-2024-00190,2024-11-03,2024-11-08,First Class,CU9560,Sneha Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-34618,Furniture,Chairs,Dining Chair,57005.26,7,0.0,2724.18
+191,ORD-2024-00191,2024-09-26,2024-09-28,Second Class,CU1999,Kavita Singh,Home Office,India,Patna,Bihar,800001,East,PR-FU-77391,Furniture,Bookcases,Wooden Bookcase,41662.63,3,0.3,482.56
+192,ORD-2025-00192,2025-08-14,2025-08-17,Second Class,CU8951,Priya Patil,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-96610,Office Supplies,Storage,Document Storage,2654.59,2,0.3,135.94
+193,ORD-2024-00193,2024-05-03,2024-05-04,Standard Class,CU1887,Rohit Singh,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-95024,Furniture,Chairs,Dining Chair,52927.79,5,0.1,9777.61
+194,ORD-2024-00194,2024-01-19,2024-01-24,Standard Class,CU6911,Nisha More,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-90702,Furniture,Bookcases,Office Bookcase,19729.11,1,0.2,2519.97
+195,ORD-2024-00195,2024-08-05,2024-08-10,Standard Class,CU8162,Deepak Desai,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-55833,Furniture,Tables,Computer Table,51941.12,5,0.15,1142.73
+196,ORD-2025-00196,2025-05-28,2025-06-01,Standard Class,CU4554,Riya Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-26193,Office Supplies,Binders,File Binder,10897.07,7,0.1,-813.12
+197,ORD-2024-00197,2024-05-13,2024-05-16,Second Class,CU5757,Anjali Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-11813,Technology,Laptops,Laptop,312330.05,4,0.1,-21879.06
+198,ORD-2024-00198,2024-10-10,2024-10-11,Standard Class,CU5937,Neha Singh,Home Office,India,Mumbai,Maharashtra,400001,West,PR-TE-94021,Technology,Accessories,Keyboard,185607.44,9,0.15,15997.91
+199,ORD-2024-00199,2024-12-06,2024-12-07,Second Class,CU9560,Nisha More,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-11134,Technology,Phones,Android Phone,555829.6,10,0.1,-13969.51
+200,ORD-2025-00200,2025-07-28,2025-07-29,First Class,CU2526,Meena Yadav,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-76897,Furniture,Bookcases,Office Bookcase,23488.09,2,0.1,2749.23
+201,ORD-2025-00201,2025-03-18,2025-03-23,Standard Class,CU9024,Neha Jain,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-95947,Furniture,Tables,Computer Table,13275.5,1,0.1,2639.87
+202,ORD-2025-00202,2025-10-10,2025-10-12,Standard Class,CU8697,Karan Mehta,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-91982,Office Supplies,Binders,Ring Binder,25472.16,10,0.1,1822.75
+203,ORD-2024-00203,2024-07-03,2024-07-08,First Class,CU6103,Amit Singh,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-45529,Technology,Accessories,Keyboard,156074.34,6,0.15,-17746.82
+204,ORD-2025-00204,2025-09-12,2025-09-16,First Class,CU7296,Nisha Verma,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-12591,Furniture,Chairs,Office Chair,26495.78,4,0.15,7.22
+205,ORD-2025-00205,2025-09-13,2025-09-15,Standard Class,CU1086,Akash Singh,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-26322,Technology,Accessories,USB Cable,35953.04,1,0.0,3093.17
+206,ORD-2025-00206,2025-04-01,2025-04-06,Standard Class,CU5757,Meena Yadav,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-74925,Technology,Laptops,Gaming Laptop,8241.1,7,0.2,920.47
+207,ORD-2025-00207,2025-05-13,2025-05-15,Standard Class,CU4453,Sachin Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-18328,Technology,Accessories,USB Cable,57358.44,2,0.0,24.71
+208,ORD-2024-00208,2024-01-19,2024-01-22,Standard Class,CU5927,Manish Sharma,Home Office,India,Hyderabad,Telangana,500001,South,PR-FU-86700,Technology,Laptops,Laptop,156953.8,2,0.05,13062.69
+209,ORD-2024-00209,2024-01-17,2024-01-22,Second Class,CU4700,Priya Nair,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-OS-20655,Office Supplies,Storage,Document Storage,30955.49,10,0.0,6281.24
+210,ORD-2025-00210,2025-10-29,2025-10-30,Standard Class,CU6057,Sachin Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-14994,Office Supplies,Paper,Copy Paper,23871.81,6,0.0,1645.41
+211,ORD-2024-00211,2024-02-26,2024-02-28,First Class,CU5177,Deepak More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-16476,Furniture,Tables,Computer Table,29713.32,6,0.15,1858.36
+212,ORD-2024-00212,2024-08-08,2024-08-11,Standard Class,CU7239,Nisha Jain,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-74925,Technology,Accessories,Headphones,42693.1,6,0.3,-76.9
+213,ORD-2025-00213,2025-07-14,2025-07-15,Second Class,CU6330,Nisha Sharma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-96598,Office Supplies,Storage,Storage Box,15134.24,4,0.0,2799.69
+214,ORD-2025-00214,2025-03-17,2025-03-18,Standard Class,CU1053,Manish Jain,Consumer,India,Patna,Bihar,800001,East,PR-OS-48712,Technology,Phones,Business Phone,229131.31,4,0.05,14640.12
+215,ORD-2025-00215,2025-08-28,2025-09-01,Second Class,CU5334,Deepak Yadav,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-61877,Technology,Accessories,USB Cable,35069.09,1,0.05,4388.5
+216,ORD-2025-00216,2025-11-15,2025-11-19,Standard Class,CU4940,Neha Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-25899,Office Supplies,Paper,Notebook,16504.3,4,0.3,-44.52
+217,ORD-2025-00217,2025-06-17,2025-06-22,Second Class,CU9092,Pooja Nair,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-22391,Office Supplies,Storage,Storage Box,35998.43,8,0.3,4970.63
+218,ORD-2024-00218,2024-09-20,2024-09-23,Same Day,CU7396,Manish Jain,Home Office,India,Mumbai,Maharashtra,400001,West,PR-FU-73344,Technology,Laptops,Gaming Laptop,270353.47,4,0.15,44783.42
+219,ORD-2025-00219,2025-05-13,2025-05-16,Standard Class,CU5804,Priya Shah,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-86312,Furniture,Tables,Dining Table,142407.07,8,0.05,10871.33
+220,ORD-2024-00220,2024-01-19,2024-01-22,First Class,CU6780,Rohit Shah,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-24211,Office Supplies,Storage,Storage Box,7681.12,4,0.1,761.31
+221,ORD-2025-00221,2025-11-08,2025-11-09,Second Class,CU3505,Akash Singh,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-85602,Technology,Laptops,Business Laptop,364255.93,8,0.1,45551.96
+222,ORD-2024-00222,2024-07-11,2024-07-15,Second Class,CU5627,Pooja Singh,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-78226,Technology,Accessories,Keyboard,6443.99,2,0.15,207.37
+223,ORD-2024-00223,2024-01-13,2024-01-18,Second Class,CU8129,Pooja More,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-31119,Technology,Laptops,Business Laptop,215051.1,4,0.3,-29643.4
+224,ORD-2025-00224,2025-06-02,2025-06-07,Standard Class,CU4805,Pooja Nair,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-65571,Furniture,Chairs,Dining Chair,199458.63,8,0.0,25025.69
+225,ORD-2024-00225,2024-09-24,2024-09-25,Standard Class,CU3775,Nisha Patil,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-55619,Office Supplies,Binders,Ring Binder,3398.66,3,0.3,-269.55
+226,ORD-2025-00226,2025-09-29,2025-09-30,Standard Class,CU8587,Vikas Desai,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-92956,Furniture,Furnishings,Table Lamp,67945.77,8,0.1,-4226.63
+227,ORD-2024-00227,2024-03-26,2024-03-30,Second Class,CU2289,Rohit Singh,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-69287,Technology,Accessories,USB Cable,223322.69,8,0.3,24622.58
+228,ORD-2025-00228,2025-03-21,2025-03-22,Standard Class,CU6067,Meena Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-97438,Technology,Accessories,Mouse,300411.52,9,0.05,6618.24
+229,ORD-2025-00229,2025-05-17,2025-05-22,Standard Class,CU1226,Vikas Gupta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-21151,Office Supplies,Binders,Document Folder,14209.68,5,0.05,1907.26
+230,ORD-2024-00230,2024-12-10,2024-12-15,Standard Class,CU4262,Manish Jain,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-91972,Office Supplies,Binders,Document Folder,11035.36,9,0.15,715.96
+231,ORD-2024-00231,2024-08-24,2024-08-26,Standard Class,CU6918,Riya Sharma,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-22100,Technology,Laptops,Gaming Laptop,274678.35,8,0.3,-9273.43
+232,ORD-2024-00232,2024-10-13,2024-10-18,Standard Class,CU3979,Deepak Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-79504,Technology,Accessories,Mouse,217700.2,4,0.2,-1250.69
+233,ORD-2024-00233,2024-02-27,2024-02-29,Second Class,CU1721,Rahul Singh,Home Office,India,Patna,Bihar,800001,East,PR-OS-84640,Furniture,Furnishings,Table Lamp,149537.23,10,0.1,18964.48
+234,ORD-2025-00234,2025-05-12,2025-05-17,First Class,CU5512,Nisha Yadav,Home Office,India,Pune,Maharashtra,411001,West,PR-FU-41027,Furniture,Chairs,Executive Chair,65046.14,5,0.0,5740.44
+235,ORD-2024-00235,2024-02-13,2024-02-16,Standard Class,CU4303,Amit Jain,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-26061,Furniture,Furnishings,Table Lamp,3234.03,1,0.2,-235.26
+236,ORD-2024-00236,2024-09-29,2024-09-30,Standard Class,CU5322,Pooja Gupta,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-33383,Office Supplies,Paper,Notebook,30177.5,8,0.3,-384.25
+237,ORD-2024-00237,2024-03-03,2024-03-06,Second Class,CU3105,Deepak Jain,Consumer,India,Patna,Bihar,800001,East,PR-FU-10307,Furniture,Chairs,Executive Chair,23230.61,3,0.3,280.83
+238,ORD-2024-00238,2024-08-15,2024-08-19,Standard Class,CU5567,Riya Verma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-58003,Furniture,Bookcases,Office Bookcase,170508.71,8,0.1,12537.67
+239,ORD-2025-00239,2025-01-01,2025-01-05,Second Class,CU9002,Pooja Rao,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-97234,Technology,Phones,Smartphone,85830.92,2,0.1,12264.25
+240,ORD-2024-00240,2024-09-27,2024-09-30,First Class,CU4672,Amit Singh,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-14765,Office Supplies,Binders,Document Folder,3276.01,2,0.05,444.06
+241,ORD-2025-00241,2025-03-08,2025-03-12,Second Class,CU3672,Rohit Singh,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-66683,Furniture,Chairs,Office Chair,68851.01,4,0.3,6002.53
+242,ORD-2025-00242,2025-06-13,2025-06-18,Same Day,CU2716,Rohit Rao,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-30922,Technology,Accessories,USB Cable,254690.0,3,0.05,-2215.94
+243,ORD-2025-00243,2025-08-07,2025-08-10,Standard Class,CU4806,Akash Kumar,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-98020,Office Supplies,Storage,File Cabinet,19951.07,7,0.05,-224.24
+244,ORD-2025-00244,2025-06-26,2025-06-30,Standard Class,CU5117,Arjun Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-53618,Office Supplies,Storage,File Cabinet,23443.16,8,0.2,-268.68
+245,ORD-2025-00245,2025-11-17,2025-11-18,Standard Class,CU4580,Pooja More,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-59420,Technology,Phones,Smartphone,493484.57,6,0.0,-9730.58
+246,ORD-2025-00246,2025-11-05,2025-11-09,First Class,CU7928,Meena Patil,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-14621,Office Supplies,Binders,Ring Binder,11394.81,7,0.0,27.63
+247,ORD-2025-00247,2025-07-09,2025-07-12,Second Class,CU2073,Deepak Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-47663,Furniture,Bookcases,Office Bookcase,41514.36,4,0.1,4022.92
+248,ORD-2024-00248,2024-05-07,2024-05-12,First Class,CU4558,Arjun Jain,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-60113,Technology,Laptops,Laptop,642002.14,10,0.15,-8128.23
+249,ORD-2025-00249,2025-01-05,2025-01-07,First Class,CU9644,Manish Kumar,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-67221,Furniture,Tables,Computer Table,9328.7,6,0.05,503.64
+250,ORD-2025-00250,2025-09-11,2025-09-15,Same Day,CU4722,Priya Rao,Consumer,India,Patna,Bihar,800001,East,PR-OS-50031,Technology,Laptops,Business Laptop,227629.42,8,0.05,3373.4
+251,ORD-2025-00251,2025-02-19,2025-02-22,First Class,CU2814,Akash Gupta,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-60258,Furniture,Tables,Dining Table,249417.59,10,0.1,9284.49
+252,ORD-2024-00252,2024-09-12,2024-09-13,Standard Class,CU9307,Akash Gupta,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-85874,Furniture,Furnishings,Table Lamp,202501.2,9,0.05,-12032.41
+253,ORD-2024-00253,2024-08-01,2024-08-06,First Class,CU2012,Sachin Patil,Corporate,India,Patna,Bihar,800001,East,PR-OS-11881,Furniture,Furnishings,Wall Clock,2760.58,2,0.15,58.25
+254,ORD-2025-00254,2025-05-05,2025-05-07,First Class,CU2827,Deepak Verma,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-35095,Office Supplies,Binders,File Binder,16891.44,8,0.3,-1707.71
+255,ORD-2025-00255,2025-09-21,2025-09-26,Second Class,CU6555,Arjun Yadav,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-22748,Furniture,Furnishings,Wall Clock,218305.3,10,0.2,6516.21
+256,ORD-2024-00256,2024-01-27,2024-01-31,Standard Class,CU2909,Manish Jain,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-45349,Office Supplies,Storage,File Cabinet,12122.17,6,0.05,1667.57
+257,ORD-2025-00257,2025-07-03,2025-07-07,Standard Class,CU6929,Riya Patil,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-63865,Furniture,Furnishings,Wall Clock,8659.53,2,0.2,792.51
+258,ORD-2025-00258,2025-05-04,2025-05-07,Standard Class,CU1244,Kavita Yadav,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-13178,Technology,Accessories,Headphones,203666.66,5,0.05,25880.03
+259,ORD-2024-00259,2024-12-06,2024-12-10,Second Class,CU7553,Vikas Patil,Corporate,India,Patna,Bihar,800001,East,PR-OS-51777,Furniture,Tables,Dining Table,12559.69,1,0.0,2231.9
+260,ORD-2024-00260,2024-01-12,2024-01-15,Second Class,CU1297,Anjali Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-43783,Office Supplies,Binders,File Binder,1452.02,1,0.05,233.97
+261,ORD-2025-00261,2025-02-24,2025-03-01,Standard Class,CU4809,Akash Rao,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-96593,Furniture,Tables,Dining Table,44951.25,9,0.05,-2283.19
+262,ORD-2025-00262,2025-02-11,2025-02-14,First Class,CU4981,Rohit Patil,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-15247,Office Supplies,Binders,File Binder,9387.46,5,0.15,590.56
+263,ORD-2025-00263,2025-03-29,2025-04-02,Standard Class,CU6060,Manish Jain,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-70519,Office Supplies,Storage,Storage Box,12443.92,4,0.0,1391.16
+264,ORD-2025-00264,2025-12-18,2025-12-22,Second Class,CU4866,Rahul Mehta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-66063,Office Supplies,Binders,Ring Binder,29221.08,7,0.3,4326.8
+265,ORD-2024-00265,2024-09-01,2024-09-04,Standard Class,CU5932,Rahul More,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-25960,Technology,Laptops,Business Laptop,359459.1,7,0.2,-36640.17
+266,ORD-2025-00266,2025-08-30,2025-09-02,Second Class,CU6968,Arjun Sharma,Corporate,India,Patna,Bihar,800001,East,PR-TE-17493,Office Supplies,Storage,Storage Box,14236.14,6,0.05,186.62
+267,ORD-2025-00267,2025-11-03,2025-11-06,Standard Class,CU4512,Manish Desai,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-27883,Office Supplies,Paper,Copy Paper,3872.77,7,0.15,542.25
+268,ORD-2024-00268,2024-02-12,2024-02-15,Standard Class,CU7578,Kavita Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-22254,Furniture,Tables,Computer Table,23408.56,3,0.05,2870.53
+269,ORD-2024-00269,2024-02-11,2024-02-14,Standard Class,CU4957,Pooja Jain,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-75911,Technology,Accessories,USB Cable,354675.12,6,0.3,59379.87
+270,ORD-2024-00270,2024-11-19,2024-11-20,Standard Class,CU6599,Nisha Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-89878,Office Supplies,Storage,Document Storage,1893.59,5,0.2,232.82
+271,ORD-2025-00271,2025-03-13,2025-03-14,Standard Class,CU5443,Priya Yadav,Consumer,India,Patna,Bihar,800001,East,PR-FU-70354,Office Supplies,Binders,Document Folder,4283.48,9,0.05,-161.5
+272,ORD-2024-00272,2024-04-02,2024-04-07,Second Class,CU2192,Deepak Patil,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-93384,Office Supplies,Binders,File Binder,20436.22,5,0.3,3175.1
+273,ORD-2025-00273,2025-11-03,2025-11-04,Standard Class,CU1919,Pooja More,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-18947,Office Supplies,Paper,Notebook,11291.17,6,0.05,-677.06
+274,ORD-2025-00274,2025-01-11,2025-01-13,Second Class,CU8837,Sneha Yadav,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-TE-17370,Furniture,Bookcases,Wooden Bookcase,9900.31,4,0.2,629.52
+275,ORD-2025-00275,2025-06-13,2025-06-15,First Class,CU8933,Sachin Mehta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-50696,Furniture,Chairs,Office Chair,242880.36,10,0.05,-19237.53
+276,ORD-2025-00276,2025-06-07,2025-06-10,First Class,CU1421,Meena Shah,Consumer,India,Patna,Bihar,800001,East,PR-FU-59056,Office Supplies,Paper,Notebook,3255.39,1,0.1,67.43
+277,ORD-2025-00277,2025-06-06,2025-06-10,Standard Class,CU6798,Kavita Nair,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-52614,Furniture,Tables,Office Table,46762.17,8,0.3,-375.15
+278,ORD-2025-00278,2025-10-23,2025-10-28,Second Class,CU3395,Sachin Rao,Consumer,India,Patna,Bihar,800001,East,PR-FU-90846,Office Supplies,Paper,Notebook,22649.85,10,0.1,-1157.16
+279,ORD-2024-00279,2024-10-20,2024-10-25,Standard Class,CU4899,Priya Gupta,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-TE-66652,Office Supplies,Storage,File Cabinet,11244.5,4,0.15,610.0
+280,ORD-2025-00280,2025-09-05,2025-09-07,Second Class,CU2689,Riya Gupta,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-40063,Office Supplies,Paper,Copy Paper,1553.4,1,0.05,-104.12
+281,ORD-2024-00281,2024-06-19,2024-06-24,Standard Class,CU8235,Arjun Gupta,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-TE-72712,Furniture,Chairs,Dining Chair,1205.18,2,0.1,36.83
+282,ORD-2025-00282,2025-06-01,2025-06-06,First Class,CU2784,Manish Patil,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-79322,Furniture,Tables,Computer Table,29797.15,2,0.05,4929.6
+283,ORD-2025-00283,2025-06-21,2025-06-26,Standard Class,CU3938,Amit Shah,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-62349,Technology,Accessories,Headphones,504875.42,7,0.3,43513.81
+284,ORD-2025-00284,2025-09-01,2025-09-04,First Class,CU5086,Simran Verma,Home Office,India,Bangalore,Karnataka,560001,South,PR-TE-12841,Technology,Phones,Business Phone,91240.39,7,0.15,1202.58
+285,ORD-2024-00285,2024-03-05,2024-03-08,Second Class,CU5530,Sachin Nair,Corporate,India,Patna,Bihar,800001,East,PR-TE-31638,Technology,Accessories,USB Cable,37388.9,2,0.0,-219.89
+286,ORD-2025-00286,2025-10-07,2025-10-10,Standard Class,CU8080,Deepak Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-40232,Office Supplies,Paper,Notebook,11293.21,5,0.05,137.9
+287,ORD-2024-00287,2024-11-26,2024-11-27,First Class,CU8036,Deepak Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-60210,Furniture,Bookcases,Office Bookcase,9546.05,2,0.1,968.69
+288,ORD-2025-00288,2025-03-04,2025-03-05,Standard Class,CU2871,Amit Patil,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-91441,Office Supplies,Binders,Ring Binder,4059.43,3,0.1,12.38
+289,ORD-2024-00289,2024-01-21,2024-01-23,Second Class,CU1515,Akash Nair,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-76727,Technology,Accessories,Headphones,200455.26,10,0.05,7938.68
+290,ORD-2025-00290,2025-01-22,2025-01-23,Standard Class,CU6214,Manish Rao,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-10066,Technology,Phones,Android Phone,399231.73,5,0.15,-44413.74
+291,ORD-2025-00291,2025-06-04,2025-06-09,Same Day,CU1571,Rahul Singh,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-52598,Office Supplies,Binders,Ring Binder,15257.59,4,0.2,1843.14
+292,ORD-2024-00292,2024-05-30,2024-06-04,Standard Class,CU2129,Vikas Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-11605,Office Supplies,Storage,Document Storage,8946.4,9,0.05,2022.06
+293,ORD-2025-00293,2025-08-09,2025-08-13,Second Class,CU7326,Riya Kumar,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-66240,Furniture,Bookcases,Office Bookcase,16099.42,3,0.3,-528.44
+294,ORD-2025-00294,2025-06-25,2025-06-28,Second Class,CU2030,Manish More,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-91417,Furniture,Bookcases,Office Bookcase,52713.8,8,0.1,9694.66
+295,ORD-2024-00295,2024-08-02,2024-08-07,Second Class,CU1687,Sachin Rao,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-31045,Furniture,Tables,Dining Table,79981.56,10,0.1,-8262.41
+296,ORD-2024-00296,2024-11-23,2024-11-26,First Class,CU4829,Priya Jain,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-76151,Furniture,Tables,Dining Table,172695.57,7,0.0,23047.31
+297,ORD-2025-00297,2025-04-08,2025-04-12,First Class,CU7146,Priya Mehta,Corporate,India,Patna,Bihar,800001,East,PR-OS-18802,Furniture,Bookcases,Office Bookcase,25676.48,5,0.0,3066.37
+298,ORD-2024-00298,2024-09-09,2024-09-14,Second Class,CU8943,Meena Joshi,Home Office,India,Mumbai,Maharashtra,400001,West,PR-OS-63634,Furniture,Furnishings,Table Lamp,16008.75,2,0.05,367.12
+299,ORD-2025-00299,2025-05-02,2025-05-07,Standard Class,CU5487,Neha Yadav,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-24645,Technology,Phones,Business Phone,361972.57,9,0.2,13328.5
+300,ORD-2025-00300,2025-08-23,2025-08-28,Standard Class,CU1596,Rahul Joshi,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-58517,Technology,Phones,Business Phone,176215.48,3,0.2,3726.86
+301,ORD-2024-00301,2024-03-09,2024-03-13,First Class,CU3925,Rahul Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-36950,Furniture,Furnishings,Desk Lamp,29405.28,5,0.05,5468.8
+302,ORD-2024-00302,2024-08-03,2024-08-07,Standard Class,CU7001,Rahul Kumar,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-14567,Furniture,Bookcases,Wooden Bookcase,6245.24,1,0.15,-511.18
+303,ORD-2024-00303,2024-01-18,2024-01-23,Second Class,CU3118,Sneha Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-89465,Technology,Accessories,Keyboard,780771.75,10,0.0,138005.53
+304,ORD-2025-00304,2025-05-20,2025-05-21,Same Day,CU4199,Sachin Singh,Home Office,India,Delhi,Delhi,110001,Central,PR-OS-87733,Office Supplies,Binders,Document Folder,10385.28,5,0.05,-156.1
+305,ORD-2025-00305,2025-01-03,2025-01-06,Standard Class,CU3657,Akash Rao,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-23854,Technology,Accessories,USB Cable,236866.61,3,0.3,1818.14
+306,ORD-2024-00306,2024-05-01,2024-05-02,Standard Class,CU7996,Meena More,Home Office,India,Kolkata,West Bengal,700001,East,PR-FU-45525,Technology,Phones,Android Phone,209928.84,8,0.3,-31100.93
+307,ORD-2024-00307,2024-08-06,2024-08-11,Same Day,CU4398,Vikas Desai,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-49725,Furniture,Bookcases,Wooden Bookcase,78231.73,6,0.05,16235.96
+308,ORD-2024-00308,2024-01-16,2024-01-19,Standard Class,CU9081,Neha Shah,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-24380,Furniture,Chairs,Office Chair,100063.97,5,0.15,-6613.71
+309,ORD-2025-00309,2025-04-05,2025-04-09,Second Class,CU9092,Kavita Yadav,Corporate,India,Hyderabad,Telangana,500001,South,PR-TE-69470,Office Supplies,Paper,Notebook,5692.9,9,0.2,1103.37
+310,ORD-2025-00310,2025-08-31,2025-09-01,Second Class,CU3630,Vikas Rao,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-14321,Office Supplies,Storage,File Cabinet,3274.29,2,0.1,343.02
+311,ORD-2024-00311,2024-07-27,2024-07-28,Standard Class,CU5593,Deepak Yadav,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-67473,Office Supplies,Storage,File Cabinet,5628.78,3,0.15,869.19
+312,ORD-2024-00312,2024-01-13,2024-01-14,First Class,CU5704,Manish Verma,Consumer,India,Patna,Bihar,800001,East,PR-FU-14823,Technology,Accessories,Mouse,55273.34,1,0.1,1251.74
+313,ORD-2024-00313,2024-11-13,2024-11-14,Standard Class,CU3321,Manish Sharma,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-10495,Office Supplies,Paper,Printer Paper,35471.57,8,0.05,3203.71
+314,ORD-2025-00314,2025-06-12,2025-06-13,Second Class,CU1153,Sachin Rao,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-22379,Furniture,Furnishings,Wall Clock,7342.17,4,0.1,-246.17
+315,ORD-2024-00315,2024-05-10,2024-05-12,Standard Class,CU3349,Vikas Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-66117,Office Supplies,Paper,Copy Paper,1879.95,1,0.1,295.15
+316,ORD-2024-00316,2024-09-22,2024-09-24,Standard Class,CU6694,Manish Joshi,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-81091,Office Supplies,Binders,Document Folder,13773.28,9,0.3,1267.7
+317,ORD-2025-00317,2025-05-28,2025-06-01,Standard Class,CU2480,Rahul Rao,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-68446,Office Supplies,Paper,Copy Paper,8874.42,8,0.3,-1372.77
+318,ORD-2024-00318,2024-10-30,2024-11-03,First Class,CU9429,Riya More,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-11996,Furniture,Bookcases,Office Bookcase,53013.63,3,0.15,-816.08
+319,ORD-2025-00319,2025-06-07,2025-06-11,Second Class,CU1142,Rohit Jain,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-22665,Technology,Accessories,USB Cable,548791.75,7,0.1,83056.06
+320,ORD-2024-00320,2024-01-09,2024-01-12,Standard Class,CU4723,Simran Rao,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-10363,Furniture,Chairs,Office Chair,159805.94,9,0.1,-628.29
+321,ORD-2025-00321,2025-06-05,2025-06-07,Second Class,CU3244,Sneha Patil,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-78619,Furniture,Tables,Dining Table,42984.62,3,0.0,1947.78
+322,ORD-2025-00322,2025-01-26,2025-01-31,Second Class,CU7947,Nisha Verma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-20492,Technology,Phones,Android Phone,276888.46,9,0.05,-7560.87
+323,ORD-2025-00323,2025-10-22,2025-10-26,Second Class,CU9569,Riya Rao,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-93600,Furniture,Furnishings,Table Lamp,59732.1,7,0.0,4579.89
+324,ORD-2025-00324,2025-07-16,2025-07-18,Standard Class,CU6935,Nisha Desai,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-61482,Office Supplies,Binders,Ring Binder,35430.31,9,0.3,3279.1
+325,ORD-2025-00325,2025-06-27,2025-06-29,Standard Class,CU7401,Amit Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-41406,Technology,Accessories,Mouse,315689.4,9,0.15,19945.54
+326,ORD-2025-00326,2025-03-10,2025-03-12,First Class,CU5620,Amit Nair,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-91731,Office Supplies,Binders,Ring Binder,21779.65,5,0.05,2043.61
+327,ORD-2024-00327,2024-10-01,2024-10-03,Second Class,CU6378,Manish Shah,Consumer,India,Patna,Bihar,800001,East,PR-TE-78199,Furniture,Furnishings,Desk Lamp,15019.96,8,0.05,1635.97
+328,ORD-2025-00328,2025-08-10,2025-08-12,Standard Class,CU4044,Akash Nair,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-15636,Technology,Laptops,Business Laptop,158907.19,5,0.05,24430.28
+329,ORD-2024-00329,2024-06-17,2024-06-22,Same Day,CU7154,Amit Joshi,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-96436,Office Supplies,Storage,Document Storage,8014.56,8,0.15,1058.95
+330,ORD-2024-00330,2024-08-24,2024-08-29,Standard Class,CU8688,Amit Desai,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-29187,Office Supplies,Paper,Notebook,7889.81,4,0.2,-239.87
+331,ORD-2024-00331,2024-07-15,2024-07-17,Second Class,CU4172,Akash Verma,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-56762,Office Supplies,Binders,Ring Binder,31796.61,10,0.3,-2670.87
+332,ORD-2024-00332,2024-08-08,2024-08-11,Standard Class,CU1572,Rohit Shah,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-15629,Furniture,Furnishings,Wall Clock,6605.27,4,0.05,-90.0
+333,ORD-2024-00333,2024-04-14,2024-04-18,First Class,CU5951,Deepak Jain,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-38333,Furniture,Tables,Dining Table,61444.73,10,0.15,6238.8
+334,ORD-2025-00334,2025-07-14,2025-07-18,Standard Class,CU3607,Arjun Verma,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-87527,Furniture,Furnishings,Table Lamp,163677.22,7,0.05,12295.93
+335,ORD-2025-00335,2025-11-27,2025-12-02,Second Class,CU2334,Deepak Desai,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-93767,Office Supplies,Binders,File Binder,17314.01,4,0.1,927.77
+336,ORD-2025-00336,2025-11-28,2025-12-03,Standard Class,CU9210,Sneha Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-99387,Furniture,Furnishings,Desk Lamp,60002.34,5,0.0,-985.05
+337,ORD-2025-00337,2025-08-02,2025-08-05,Standard Class,CU7747,Sachin Mehta,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-78685,Office Supplies,Storage,File Cabinet,23557.41,10,0.0,3632.35
+338,ORD-2024-00338,2024-05-24,2024-05-29,Same Day,CU7364,Amit Yadav,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-95936,Furniture,Bookcases,Office Bookcase,93583.69,8,0.3,-11048.64
+339,ORD-2024-00339,2024-04-04,2024-04-05,Second Class,CU6724,Meena Nair,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-11407,Office Supplies,Storage,Storage Box,11724.82,8,0.3,1892.71
+340,ORD-2025-00340,2025-03-01,2025-03-06,Second Class,CU6490,Kavita Kumar,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-91494,Furniture,Bookcases,Wooden Bookcase,41042.48,6,0.2,-1228.71
+341,ORD-2024-00341,2024-10-01,2024-10-04,Standard Class,CU6585,Sneha Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-18949,Furniture,Bookcases,Office Bookcase,136697.34,10,0.1,5943.79
+342,ORD-2025-00342,2025-07-01,2025-07-06,Standard Class,CU9720,Sachin Desai,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-97318,Office Supplies,Paper,Printer Paper,14021.41,4,0.2,560.93
+343,ORD-2024-00343,2024-09-08,2024-09-09,Standard Class,CU2850,Arjun Jain,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-78475,Technology,Accessories,Mouse,66623.34,3,0.2,2430.82
+344,ORD-2024-00344,2024-01-27,2024-01-31,Standard Class,CU7654,Neha Jain,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-41213,Office Supplies,Paper,Copy Paper,6667.94,2,0.15,71.97
+345,ORD-2025-00345,2025-08-16,2025-08-21,Standard Class,CU6470,Vikas Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-48507,Office Supplies,Paper,Printer Paper,24759.52,6,0.15,-1773.78
+346,ORD-2025-00346,2025-10-19,2025-10-21,Standard Class,CU4557,Rahul Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-88137,Technology,Laptops,Laptop,306580.95,4,0.3,2665.45
+347,ORD-2024-00347,2024-03-18,2024-03-20,Standard Class,CU6495,Vikas More,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-21267,Technology,Accessories,Headphones,44803.42,6,0.3,-1801.93
+348,ORD-2024-00348,2024-02-21,2024-02-24,Standard Class,CU1687,Rohit Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-90674,Office Supplies,Paper,Notebook,14333.6,3,0.2,1921.35
+349,ORD-2024-00349,2024-10-22,2024-10-27,Standard Class,CU9257,Manish Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-53481,Office Supplies,Paper,Notebook,19287.58,6,0.0,4776.98
+350,ORD-2024-00350,2024-08-14,2024-08-18,Second Class,CU7183,Amit Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-13407,Office Supplies,Paper,Notebook,21612.09,7,0.2,3716.9
+351,ORD-2025-00351,2025-05-31,2025-06-02,Standard Class,CU7559,Neha Gupta,Consumer,India,Patna,Bihar,800001,East,PR-FU-78321,Furniture,Tables,Computer Table,45573.51,4,0.05,242.76
+352,ORD-2025-00352,2025-12-11,2025-12-12,First Class,CU9240,Pooja Mehta,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-95781,Office Supplies,Storage,File Cabinet,3950.6,6,0.3,227.12
+353,ORD-2024-00353,2024-06-14,2024-06-19,Standard Class,CU8777,Neha Shah,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-28316,Technology,Accessories,USB Cable,899154.05,10,0.05,-52545.22
+354,ORD-2025-00354,2025-01-09,2025-01-13,First Class,CU5566,Neha Mehta,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-46404,Furniture,Furnishings,Desk Lamp,17080.7,10,0.2,-754.7
+355,ORD-2024-00355,2024-12-16,2024-12-19,Second Class,CU2893,Karan Sharma,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-48090,Office Supplies,Binders,Ring Binder,39665.71,10,0.1,3726.78
+356,ORD-2024-00356,2024-04-11,2024-04-13,Standard Class,CU2074,Nisha Shah,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-30689,Office Supplies,Binders,Document Folder,3862.59,1,0.1,552.71
+357,ORD-2025-00357,2025-08-03,2025-08-04,Second Class,CU1969,Deepak Shah,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-81356,Technology,Laptops,Laptop,477533.26,10,0.05,109091.29
+358,ORD-2024-00358,2024-09-11,2024-09-15,First Class,CU9001,Karan Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-53162,Furniture,Tables,Dining Table,3922.46,1,0.2,762.57
+359,ORD-2024-00359,2024-12-23,2024-12-24,Second Class,CU1604,Pooja Rao,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-70686,Furniture,Chairs,Dining Chair,40376.1,6,0.2,4354.13
+360,ORD-2025-00360,2025-05-16,2025-05-20,Same Day,CU6192,Simran Mehta,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-20750,Furniture,Chairs,Executive Chair,147619.71,7,0.0,16092.64
+361,ORD-2025-00361,2025-06-24,2025-06-27,Second Class,CU3970,Akash Mehta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-91494,Technology,Accessories,Keyboard,161854.07,5,0.05,-8035.6
+362,ORD-2025-00362,2025-11-24,2025-11-29,Standard Class,CU5631,Nisha Kumar,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-22224,Technology,Laptops,Business Laptop,298872.77,5,0.05,38714.32
+363,ORD-2025-00363,2025-09-19,2025-09-24,Second Class,CU2559,Anjali Shah,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-76830,Furniture,Tables,Dining Table,125760.4,8,0.3,-18884.99
+364,ORD-2025-00364,2025-12-30,2026-01-02,Standard Class,CU4787,Vikas Shah,Home Office,India,Delhi,Delhi,110001,Central,PR-OS-21801,Technology,Accessories,Keyboard,272387.34,10,0.1,22149.46
+365,ORD-2024-00365,2024-01-02,2024-01-03,Standard Class,CU5534,Sneha Gupta,Corporate,India,Patna,Bihar,800001,East,PR-FU-68959,Furniture,Furnishings,Wall Clock,25802.92,5,0.15,-2426.96
+366,ORD-2025-00366,2025-10-01,2025-10-04,Second Class,CU3113,Akash Patil,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-56691,Technology,Phones,Smartphone,416060.47,5,0.15,-274.06
+367,ORD-2024-00367,2024-02-08,2024-02-13,Second Class,CU9032,Simran Jain,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-95945,Furniture,Chairs,Dining Chair,32721.58,3,0.0,-2543.86
+368,ORD-2025-00368,2025-05-28,2025-05-31,Standard Class,CU9553,Anjali Rao,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-79603,Office Supplies,Paper,Printer Paper,1934.71,4,0.15,138.78
+369,ORD-2025-00369,2025-11-27,2025-12-02,Standard Class,CU1719,Riya Kumar,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-36498,Office Supplies,Storage,File Cabinet,25368.73,8,0.05,-1123.53
+370,ORD-2024-00370,2024-11-15,2024-11-20,Same Day,CU8265,Rohit Verma,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-25733,Office Supplies,Storage,File Cabinet,30132.12,9,0.0,7189.47
+371,ORD-2024-00371,2024-08-21,2024-08-22,First Class,CU2560,Simran Joshi,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-27548,Furniture,Furnishings,Desk Lamp,29306.2,3,0.05,6780.18
+372,ORD-2025-00372,2025-04-15,2025-04-16,Standard Class,CU8329,Karan Nair,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-24621,Furniture,Chairs,Dining Chair,15988.85,2,0.05,1745.61
+373,ORD-2025-00373,2025-07-20,2025-07-23,Standard Class,CU8129,Karan Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-12147,Technology,Laptops,Laptop,481805.58,6,0.1,63084.94
+374,ORD-2024-00374,2024-10-04,2024-10-09,First Class,CU7862,Rohit Jain,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-66022,Technology,Phones,Business Phone,691338.95,8,0.05,133117.71
+375,ORD-2024-00375,2024-01-27,2024-01-30,Second Class,CU7875,Riya Verma,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-70356,Furniture,Bookcases,Office Bookcase,102113.96,9,0.0,19231.82
+376,ORD-2024-00376,2024-09-25,2024-09-29,First Class,CU1752,Kavita Sharma,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-71313,Technology,Phones,Android Phone,164287.56,2,0.05,12311.48
+377,ORD-2025-00377,2025-11-08,2025-11-10,Standard Class,CU4981,Vikas Desai,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-81218,Technology,Phones,Business Phone,82420.95,1,0.3,13125.3
+378,ORD-2025-00378,2025-08-23,2025-08-28,Second Class,CU8610,Neha Shah,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-25791,Technology,Phones,Android Phone,751194.89,9,0.15,15583.38
+379,ORD-2024-00379,2024-07-28,2024-07-29,Same Day,CU6249,Riya More,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-42463,Office Supplies,Storage,Document Storage,1114.7,9,0.3,-20.97
+380,ORD-2024-00380,2024-12-21,2024-12-24,First Class,CU4735,Sachin Patil,Consumer,India,Patna,Bihar,800001,East,PR-OS-69557,Office Supplies,Paper,Notebook,11363.73,6,0.15,-946.6
+381,ORD-2025-00381,2025-06-24,2025-06-27,Standard Class,CU5378,Amit Mehta,Corporate,India,Hyderabad,Telangana,500001,South,PR-TE-96394,Office Supplies,Paper,Copy Paper,15781.72,5,0.1,-959.08
+382,ORD-2024-00382,2024-12-21,2024-12-25,Standard Class,CU9802,Karan Mehta,Home Office,India,Mumbai,Maharashtra,400001,West,PR-OS-39680,Office Supplies,Binders,Document Folder,33909.56,7,0.15,-2329.88
+383,ORD-2025-00383,2025-02-26,2025-03-03,First Class,CU1940,Rohit Joshi,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-33806,Office Supplies,Storage,Document Storage,32676.75,7,0.0,4566.99
+384,ORD-2025-00384,2025-06-20,2025-06-22,Second Class,CU7475,Sachin Shah,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-12017,Office Supplies,Binders,Ring Binder,39372.6,9,0.1,3832.07
+385,ORD-2025-00385,2025-11-17,2025-11-20,Standard Class,CU6720,Anjali Kumar,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-24591,Office Supplies,Paper,Printer Paper,1377.31,1,0.05,7.54
+386,ORD-2024-00386,2024-06-20,2024-06-21,Second Class,CU5241,Meena Sharma,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-39187,Office Supplies,Binders,Ring Binder,3336.56,2,0.15,448.23
+387,ORD-2025-00387,2025-06-11,2025-06-14,Standard Class,CU6906,Simran More,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-17526,Office Supplies,Storage,Storage Box,2616.24,1,0.0,611.13
+388,ORD-2025-00388,2025-03-21,2025-03-22,Standard Class,CU5439,Sneha Rao,Consumer,India,Patna,Bihar,800001,East,PR-FU-25882,Technology,Phones,Smartphone,491057.41,6,0.0,46238.69
+389,ORD-2024-00389,2024-08-09,2024-08-10,Second Class,CU6402,Neha Verma,Consumer,India,Patna,Bihar,800001,East,PR-FU-38251,Technology,Laptops,Business Laptop,90778.95,3,0.0,-1737.18
+390,ORD-2024-00390,2024-04-12,2024-04-13,Second Class,CU4513,Anjali Sharma,Consumer,India,Patna,Bihar,800001,East,PR-FU-90373,Technology,Laptops,Laptop,37278.96,2,0.2,-509.43
+391,ORD-2025-00391,2025-09-19,2025-09-21,Second Class,CU4870,Karan Nair,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-54527,Office Supplies,Paper,Notebook,8721.57,8,0.15,-707.98
+392,ORD-2025-00392,2025-02-06,2025-02-10,Second Class,CU3971,Sachin Jain,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-18314,Furniture,Chairs,Executive Chair,9417.11,10,0.15,1793.52
+393,ORD-2024-00393,2024-09-30,2024-10-02,Standard Class,CU6330,Anjali Jain,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-56228,Technology,Phones,Android Phone,137929.43,3,0.2,-8696.71
+394,ORD-2024-00394,2024-05-30,2024-06-04,Standard Class,CU8262,Deepak Sharma,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-11541,Furniture,Tables,Office Table,129417.26,9,0.1,6055.94
+395,ORD-2025-00395,2025-09-03,2025-09-07,Second Class,CU8450,Sachin Verma,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-86631,Furniture,Bookcases,Wooden Bookcase,24267.86,1,0.3,2549.38
+396,ORD-2024-00396,2024-10-16,2024-10-19,Standard Class,CU4867,Anjali Shah,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-17373,Furniture,Chairs,Executive Chair,20491.17,9,0.1,4069.82
+397,ORD-2025-00397,2025-09-09,2025-09-14,Standard Class,CU4078,Rohit Patil,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-78519,Technology,Accessories,USB Cable,73268.73,5,0.0,3165.69
+398,ORD-2025-00398,2025-04-20,2025-04-25,First Class,CU7523,Nisha Shah,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-84599,Office Supplies,Binders,File Binder,8595.38,9,0.3,-258.1
+399,ORD-2025-00399,2025-12-01,2025-12-03,Standard Class,CU3166,Sachin Kumar,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-68703,Office Supplies,Paper,Notebook,7257.09,2,0.0,-374.29
+400,ORD-2024-00400,2024-11-19,2024-11-22,Standard Class,CU4845,Kavita Patil,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-33290,Technology,Phones,Android Phone,47251.97,1,0.05,2833.84
+401,ORD-2024-00401,2024-08-09,2024-08-11,Standard Class,CU6246,Neha Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-22178,Office Supplies,Paper,Copy Paper,31474.9,10,0.05,3391.16
+402,ORD-2025-00402,2025-05-14,2025-05-15,Standard Class,CU2777,Arjun Mehta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-17490,Furniture,Chairs,Executive Chair,20688.15,8,0.0,4929.21
+403,ORD-2024-00403,2024-05-31,2024-06-02,Standard Class,CU2918,Rahul Nair,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-13232,Office Supplies,Storage,Document Storage,7707.52,3,0.0,-582.23
+404,ORD-2024-00404,2024-01-09,2024-01-10,Standard Class,CU1968,Arjun Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-83960,Office Supplies,Paper,Printer Paper,12982.97,5,0.2,650.41
+405,ORD-2025-00405,2025-11-19,2025-11-20,Standard Class,CU3892,Riya Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-45670,Office Supplies,Binders,Document Folder,10653.63,5,0.05,1695.06
+406,ORD-2024-00406,2024-01-22,2024-01-27,Standard Class,CU6494,Pooja Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-66747,Technology,Phones,Android Phone,99707.83,7,0.15,2985.11
+407,ORD-2024-00407,2024-04-02,2024-04-04,Standard Class,CU5458,Kavita Rao,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-52372,Technology,Laptops,Laptop,40573.49,9,0.3,4792.19
+408,ORD-2025-00408,2025-01-05,2025-01-08,Standard Class,CU3384,Amit Yadav,Consumer,India,Patna,Bihar,800001,East,PR-TE-91099,Office Supplies,Storage,File Cabinet,22951.62,7,0.2,2524.65
+409,ORD-2024-00409,2024-05-15,2024-05-19,First Class,CU3908,Neha Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-95435,Technology,Accessories,Mouse,119539.78,2,0.15,-13115.27
+410,ORD-2025-00410,2025-08-07,2025-08-09,Standard Class,CU4727,Rohit Patil,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-40815,Office Supplies,Storage,File Cabinet,13851.44,10,0.15,365.72
+411,ORD-2025-00411,2025-02-18,2025-02-21,Standard Class,CU3835,Pooja Jain,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-14134,Office Supplies,Paper,Printer Paper,17533.71,4,0.2,1816.85
+412,ORD-2024-00412,2024-04-13,2024-04-14,Second Class,CU9101,Priya Jain,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-11067,Technology,Laptops,Gaming Laptop,454261.15,10,0.0,-26974.79
+413,ORD-2025-00413,2025-01-28,2025-01-31,Standard Class,CU1686,Akash Yadav,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-72435,Office Supplies,Paper,Notebook,2300.51,1,0.15,334.33
+414,ORD-2024-00414,2024-07-22,2024-07-27,Standard Class,CU5784,Karan Kumar,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-20635,Technology,Laptops,Laptop,33007.04,3,0.1,1897.66
+415,ORD-2024-00415,2024-05-08,2024-05-09,Second Class,CU9226,Karan Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-93683,Technology,Accessories,Keyboard,132332.17,7,0.05,8478.46
+416,ORD-2025-00416,2025-08-17,2025-08-19,Standard Class,CU1028,Arjun Gupta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-35596,Furniture,Furnishings,Desk Lamp,25915.47,2,0.1,3497.65
+417,ORD-2025-00417,2025-08-15,2025-08-20,Standard Class,CU1325,Vikas Shah,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-25210,Furniture,Furnishings,Desk Lamp,30993.97,5,0.05,-612.3
+418,ORD-2025-00418,2025-11-28,2025-11-29,Second Class,CU7592,Karan Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-53876,Office Supplies,Binders,Document Folder,11514.06,9,0.0,1904.3
+419,ORD-2025-00419,2025-04-10,2025-04-11,Standard Class,CU6780,Sneha Joshi,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-89332,Furniture,Chairs,Office Chair,150443.9,10,0.2,14026.76
+420,ORD-2025-00420,2025-11-09,2025-11-13,Standard Class,CU8233,Priya Gupta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-76133,Furniture,Furnishings,Desk Lamp,89083.44,5,0.3,-2916.4
+421,ORD-2025-00421,2025-07-11,2025-07-12,Standard Class,CU7605,Kavita Nair,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-75936,Furniture,Chairs,Dining Chair,71016.52,9,0.3,6545.57
+422,ORD-2025-00422,2025-03-23,2025-03-26,Standard Class,CU9325,Manish Mehta,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-53397,Technology,Laptops,Business Laptop,170660.03,6,0.15,22979.64
+423,ORD-2025-00423,2025-10-26,2025-10-31,Standard Class,CU4241,Neha Jain,Corporate,India,Hyderabad,Telangana,500001,South,PR-TE-26934,Furniture,Furnishings,Wall Clock,117584.0,6,0.3,-7134.09
+424,ORD-2024-00424,2024-05-20,2024-05-22,Standard Class,CU2079,Neha Shah,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-15322,Technology,Phones,Android Phone,287227.89,7,0.2,37932.58
+425,ORD-2024-00425,2024-05-17,2024-05-18,Standard Class,CU3653,Vikas Singh,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-73620,Technology,Accessories,Mouse,78347.57,2,0.15,4268.95
+426,ORD-2025-00426,2025-04-11,2025-04-13,Standard Class,CU6389,Amit Verma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-87514,Office Supplies,Storage,Storage Box,6757.62,8,0.15,-503.41
+427,ORD-2025-00427,2025-04-05,2025-04-10,Second Class,CU2308,Vikas Rao,Corporate,India,Bangalore,Karnataka,560001,South,PR-OS-65283,Office Supplies,Binders,File Binder,2633.33,1,0.0,249.53
+428,ORD-2025-00428,2025-12-16,2025-12-18,Standard Class,CU1109,Nisha Jain,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-98648,Office Supplies,Storage,Storage Box,23191.55,8,0.2,2689.79
+429,ORD-2024-00429,2024-06-16,2024-06-21,Standard Class,CU1783,Kavita Mehta,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-10370,Technology,Laptops,Business Laptop,147027.28,10,0.1,-3616.76
+430,ORD-2024-00430,2024-06-13,2024-06-18,Standard Class,CU2667,Karan Gupta,Home Office,India,Mumbai,Maharashtra,400001,West,PR-FU-87400,Technology,Laptops,Business Laptop,618728.07,8,0.2,-79596.24
+431,ORD-2025-00431,2025-12-06,2025-12-07,Second Class,CU6956,Priya Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-85257,Furniture,Furnishings,Table Lamp,167090.74,9,0.2,19500.67
+432,ORD-2024-00432,2024-03-11,2024-03-15,Same Day,CU4133,Rahul Gupta,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-60617,Furniture,Tables,Dining Table,15055.49,2,0.0,-389.32
+433,ORD-2025-00433,2025-06-03,2025-06-05,Standard Class,CU2129,Meena Rao,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-28385,Furniture,Furnishings,Wall Clock,66185.19,6,0.15,2126.36
+434,ORD-2024-00434,2024-07-06,2024-07-11,Standard Class,CU1539,Rohit Nair,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-48383,Office Supplies,Paper,Printer Paper,712.29,1,0.05,-40.84
+435,ORD-2025-00435,2025-10-12,2025-10-16,Standard Class,CU4091,Deepak Jain,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-82833,Technology,Phones,Android Phone,30699.67,1,0.0,5385.29
+436,ORD-2024-00436,2024-02-23,2024-02-25,Standard Class,CU1583,Rahul Rao,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-97948,Technology,Laptops,Gaming Laptop,869535.7,10,0.05,152311.79
+437,ORD-2024-00437,2024-11-25,2024-11-30,Standard Class,CU6234,Akash Yadav,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-98822,Technology,Laptops,Gaming Laptop,412063.45,5,0.1,-26791.83
+438,ORD-2025-00438,2025-12-08,2025-12-10,First Class,CU5663,Vikas Rao,Consumer,India,Patna,Bihar,800001,East,PR-TE-22818,Office Supplies,Paper,Notebook,1448.43,1,0.3,210.26
+439,ORD-2024-00439,2024-01-23,2024-01-28,Standard Class,CU4167,Akash Patil,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-65673,Furniture,Furnishings,Desk Lamp,7594.22,3,0.0,1537.49
+440,ORD-2024-00440,2024-11-25,2024-11-29,Standard Class,CU6393,Priya More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-45233,Office Supplies,Storage,Document Storage,15593.56,6,0.15,537.86
+441,ORD-2024-00441,2024-04-13,2024-04-15,Standard Class,CU6773,Sneha Sharma,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-61720,Technology,Laptops,Laptop,206680.39,3,0.15,13.7
+442,ORD-2025-00442,2025-11-07,2025-11-10,Second Class,CU9627,Kavita Jain,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-38876,Furniture,Bookcases,Office Bookcase,91261.75,4,0.15,17417.81
+443,ORD-2024-00443,2024-03-17,2024-03-19,Standard Class,CU9333,Manish Rao,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-64639,Office Supplies,Storage,File Cabinet,8669.22,3,0.1,184.66
+444,ORD-2024-00444,2024-05-31,2024-06-05,Standard Class,CU1957,Deepak Nair,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-10560,Furniture,Bookcases,Office Bookcase,47877.91,4,0.1,1508.28
+445,ORD-2024-00445,2024-11-27,2024-11-29,First Class,CU7300,Riya Jain,Corporate,India,Patna,Bihar,800001,East,PR-OS-44493,Office Supplies,Paper,Copy Paper,22742.14,7,0.15,3705.79
+446,ORD-2024-00446,2024-11-08,2024-11-11,Second Class,CU6902,Kavita More,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-94629,Technology,Phones,Smartphone,711803.28,9,0.05,123209.47
+447,ORD-2024-00447,2024-10-18,2024-10-20,Standard Class,CU3158,Arjun Shah,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-90758,Technology,Laptops,Laptop,123359.29,7,0.0,21345.3
+448,ORD-2025-00448,2025-10-04,2025-10-05,Same Day,CU4621,Nisha Sharma,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-54433,Furniture,Tables,Computer Table,151958.12,7,0.1,1916.73
+449,ORD-2025-00449,2025-11-10,2025-11-15,Second Class,CU6611,Meena Yadav,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-89422,Technology,Accessories,USB Cable,518543.07,9,0.05,99784.23
+450,ORD-2024-00450,2024-01-11,2024-01-12,Standard Class,CU9338,Akash Shah,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-14725,Office Supplies,Paper,Notebook,9172.37,4,0.0,1776.79
+451,ORD-2025-00451,2025-01-20,2025-01-21,Standard Class,CU1909,Pooja Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-75908,Office Supplies,Storage,File Cabinet,37040.18,8,0.1,2488.18
+452,ORD-2025-00452,2025-01-18,2025-01-19,Second Class,CU8464,Arjun Rao,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-35651,Technology,Accessories,Headphones,234724.36,4,0.2,20143.6
+453,ORD-2024-00453,2024-12-16,2024-12-20,Standard Class,CU4406,Anjali Singh,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-42872,Technology,Laptops,Laptop,174257.71,2,0.3,30393.55
+454,ORD-2024-00454,2024-10-21,2024-10-25,Second Class,CU4239,Manish More,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-40615,Office Supplies,Binders,Document Folder,8508.88,5,0.15,-969.47
+455,ORD-2025-00455,2025-11-03,2025-11-04,Second Class,CU1364,Anjali Jain,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-89646,Technology,Accessories,Mouse,425222.66,7,0.05,28926.19
+456,ORD-2024-00456,2024-05-10,2024-05-13,Same Day,CU6202,Amit Joshi,Home Office,India,Mumbai,Maharashtra,400001,West,PR-FU-14507,Technology,Accessories,USB Cable,136178.84,2,0.0,9015.47
+457,ORD-2024-00457,2024-07-10,2024-07-13,First Class,CU2879,Neha Yadav,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-63260,Furniture,Chairs,Executive Chair,130087.58,6,0.05,14197.46
+458,ORD-2024-00458,2024-05-28,2024-05-31,Standard Class,CU6086,Sneha Rao,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-45950,Furniture,Tables,Office Table,45263.58,8,0.05,1930.72
+459,ORD-2025-00459,2025-12-10,2025-12-12,Standard Class,CU9741,Sachin Nair,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-71358,Technology,Phones,Business Phone,439999.37,6,0.0,-16167.18
+460,ORD-2024-00460,2024-11-29,2024-11-30,Second Class,CU1295,Kavita More,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-92600,Furniture,Chairs,Dining Chair,69212.71,7,0.1,-3366.95
+461,ORD-2024-00461,2024-08-31,2024-09-03,Standard Class,CU4081,Meena Jain,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-29642,Office Supplies,Paper,Notebook,27773.13,10,0.3,914.49
+462,ORD-2025-00462,2025-03-17,2025-03-18,First Class,CU5611,Amit Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-34312,Office Supplies,Storage,File Cabinet,19620.23,8,0.1,1406.23
+463,ORD-2025-00463,2025-01-29,2025-01-31,Standard Class,CU8002,Rohit Nair,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-81667,Furniture,Bookcases,Office Bookcase,98744.47,5,0.2,484.02
+464,ORD-2024-00464,2024-11-20,2024-11-22,Standard Class,CU1037,Arjun Sharma,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-88233,Furniture,Furnishings,Table Lamp,219377.13,10,0.05,34610.47
+465,ORD-2024-00465,2024-12-22,2024-12-23,Second Class,CU7889,Amit Rao,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-61248,Technology,Phones,Android Phone,692847.79,8,0.0,-40737.1
+466,ORD-2025-00466,2025-03-09,2025-03-11,Standard Class,CU1976,Meena Joshi,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-42813,Furniture,Furnishings,Wall Clock,88999.65,4,0.2,12894.99
+467,ORD-2024-00467,2024-05-18,2024-05-22,Standard Class,CU3108,Arjun Yadav,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-46382,Office Supplies,Binders,File Binder,2479.17,2,0.0,298.84
+468,ORD-2024-00468,2024-02-01,2024-02-02,Standard Class,CU2845,Sneha Singh,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-26766,Technology,Laptops,Laptop,592269.84,10,0.15,114920.26
+469,ORD-2025-00469,2025-04-30,2025-05-05,Second Class,CU8833,Deepak More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-40782,Technology,Laptops,Laptop,265972.24,3,0.15,28326.07
+470,ORD-2025-00470,2025-03-02,2025-03-07,Standard Class,CU3685,Pooja Jain,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-93768,Technology,Laptops,Laptop,93666.18,9,0.2,3870.64
+471,ORD-2025-00471,2025-10-31,2025-11-04,Standard Class,CU8690,Amit Yadav,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-10765,Office Supplies,Storage,Storage Box,20810.64,6,0.3,-990.84
+472,ORD-2025-00472,2025-11-18,2025-11-22,Standard Class,CU8226,Rohit Jain,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-14311,Furniture,Bookcases,Wooden Bookcase,173961.44,10,0.3,-18321.67
+473,ORD-2024-00473,2024-03-30,2024-04-03,Standard Class,CU4022,Anjali Verma,Corporate,India,Patna,Bihar,800001,East,PR-FU-24260,Technology,Phones,Smartphone,233675.94,3,0.2,-15496.28
+474,ORD-2025-00474,2025-08-13,2025-08-14,Standard Class,CU8972,Priya Shah,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-59752,Furniture,Tables,Dining Table,23545.03,2,0.0,-1704.53
+475,ORD-2025-00475,2025-01-22,2025-01-23,Standard Class,CU8394,Akash Rao,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-14695,Technology,Laptops,Gaming Laptop,111795.51,7,0.2,-7335.36
+476,ORD-2025-00476,2025-03-26,2025-03-27,Second Class,CU5150,Manish Singh,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-21109,Furniture,Bookcases,Office Bookcase,9498.3,1,0.3,-301.7
+477,ORD-2024-00477,2024-11-20,2024-11-21,Same Day,CU4041,Manish More,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-49159,Technology,Laptops,Business Laptop,283716.18,9,0.2,4262.43
+478,ORD-2024-00478,2024-11-22,2024-11-27,Second Class,CU6024,Rahul Mehta,Home Office,India,Patna,Bihar,800001,East,PR-FU-17973,Technology,Laptops,Laptop,139605.6,7,0.0,13841.87
+479,ORD-2024-00479,2024-02-08,2024-02-10,Second Class,CU3690,Anjali Gupta,Home Office,India,Mumbai,Maharashtra,400001,West,PR-OS-56728,Office Supplies,Paper,Copy Paper,10483.88,7,0.05,-142.16
+480,ORD-2025-00480,2025-01-21,2025-01-23,First Class,CU6640,Vikas Joshi,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-49384,Furniture,Chairs,Office Chair,6844.31,2,0.2,1008.48
+481,ORD-2024-00481,2024-01-20,2024-01-22,Second Class,CU1734,Sneha Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-69884,Furniture,Tables,Office Table,212170.54,9,0.3,7210.69
+482,ORD-2024-00482,2024-01-04,2024-01-06,Standard Class,CU1544,Rahul Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-30047,Furniture,Chairs,Dining Chair,22405.44,1,0.2,3154.95
+483,ORD-2025-00483,2025-04-19,2025-04-23,Standard Class,CU2146,Kavita Patil,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-89360,Office Supplies,Storage,Storage Box,14983.36,6,0.0,694.77
+484,ORD-2025-00484,2025-05-31,2025-06-03,First Class,CU1689,Sachin Patil,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-66414,Office Supplies,Paper,Notebook,22204.61,6,0.2,-654.82
+485,ORD-2024-00485,2024-08-18,2024-08-19,Standard Class,CU7839,Rohit Jain,Corporate,India,Patna,Bihar,800001,East,PR-FU-71707,Technology,Phones,Android Phone,40302.03,9,0.3,-5573.89
+486,ORD-2025-00486,2025-01-11,2025-01-13,Second Class,CU2677,Priya Mehta,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-32257,Office Supplies,Paper,Printer Paper,6111.58,2,0.2,-137.87
+487,ORD-2025-00487,2025-07-19,2025-07-21,Second Class,CU9055,Akash Joshi,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-24677,Office Supplies,Paper,Printer Paper,18349.79,7,0.2,-1173.45
+488,ORD-2025-00488,2025-12-05,2025-12-06,Standard Class,CU7034,Akash Singh,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-20532,Furniture,Bookcases,Wooden Bookcase,191911.22,9,0.1,-1214.0
+489,ORD-2024-00489,2024-02-16,2024-02-19,Second Class,CU8399,Sneha Shah,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-35117,Technology,Laptops,Business Laptop,24754.04,1,0.2,-1809.34
+490,ORD-2025-00490,2025-05-11,2025-05-15,Second Class,CU9911,Manish Rao,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-36707,Office Supplies,Paper,Printer Paper,6493.82,9,0.1,308.04
+491,ORD-2025-00491,2025-08-12,2025-08-15,Standard Class,CU4885,Simran Kumar,Home Office,India,Patna,Bihar,800001,East,PR-TE-83545,Technology,Accessories,USB Cable,146480.24,3,0.3,-21088.65
+492,ORD-2024-00492,2024-01-27,2024-01-29,Standard Class,CU3634,Pooja Singh,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-56514,Technology,Phones,Android Phone,2952.12,2,0.15,532.88
+493,ORD-2025-00493,2025-03-31,2025-04-01,Standard Class,CU2079,Riya Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-55278,Technology,Accessories,Mouse,328505.17,5,0.2,-25087.89
+494,ORD-2025-00494,2025-03-25,2025-03-26,Same Day,CU2340,Amit Rao,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-57573,Office Supplies,Binders,File Binder,728.12,1,0.15,16.65
+495,ORD-2024-00495,2024-12-03,2024-12-07,Standard Class,CU9751,Amit More,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-84489,Technology,Accessories,USB Cable,640132.68,9,0.0,85682.05
+496,ORD-2024-00496,2024-04-10,2024-04-13,Second Class,CU9635,Sachin More,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-29689,Technology,Phones,Android Phone,614930.46,8,0.3,42453.13
+497,ORD-2024-00497,2024-03-10,2024-03-11,Standard Class,CU1154,Meena Desai,Corporate,India,Patna,Bihar,800001,East,PR-OS-38024,Furniture,Furnishings,Table Lamp,197324.58,8,0.2,-18685.23
+498,ORD-2025-00498,2025-02-05,2025-02-06,First Class,CU1565,Rahul Kumar,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-FU-28402,Furniture,Chairs,Dining Chair,33011.19,2,0.0,7743.38
+499,ORD-2024-00499,2024-11-12,2024-11-16,Standard Class,CU2741,Deepak Yadav,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-99405,Technology,Laptops,Gaming Laptop,60349.91,4,0.3,2708.55
+500,ORD-2025-00500,2025-07-08,2025-07-10,Standard Class,CU1233,Pooja Shah,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-52215,Office Supplies,Storage,File Cabinet,7040.31,2,0.2,920.77
+501,ORD-2025-00501,2025-08-14,2025-08-16,Standard Class,CU4367,Vikas Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-96928,Technology,Laptops,Business Laptop,55000.24,2,0.05,9005.78
+502,ORD-2025-00502,2025-01-04,2025-01-08,Second Class,CU8313,Priya Nair,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-47743,Technology,Laptops,Business Laptop,466199.67,10,0.1,27073.15
+503,ORD-2024-00503,2024-06-11,2024-06-15,Standard Class,CU4030,Sachin Kumar,Home Office,India,Kolkata,West Bengal,700001,East,PR-FU-40846,Technology,Accessories,Keyboard,227844.43,6,0.0,6175.23
+504,ORD-2025-00504,2025-08-22,2025-08-23,Standard Class,CU1537,Akash More,Consumer,India,Patna,Bihar,800001,East,PR-OS-82108,Technology,Accessories,USB Cable,315735.79,8,0.3,14517.39
+505,ORD-2025-00505,2025-04-25,2025-04-29,Same Day,CU7852,Simran Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-64892,Furniture,Bookcases,Wooden Bookcase,85627.96,4,0.1,-4220.17
+506,ORD-2025-00506,2025-11-03,2025-11-06,Standard Class,CU6065,Riya Yadav,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-93346,Office Supplies,Storage,File Cabinet,27188.81,6,0.0,6517.41
+507,ORD-2025-00507,2025-10-27,2025-10-30,Standard Class,CU6724,Vikas Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-30534,Technology,Laptops,Gaming Laptop,482540.64,7,0.3,-33193.54
+508,ORD-2025-00508,2025-02-13,2025-02-16,Second Class,CU1296,Akash Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-69980,Furniture,Tables,Dining Table,4818.64,5,0.3,-187.13
+509,ORD-2024-00509,2024-08-08,2024-08-11,Standard Class,CU9104,Riya Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-79506,Furniture,Furnishings,Wall Clock,59725.96,3,0.2,-3262.2
+510,ORD-2024-00510,2024-09-05,2024-09-07,Standard Class,CU1922,Rahul Verma,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-24925,Office Supplies,Binders,File Binder,405.99,1,0.05,72.45
+511,ORD-2025-00511,2025-11-05,2025-11-09,Standard Class,CU2384,Anjali More,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-75453,Technology,Laptops,Business Laptop,116109.24,6,0.05,2151.76
+512,ORD-2024-00512,2024-05-04,2024-05-07,Standard Class,CU8824,Riya Kumar,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-92681,Technology,Phones,Smartphone,226376.5,9,0.2,-3546.22
+513,ORD-2025-00513,2025-05-22,2025-05-23,Standard Class,CU4675,Riya Nair,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-48725,Office Supplies,Storage,Storage Box,7686.35,8,0.15,1532.57
+514,ORD-2024-00514,2024-03-26,2024-03-30,Second Class,CU2377,Nisha Rao,Corporate,India,Patna,Bihar,800001,East,PR-OS-64176,Technology,Laptops,Gaming Laptop,9381.84,5,0.2,1319.94
+515,ORD-2024-00515,2024-03-27,2024-03-28,Second Class,CU6938,Akash Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-22150,Technology,Accessories,Mouse,331704.14,10,0.2,37749.41
+516,ORD-2024-00516,2024-03-08,2024-03-13,Standard Class,CU1331,Nisha Jain,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-83048,Technology,Laptops,Business Laptop,299368.54,8,0.2,-27708.8
+517,ORD-2025-00517,2025-03-30,2025-04-01,Standard Class,CU1065,Sneha Shah,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-81240,Technology,Laptops,Business Laptop,140820.47,5,0.05,17801.07
+518,ORD-2025-00518,2025-02-12,2025-02-14,Standard Class,CU9584,Sneha Shah,Corporate,India,Patna,Bihar,800001,East,PR-TE-89364,Technology,Accessories,Headphones,9194.59,9,0.15,1752.43
+519,ORD-2024-00519,2024-12-07,2024-12-12,First Class,CU5549,Rohit Rao,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-65162,Technology,Phones,Business Phone,368470.76,10,0.05,32932.68
+520,ORD-2024-00520,2024-03-29,2024-04-01,First Class,CU8640,Sachin Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-74808,Office Supplies,Storage,Document Storage,8284.98,4,0.1,1271.63
+521,ORD-2024-00521,2024-02-23,2024-02-26,Standard Class,CU1340,Sachin Jain,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-56766,Office Supplies,Paper,Printer Paper,15119.45,10,0.1,-410.0
+522,ORD-2024-00522,2024-03-23,2024-03-28,Standard Class,CU2233,Meena Mehta,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-94720,Technology,Phones,Android Phone,30397.38,1,0.2,-2595.62
+523,ORD-2025-00523,2025-12-17,2025-12-22,First Class,CU6153,Amit Nair,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-40985,Technology,Laptops,Gaming Laptop,103726.28,3,0.0,433.45
+524,ORD-2024-00524,2024-03-20,2024-03-25,Second Class,CU1270,Manish Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-83177,Technology,Laptops,Gaming Laptop,836569.14,10,0.15,-53266.16
+525,ORD-2024-00525,2024-09-07,2024-09-10,Standard Class,CU7531,Rohit Yadav,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-49697,Furniture,Furnishings,Desk Lamp,59109.02,7,0.0,211.22
+526,ORD-2024-00526,2024-07-02,2024-07-04,Standard Class,CU6539,Meena Rao,Home Office,India,Kolkata,West Bengal,700001,East,PR-FU-74303,Office Supplies,Storage,Storage Box,19875.82,5,0.2,2683.08
+527,ORD-2025-00527,2025-06-03,2025-06-08,First Class,CU5038,Simran Jain,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-43481,Technology,Accessories,Mouse,100480.08,3,0.05,13784.9
+528,ORD-2024-00528,2024-11-25,2024-11-28,Second Class,CU4708,Meena Shah,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-68105,Technology,Phones,Smartphone,87865.79,1,0.05,1422.97
+529,ORD-2024-00529,2024-03-25,2024-03-27,Standard Class,CU7333,Anjali Gupta,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-56638,Office Supplies,Paper,Copy Paper,11180.76,10,0.1,-1099.15
+530,ORD-2025-00530,2025-10-23,2025-10-26,Standard Class,CU5570,Priya Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-44283,Office Supplies,Storage,Document Storage,30206.69,7,0.05,6633.66
+531,ORD-2025-00531,2025-04-17,2025-04-18,Standard Class,CU2900,Rohit Yadav,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-58817,Furniture,Bookcases,Wooden Bookcase,113489.98,8,0.15,-6701.57
+532,ORD-2025-00532,2025-04-03,2025-04-04,First Class,CU2421,Vikas Patil,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-17283,Technology,Laptops,Gaming Laptop,476110.4,7,0.05,-38882.79
+533,ORD-2024-00533,2024-05-07,2024-05-10,First Class,CU1347,Sneha Patil,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-47211,Technology,Laptops,Gaming Laptop,115215.8,9,0.0,8020.44
+534,ORD-2025-00534,2025-03-10,2025-03-11,Second Class,CU3577,Vikas Verma,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-31975,Office Supplies,Paper,Notebook,2918.0,2,0.1,175.3
+535,ORD-2024-00535,2024-04-01,2024-04-05,Standard Class,CU8063,Pooja Jain,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-93268,Technology,Laptops,Gaming Laptop,99770.47,6,0.1,8543.17
+536,ORD-2025-00536,2025-07-10,2025-07-15,Same Day,CU1726,Sachin Desai,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-14923,Technology,Phones,Business Phone,324557.54,7,0.2,5842.08
+537,ORD-2024-00537,2024-01-08,2024-01-11,Standard Class,CU4838,Kavita Sharma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-85783,Furniture,Chairs,Executive Chair,36933.48,10,0.3,6291.0
+538,ORD-2025-00538,2025-06-23,2025-06-28,Standard Class,CU6037,Riya Yadav,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-32703,Technology,Accessories,Headphones,22884.33,4,0.3,-1583.12
+539,ORD-2024-00539,2024-05-14,2024-05-15,Standard Class,CU6813,Pooja Sharma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-61444,Technology,Phones,Android Phone,775408.55,9,0.05,174483.48
+540,ORD-2024-00540,2024-06-03,2024-06-06,Standard Class,CU1540,Vikas Nair,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-70204,Furniture,Furnishings,Wall Clock,90965.95,4,0.2,3861.42
+541,ORD-2024-00541,2024-01-15,2024-01-19,Standard Class,CU7487,Amit Joshi,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-72112,Furniture,Chairs,Office Chair,26174.03,10,0.15,5053.54
+542,ORD-2024-00542,2024-11-02,2024-11-04,Standard Class,CU2193,Karan Verma,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-59220,Furniture,Bookcases,Office Bookcase,9323.97,1,0.2,1508.1
+543,ORD-2024-00543,2024-10-03,2024-10-05,First Class,CU7676,Kavita Verma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-56104,Technology,Phones,Smartphone,44855.71,3,0.15,2684.51
+544,ORD-2025-00544,2025-07-08,2025-07-09,First Class,CU8971,Karan Verma,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-35651,Technology,Accessories,USB Cable,316609.01,4,0.2,29281.08
+545,ORD-2024-00545,2024-08-08,2024-08-12,Standard Class,CU8210,Nisha Jain,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-16057,Technology,Laptops,Business Laptop,747109.35,10,0.15,133469.81
+546,ORD-2024-00546,2024-09-11,2024-09-12,First Class,CU8496,Nisha Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-80192,Technology,Accessories,Mouse,183922.19,3,0.05,3896.75
+547,ORD-2024-00547,2024-04-14,2024-04-15,Standard Class,CU6493,Rohit Sharma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-88210,Technology,Accessories,Headphones,245233.93,3,0.3,5919.37
+548,ORD-2024-00548,2024-01-30,2024-02-01,Same Day,CU9125,Rahul Rao,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-15703,Technology,Laptops,Gaming Laptop,305084.14,9,0.0,18234.39
+549,ORD-2024-00549,2024-01-29,2024-02-03,Standard Class,CU9437,Vikas Verma,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-22521,Office Supplies,Paper,Notebook,4372.27,3,0.05,839.78
+550,ORD-2024-00550,2024-05-07,2024-05-12,Standard Class,CU6132,Rohit Joshi,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-15239,Office Supplies,Storage,Document Storage,41530.75,10,0.1,1463.99
+551,ORD-2025-00551,2025-07-25,2025-07-27,Standard Class,CU7849,Anjali More,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-OS-73365,Furniture,Bookcases,Office Bookcase,22597.52,2,0.05,853.83
+552,ORD-2024-00552,2024-08-30,2024-09-01,Standard Class,CU6604,Rahul Shah,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-15674,Office Supplies,Storage,Document Storage,5362.49,7,0.05,384.62
+553,ORD-2024-00553,2024-11-01,2024-11-05,Standard Class,CU4536,Anjali Singh,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-TE-54610,Furniture,Tables,Dining Table,66660.42,5,0.05,-5904.36
+554,ORD-2024-00554,2024-11-27,2024-11-30,First Class,CU4809,Karan Verma,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-19465,Office Supplies,Binders,File Binder,27235.63,6,0.0,5582.5
+555,ORD-2025-00555,2025-06-28,2025-07-02,Standard Class,CU4065,Nisha Verma,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-22300,Office Supplies,Paper,Copy Paper,7299.34,2,0.15,115.02
+556,ORD-2025-00556,2025-03-31,2025-04-04,Second Class,CU9651,Arjun Patil,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-66627,Furniture,Tables,Computer Table,24306.58,9,0.1,806.75
+557,ORD-2024-00557,2024-06-23,2024-06-26,Standard Class,CU5317,Vikas Nair,Home Office,India,Pune,Maharashtra,411001,West,PR-FU-61357,Office Supplies,Binders,Ring Binder,22344.47,6,0.05,1012.67
+558,ORD-2024-00558,2024-08-22,2024-08-27,Second Class,CU9776,Neha Mehta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-79863,Furniture,Chairs,Executive Chair,204629.41,9,0.0,-13868.32
+559,ORD-2024-00559,2024-08-09,2024-08-13,Standard Class,CU8013,Kavita Sharma,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-88047,Furniture,Chairs,Office Chair,10102.81,3,0.2,-174.74
+560,ORD-2025-00560,2025-09-23,2025-09-25,Standard Class,CU3180,Nisha Singh,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-63031,Technology,Phones,Business Phone,131369.91,3,0.15,14331.75
+561,ORD-2024-00561,2024-07-17,2024-07-20,Standard Class,CU1847,Neha Rao,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-72751,Furniture,Furnishings,Desk Lamp,25207.67,4,0.1,5405.71
+562,ORD-2025-00562,2025-04-25,2025-04-30,Standard Class,CU8795,Deepak Gupta,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-54387,Technology,Accessories,Mouse,91546.16,2,0.2,15898.36
+563,ORD-2025-00563,2025-09-03,2025-09-05,Second Class,CU7189,Riya Yadav,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-40226,Office Supplies,Binders,File Binder,22802.05,9,0.2,-1879.45
+564,ORD-2025-00564,2025-08-28,2025-08-31,Standard Class,CU2137,Riya Nair,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-80202,Office Supplies,Binders,File Binder,16116.12,5,0.1,2117.61
+565,ORD-2024-00565,2024-10-29,2024-11-03,First Class,CU5919,Arjun Joshi,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-18798,Office Supplies,Paper,Copy Paper,135.64,1,0.3,-18.3
+566,ORD-2025-00566,2025-06-04,2025-06-05,Second Class,CU9269,Sachin Jain,Home Office,India,Bangalore,Karnataka,560001,South,PR-TE-53147,Technology,Accessories,Keyboard,575539.97,7,0.15,75852.89
+567,ORD-2024-00567,2024-09-14,2024-09-16,Second Class,CU1938,Kavita Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-43529,Office Supplies,Paper,Copy Paper,287.19,1,0.2,20.97
+568,ORD-2025-00568,2025-09-29,2025-10-03,First Class,CU5558,Rahul Desai,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-13093,Office Supplies,Binders,Document Folder,26869.92,6,0.05,966.19
+569,ORD-2024-00569,2024-06-27,2024-07-02,Standard Class,CU8145,Rohit Patil,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-65797,Technology,Laptops,Laptop,218323.74,7,0.05,26268.51
+570,ORD-2024-00570,2024-07-19,2024-07-22,Standard Class,CU5878,Sneha More,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-39203,Office Supplies,Paper,Copy Paper,2185.26,1,0.2,112.17
+571,ORD-2024-00571,2024-09-08,2024-09-13,Second Class,CU8851,Simran Shah,Consumer,India,Patna,Bihar,800001,East,PR-TE-50308,Technology,Phones,Android Phone,373948.72,9,0.0,16177.58
+572,ORD-2025-00572,2025-11-21,2025-11-26,Standard Class,CU5555,Meena Nair,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-28800,Technology,Accessories,USB Cable,171397.9,5,0.2,-19604.99
+573,ORD-2024-00573,2024-01-17,2024-01-18,Second Class,CU7042,Manish Yadav,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-74186,Technology,Accessories,Keyboard,235614.73,7,0.0,-14784.54
+574,ORD-2025-00574,2025-04-27,2025-04-29,Standard Class,CU1947,Vikas Patil,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-16553,Office Supplies,Storage,Document Storage,6612.11,10,0.1,1481.16
+575,ORD-2025-00575,2025-06-15,2025-06-17,Second Class,CU8989,Riya Gupta,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-40164,Furniture,Chairs,Executive Chair,40595.07,10,0.0,193.01
+576,ORD-2024-00576,2024-02-03,2024-02-05,Second Class,CU2934,Priya Kumar,Consumer,India,Patna,Bihar,800001,East,PR-FU-74471,Furniture,Tables,Computer Table,74125.85,8,0.0,1301.7
+577,ORD-2024-00577,2024-01-16,2024-01-18,Second Class,CU2291,Vikas Patil,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-56798,Technology,Accessories,Headphones,421136.08,9,0.05,52784.88
+578,ORD-2024-00578,2024-12-23,2024-12-28,First Class,CU4465,Meena Mehta,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-64740,Office Supplies,Storage,File Cabinet,6034.09,5,0.0,736.23
+579,ORD-2024-00579,2024-09-07,2024-09-11,First Class,CU2656,Neha Mehta,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-74315,Technology,Accessories,Headphones,225624.47,7,0.05,38670.65
+580,ORD-2025-00580,2025-09-06,2025-09-09,Second Class,CU5300,Amit Singh,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-72601,Technology,Laptops,Gaming Laptop,291183.03,8,0.15,50369.38
+581,ORD-2025-00581,2025-07-20,2025-07-24,Same Day,CU3249,Meena Verma,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-12921,Furniture,Chairs,Dining Chair,78107.47,4,0.05,1097.98
+582,ORD-2024-00582,2024-05-31,2024-06-03,Standard Class,CU8849,Sneha More,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-10260,Technology,Phones,Smartphone,34993.01,2,0.05,6212.8
+583,ORD-2024-00583,2024-06-10,2024-06-11,Standard Class,CU5916,Amit More,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-11924,Technology,Accessories,Mouse,592168.44,8,0.0,-13724.03
+584,ORD-2024-00584,2024-09-29,2024-10-04,Same Day,CU5722,Deepak Verma,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-46776,Furniture,Tables,Dining Table,1924.14,3,0.2,-177.79
+585,ORD-2024-00585,2024-02-16,2024-02-20,Second Class,CU1142,Anjali Nair,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-86579,Technology,Laptops,Laptop,293170.51,6,0.1,18130.64
+586,ORD-2025-00586,2025-10-04,2025-10-05,Standard Class,CU2482,Priya Shah,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-22823,Furniture,Bookcases,Office Bookcase,58180.47,6,0.1,9177.47
+587,ORD-2025-00587,2025-09-12,2025-09-16,Standard Class,CU2832,Riya Jain,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-98425,Technology,Phones,Smartphone,668284.88,8,0.15,117818.52
+588,ORD-2025-00588,2025-10-24,2025-10-27,Standard Class,CU1158,Simran Patil,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-47997,Office Supplies,Binders,Document Folder,17616.57,5,0.15,2022.36
+589,ORD-2024-00589,2024-12-12,2024-12-16,Standard Class,CU3306,Arjun Jain,Corporate,India,Patna,Bihar,800001,East,PR-TE-66782,Furniture,Furnishings,Desk Lamp,19301.4,3,0.05,-959.22
+590,ORD-2025-00590,2025-12-23,2025-12-26,Same Day,CU3019,Akash Joshi,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-FU-28030,Office Supplies,Binders,File Binder,2404.08,2,0.05,-161.6
+591,ORD-2025-00591,2025-04-28,2025-05-03,First Class,CU2487,Meena Sharma,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-14597,Office Supplies,Paper,Copy Paper,15986.25,4,0.15,3233.74
+592,ORD-2024-00592,2024-03-07,2024-03-11,Standard Class,CU1528,Rahul Desai,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-40314,Furniture,Chairs,Dining Chair,44230.25,5,0.1,6530.58
+593,ORD-2025-00593,2025-08-30,2025-09-02,Standard Class,CU2028,Kavita Patil,Home Office,India,Mumbai,Maharashtra,400001,West,PR-TE-97938,Technology,Phones,Android Phone,261362.29,8,0.0,32239.49
+594,ORD-2025-00594,2025-08-04,2025-08-07,Second Class,CU7765,Neha Patil,Home Office,India,Patna,Bihar,800001,East,PR-OS-98707,Furniture,Tables,Dining Table,13487.83,1,0.1,1797.82
+595,ORD-2024-00595,2024-05-16,2024-05-19,First Class,CU7984,Amit Rao,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-64933,Furniture,Bookcases,Office Bookcase,16454.34,1,0.0,571.85
+596,ORD-2025-00596,2025-12-23,2025-12-24,Second Class,CU3567,Anjali Nair,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-73769,Office Supplies,Storage,File Cabinet,4543.16,2,0.3,244.38
+597,ORD-2024-00597,2024-07-28,2024-08-02,First Class,CU2777,Manish Rao,Home Office,India,Delhi,Delhi,110001,Central,PR-OS-50148,Furniture,Bookcases,Wooden Bookcase,140028.37,9,0.0,26354.71
+598,ORD-2025-00598,2025-08-21,2025-08-22,Standard Class,CU1702,Priya Desai,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-96153,Technology,Phones,Business Phone,287161.39,6,0.0,-5881.79
+599,ORD-2024-00599,2024-11-04,2024-11-08,Standard Class,CU9006,Neha More,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-70727,Office Supplies,Paper,Copy Paper,38736.43,10,0.2,-3226.27
+600,ORD-2024-00600,2024-10-31,2024-11-05,Second Class,CU3415,Karan Singh,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-12389,Office Supplies,Storage,Storage Box,10254.64,10,0.15,1167.76
+601,ORD-2025-00601,2025-01-08,2025-01-10,Second Class,CU8433,Kavita Jain,Consumer,India,Patna,Bihar,800001,East,PR-FU-47594,Office Supplies,Paper,Notebook,35857.08,9,0.05,7185.6
+602,ORD-2025-00602,2025-04-18,2025-04-23,Standard Class,CU6935,Rohit Verma,Home Office,India,Delhi,Delhi,110001,Central,PR-TE-12016,Office Supplies,Binders,Ring Binder,23486.7,9,0.3,-849.12
+603,ORD-2025-00603,2025-12-20,2025-12-25,Standard Class,CU2773,Arjun Sharma,Consumer,India,Patna,Bihar,800001,East,PR-OS-72963,Office Supplies,Paper,Printer Paper,40411.7,10,0.1,7749.05
+604,ORD-2025-00604,2025-05-25,2025-05-29,Same Day,CU9785,Rohit Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-98815,Office Supplies,Paper,Printer Paper,23922.48,5,0.0,-218.59
+605,ORD-2024-00605,2024-10-20,2024-10-22,Second Class,CU2469,Deepak Singh,Home Office,India,Mumbai,Maharashtra,400001,West,PR-TE-80412,Furniture,Chairs,Dining Chair,31564.84,2,0.0,4977.98
+606,ORD-2024-00606,2024-03-31,2024-04-05,Second Class,CU9562,Karan Sharma,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-88413,Technology,Laptops,Laptop,781118.93,9,0.0,-3877.95
+607,ORD-2025-00607,2025-08-01,2025-08-06,Second Class,CU4136,Pooja Shah,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-66241,Furniture,Bookcases,Wooden Bookcase,6260.69,2,0.15,235.92
+608,ORD-2024-00608,2024-04-02,2024-04-03,First Class,CU9992,Riya Rao,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-27881,Furniture,Tables,Office Table,44204.4,2,0.2,-2116.98
+609,ORD-2024-00609,2024-09-27,2024-09-29,Standard Class,CU3882,Kavita Singh,Home Office,India,Mumbai,Maharashtra,400001,West,PR-FU-59322,Furniture,Tables,Office Table,107813.47,6,0.3,-11137.82
+610,ORD-2025-00610,2025-05-16,2025-05-20,Standard Class,CU7804,Simran Yadav,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-72345,Technology,Laptops,Laptop,667702.94,10,0.05,-3829.28
+611,ORD-2024-00611,2024-01-09,2024-01-13,Standard Class,CU5103,Vikas Rao,Home Office,India,Patna,Bihar,800001,East,PR-FU-72508,Office Supplies,Binders,File Binder,1475.33,7,0.2,-73.08
+612,ORD-2025-00612,2025-09-10,2025-09-13,Standard Class,CU7116,Kavita Gupta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-91311,Office Supplies,Paper,Printer Paper,13599.39,6,0.05,-937.05
+613,ORD-2024-00613,2024-12-02,2024-12-05,First Class,CU2740,Priya Singh,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-21218,Technology,Accessories,USB Cable,300839.45,5,0.05,-8079.78
+614,ORD-2024-00614,2024-12-09,2024-12-10,Standard Class,CU5589,Rohit Kumar,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-50910,Technology,Accessories,Mouse,150270.81,2,0.2,-3767.78
+615,ORD-2024-00615,2024-10-21,2024-10-23,Standard Class,CU9096,Manish Desai,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-42210,Office Supplies,Paper,Copy Paper,15966.77,10,0.15,2047.25
+616,ORD-2024-00616,2024-11-28,2024-12-01,Standard Class,CU9204,Nisha Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-71401,Technology,Laptops,Gaming Laptop,323678.19,7,0.15,-4596.76
+617,ORD-2025-00617,2025-01-19,2025-01-21,Standard Class,CU1494,Karan Sharma,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-48278,Office Supplies,Binders,Document Folder,2463.23,2,0.3,222.57
+618,ORD-2025-00618,2025-01-29,2025-02-01,Standard Class,CU6125,Manish Patil,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-47170,Office Supplies,Paper,Printer Paper,32735.83,10,0.2,300.49
+619,ORD-2025-00619,2025-01-29,2025-02-02,Standard Class,CU3050,Sneha Desai,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-92667,Office Supplies,Paper,Printer Paper,14594.35,5,0.05,-719.66
+620,ORD-2024-00620,2024-10-01,2024-10-03,Standard Class,CU6417,Kavita Nair,Consumer,India,Patna,Bihar,800001,East,PR-TE-14429,Technology,Phones,Android Phone,116525.57,3,0.3,1845.06
+621,ORD-2024-00621,2024-07-17,2024-07-21,Standard Class,CU3808,Deepak Gupta,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-19416,Technology,Laptops,Gaming Laptop,886890.29,10,0.15,-80896.43
+622,ORD-2024-00622,2024-04-28,2024-04-29,Standard Class,CU8463,Sachin Kumar,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-60278,Technology,Accessories,USB Cable,102346.32,6,0.2,-1862.25
+623,ORD-2024-00623,2024-07-27,2024-08-01,Standard Class,CU4551,Akash Joshi,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-17711,Office Supplies,Paper,Copy Paper,523.91,2,0.15,-61.36
+624,ORD-2024-00624,2024-06-14,2024-06-18,Standard Class,CU4273,Sneha Gupta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-31494,Office Supplies,Paper,Notebook,14580.82,3,0.15,530.89
+625,ORD-2025-00625,2025-05-12,2025-05-15,Second Class,CU2251,Sneha Rao,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-96623,Furniture,Tables,Computer Table,61505.64,8,0.1,-6008.38
+626,ORD-2024-00626,2024-09-02,2024-09-05,Second Class,CU2856,Sneha Yadav,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-85752,Office Supplies,Binders,Ring Binder,896.58,1,0.05,211.61
+627,ORD-2024-00627,2024-02-20,2024-02-22,First Class,CU5747,Akash Singh,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-10045,Office Supplies,Storage,Storage Box,666.25,5,0.0,-43.75
+628,ORD-2024-00628,2024-05-09,2024-05-14,Standard Class,CU4404,Rohit Verma,Consumer,India,Patna,Bihar,800001,East,PR-FU-75642,Furniture,Chairs,Office Chair,16804.98,1,0.0,2225.6
+629,ORD-2024-00629,2024-03-23,2024-03-25,Standard Class,CU7834,Kavita Verma,Consumer,India,Patna,Bihar,800001,East,PR-FU-82153,Furniture,Tables,Dining Table,14577.08,1,0.05,3290.75
+630,ORD-2025-00630,2025-07-13,2025-07-18,First Class,CU6707,Arjun Yadav,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-55177,Office Supplies,Binders,Ring Binder,3038.2,10,0.2,-371.8
+631,ORD-2025-00631,2025-07-22,2025-07-26,Standard Class,CU8471,Arjun Patil,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-20196,Technology,Accessories,Keyboard,86013.56,6,0.1,17872.43
+632,ORD-2025-00632,2025-03-16,2025-03-18,Standard Class,CU9635,Meena Kumar,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-17897,Technology,Laptops,Gaming Laptop,28709.19,1,0.0,7002.78
+633,ORD-2024-00633,2024-02-08,2024-02-13,Standard Class,CU2134,Rahul Gupta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-72873,Furniture,Furnishings,Desk Lamp,53686.2,8,0.15,2752.71
+634,ORD-2025-00634,2025-08-26,2025-08-30,Standard Class,CU4700,Neha Desai,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-87681,Office Supplies,Storage,Storage Box,34854.06,9,0.15,5767.31
+635,ORD-2025-00635,2025-09-17,2025-09-20,Standard Class,CU3899,Sachin Joshi,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-96363,Office Supplies,Binders,Document Folder,17347.33,7,0.0,3364.66
+636,ORD-2025-00636,2025-01-08,2025-01-11,Second Class,CU1871,Rohit More,Consumer,India,Patna,Bihar,800001,East,PR-OS-70598,Technology,Laptops,Laptop,753170.99,10,0.2,78100.87
+637,ORD-2024-00637,2024-01-14,2024-01-17,Standard Class,CU6386,Pooja Yadav,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-57498,Office Supplies,Paper,Printer Paper,4441.76,1,0.1,602.22
+638,ORD-2024-00638,2024-09-01,2024-09-06,Same Day,CU3453,Riya Jain,Home Office,India,Hyderabad,Telangana,500001,South,PR-FU-20236,Furniture,Furnishings,Table Lamp,5611.73,8,0.15,1029.95
+639,ORD-2025-00639,2025-09-12,2025-09-13,Standard Class,CU9537,Priya Yadav,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-83927,Technology,Accessories,Keyboard,9876.06,1,0.15,-701.65
+640,ORD-2024-00640,2024-11-02,2024-11-06,Second Class,CU9080,Rahul Shah,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-52840,Office Supplies,Storage,Storage Box,12396.89,7,0.2,-843.61
+641,ORD-2024-00641,2024-11-01,2024-11-04,Second Class,CU7886,Sachin Kumar,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-76330,Office Supplies,Binders,Document Folder,3675.45,7,0.1,22.83
+642,ORD-2024-00642,2024-09-14,2024-09-16,First Class,CU9115,Kavita Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-17450,Technology,Accessories,Headphones,336035.32,6,0.3,-40125.17
+643,ORD-2024-00643,2024-03-14,2024-03-15,Standard Class,CU1022,Arjun Joshi,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-89522,Furniture,Chairs,Executive Chair,49900.38,4,0.05,3329.69
+644,ORD-2025-00644,2025-08-15,2025-08-20,Standard Class,CU6984,Pooja Desai,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-75898,Furniture,Bookcases,Wooden Bookcase,60191.37,9,0.3,8863.55
+645,ORD-2024-00645,2024-07-02,2024-07-04,Standard Class,CU7583,Nisha Yadav,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-73308,Technology,Accessories,Mouse,95793.73,8,0.0,12100.82
+646,ORD-2024-00646,2024-06-20,2024-06-25,Standard Class,CU1071,Kavita Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-49823,Office Supplies,Binders,Document Folder,7755.32,8,0.0,601.59
+647,ORD-2025-00647,2025-09-02,2025-09-06,Standard Class,CU7088,Rahul Shah,Consumer,India,Patna,Bihar,800001,East,PR-FU-27868,Office Supplies,Storage,File Cabinet,20327.51,8,0.0,1443.63
+648,ORD-2025-00648,2025-03-12,2025-03-14,Standard Class,CU7238,Sachin Nair,Consumer,India,Patna,Bihar,800001,East,PR-FU-23672,Technology,Laptops,Business Laptop,103381.3,3,0.05,7317.55
+649,ORD-2024-00649,2024-03-05,2024-03-09,Standard Class,CU2395,Karan Shah,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-99449,Office Supplies,Paper,Notebook,5198.86,4,0.2,553.48
+650,ORD-2025-00650,2025-08-06,2025-08-09,Second Class,CU3788,Neha More,Corporate,India,Patna,Bihar,800001,East,PR-FU-64862,Office Supplies,Paper,Copy Paper,11579.59,4,0.0,2537.05
+651,ORD-2025-00651,2025-11-15,2025-11-20,First Class,CU5860,Priya Singh,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-41351,Office Supplies,Storage,File Cabinet,2986.75,1,0.15,287.42
+652,ORD-2025-00652,2025-03-03,2025-03-05,First Class,CU6419,Amit Verma,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-58481,Office Supplies,Paper,Notebook,37902.07,9,0.15,7196.44
+653,ORD-2024-00653,2024-11-07,2024-11-10,Standard Class,CU4833,Rohit Gupta,Consumer,India,Patna,Bihar,800001,East,PR-TE-20845,Furniture,Furnishings,Desk Lamp,125857.94,7,0.0,29569.3
+654,ORD-2025-00654,2025-03-17,2025-03-22,Second Class,CU2351,Arjun Kumar,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-62979,Office Supplies,Binders,Document Folder,8836.27,4,0.0,487.24
+655,ORD-2024-00655,2024-09-23,2024-09-26,Second Class,CU8621,Priya Yadav,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-47697,Technology,Accessories,Headphones,20193.21,4,0.0,4456.79
+656,ORD-2024-00656,2024-11-02,2024-11-06,First Class,CU7176,Pooja Desai,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-78149,Technology,Laptops,Laptop,35653.75,1,0.2,390.24
+657,ORD-2024-00657,2024-12-01,2024-12-02,Standard Class,CU3333,Manish Verma,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-31330,Furniture,Bookcases,Office Bookcase,62018.91,10,0.0,9611.75
+658,ORD-2024-00658,2024-02-19,2024-02-23,Standard Class,CU6465,Kavita Verma,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-79918,Furniture,Tables,Computer Table,242285.82,10,0.3,40406.67
+659,ORD-2024-00659,2024-02-24,2024-02-28,First Class,CU4232,Sachin Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-79001,Technology,Phones,Android Phone,347381.12,5,0.3,31160.33
+660,ORD-2024-00660,2024-10-20,2024-10-24,Standard Class,CU6922,Sachin Desai,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-37503,Technology,Phones,Business Phone,404293.79,9,0.15,20947.64
+661,ORD-2024-00661,2024-01-15,2024-01-18,Standard Class,CU1791,Sachin Gupta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-56629,Office Supplies,Storage,Storage Box,33249.92,7,0.0,6639.18
+662,ORD-2024-00662,2024-08-28,2024-08-30,Standard Class,CU5993,Sneha Joshi,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-80678,Furniture,Tables,Dining Table,39892.15,2,0.0,608.75
+663,ORD-2024-00663,2024-12-24,2024-12-27,Standard Class,CU9527,Sneha Jain,Home Office,India,Delhi,Delhi,110001,Central,PR-FU-29405,Office Supplies,Paper,Copy Paper,3645.15,6,0.2,533.83
+664,ORD-2025-00664,2025-01-10,2025-01-13,Second Class,CU4022,Vikas Jain,Home Office,India,Patna,Bihar,800001,East,PR-FU-75365,Technology,Accessories,Keyboard,315846.1,10,0.3,-21319.12
+665,ORD-2024-00665,2024-04-18,2024-04-19,Standard Class,CU4238,Rohit Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-97298,Office Supplies,Binders,File Binder,13084.16,6,0.2,289.43
+666,ORD-2025-00666,2025-11-03,2025-11-06,Second Class,CU3479,Sachin Jain,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-85922,Technology,Laptops,Gaming Laptop,516307.18,8,0.0,8898.11
+667,ORD-2025-00667,2025-11-13,2025-11-18,Second Class,CU4546,Rohit Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-28687,Office Supplies,Binders,File Binder,1441.28,10,0.2,-75.37
+668,ORD-2024-00668,2024-10-05,2024-10-08,Second Class,CU8596,Deepak Nair,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-80478,Furniture,Tables,Office Table,173525.88,9,0.15,16234.3
+669,ORD-2024-00669,2024-01-09,2024-01-13,Standard Class,CU1011,Priya Yadav,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-25389,Office Supplies,Binders,Document Folder,12735.23,6,0.1,1874.64
+670,ORD-2024-00670,2024-10-20,2024-10-22,Standard Class,CU7611,Karan Joshi,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-45200,Furniture,Tables,Office Table,2712.8,1,0.0,-123.42
+671,ORD-2024-00671,2024-01-23,2024-01-24,Standard Class,CU1800,Simran Patil,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-72303,Furniture,Bookcases,Wooden Bookcase,58420.49,4,0.1,3695.9
+672,ORD-2024-00672,2024-12-16,2024-12-18,Standard Class,CU7437,Simran Jain,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-85911,Technology,Phones,Smartphone,143496.11,4,0.0,431.93
+673,ORD-2025-00673,2025-07-08,2025-07-12,Second Class,CU8150,Neha Shah,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-13549,Office Supplies,Paper,Notebook,19504.67,8,0.0,-523.79
+674,ORD-2025-00674,2025-02-22,2025-02-24,First Class,CU4976,Anjali Patil,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-10704,Technology,Phones,Android Phone,369196.28,6,0.15,25310.29
+675,ORD-2025-00675,2025-09-01,2025-09-04,Standard Class,CU1831,Sneha Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-81074,Office Supplies,Storage,Storage Box,12074.82,3,0.1,314.89
+676,ORD-2024-00676,2024-09-20,2024-09-24,First Class,CU3291,Rohit Patil,Corporate,India,Patna,Bihar,800001,East,PR-FU-34680,Office Supplies,Binders,File Binder,22428.25,6,0.15,-1007.89
+677,ORD-2025-00677,2025-02-23,2025-02-26,Standard Class,CU2953,Rohit Jain,Home Office,India,Mumbai,Maharashtra,400001,West,PR-OS-71050,Technology,Phones,Smartphone,621876.86,10,0.15,21085.54
+678,ORD-2024-00678,2024-12-22,2024-12-26,Standard Class,CU5040,Manish Jain,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-11711,Technology,Laptops,Laptop,52691.13,10,0.3,-439.97
+679,ORD-2025-00679,2025-08-20,2025-08-21,Standard Class,CU9167,Akash Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-61952,Furniture,Furnishings,Table Lamp,175506.77,8,0.15,-4099.53
+680,ORD-2024-00680,2024-03-02,2024-03-03,Standard Class,CU2846,Riya Desai,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-68584,Furniture,Furnishings,Wall Clock,238999.15,10,0.05,41735.5
+681,ORD-2025-00681,2025-01-21,2025-01-22,Standard Class,CU9369,Akash Singh,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-56489,Office Supplies,Binders,Ring Binder,2007.86,3,0.3,56.53
+682,ORD-2024-00682,2024-03-22,2024-03-24,Second Class,CU3630,Amit Joshi,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-50324,Furniture,Furnishings,Wall Clock,213558.17,10,0.1,14536.54
+683,ORD-2025-00683,2025-01-04,2025-01-05,First Class,CU3780,Pooja Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-90171,Furniture,Furnishings,Table Lamp,50223.66,4,0.1,-4536.33
+684,ORD-2024-00684,2024-05-28,2024-05-29,First Class,CU2620,Sachin Mehta,Home Office,India,Kolkata,West Bengal,700001,East,PR-FU-70263,Office Supplies,Binders,File Binder,999.87,4,0.2,-36.5
+685,ORD-2024-00685,2024-07-10,2024-07-15,Standard Class,CU9990,Rohit Mehta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-33901,Office Supplies,Storage,Storage Box,3027.01,1,0.2,78.44
+686,ORD-2024-00686,2024-07-07,2024-07-11,Standard Class,CU8061,Nisha Jain,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-13902,Technology,Laptops,Laptop,195889.72,3,0.0,-1450.16
+687,ORD-2025-00687,2025-11-10,2025-11-13,Standard Class,CU3542,Kavita Jain,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-80902,Furniture,Chairs,Executive Chair,115256.11,6,0.15,18301.43
+688,ORD-2025-00688,2025-09-11,2025-09-14,Standard Class,CU8111,Manish Mehta,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-78099,Office Supplies,Storage,File Cabinet,42744.9,9,0.1,4475.43
+689,ORD-2024-00689,2024-05-01,2024-05-02,Second Class,CU7541,Meena Yadav,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-19966,Technology,Phones,Android Phone,192382.81,9,0.3,-6748.88
+690,ORD-2025-00690,2025-06-10,2025-06-14,Standard Class,CU2326,Meena Patil,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-46126,Office Supplies,Paper,Printer Paper,748.42,1,0.1,88.62
+691,ORD-2025-00691,2025-01-23,2025-01-26,Standard Class,CU7071,Deepak Desai,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-67033,Technology,Phones,Android Phone,232302.45,5,0.0,12942.55
+692,ORD-2025-00692,2025-05-13,2025-05-15,Second Class,CU7642,Priya Singh,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-30773,Technology,Laptops,Business Laptop,66823.2,1,0.15,10529.2
+693,ORD-2024-00693,2024-06-20,2024-06-23,Standard Class,CU8528,Riya Sharma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-94297,Technology,Phones,Business Phone,624694.53,10,0.2,18058.68
+694,ORD-2024-00694,2024-11-08,2024-11-11,Standard Class,CU4914,Rohit More,Corporate,India,Bangalore,Karnataka,560001,South,PR-OS-70746,Office Supplies,Binders,Document Folder,3543.34,4,0.15,340.88
+695,ORD-2024-00695,2024-10-07,2024-10-09,Standard Class,CU4055,Meena Nair,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-92579,Furniture,Tables,Computer Table,107981.69,7,0.15,8511.36
+696,ORD-2024-00696,2024-04-15,2024-04-16,Standard Class,CU4177,Neha Desai,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-13881,Furniture,Furnishings,Desk Lamp,22471.11,4,0.1,-935.39
+697,ORD-2025-00697,2025-08-21,2025-08-23,First Class,CU4992,Nisha Desai,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-83563,Office Supplies,Storage,File Cabinet,2821.38,3,0.05,457.37
+698,ORD-2025-00698,2025-07-07,2025-07-09,Standard Class,CU3742,Meena Yadav,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-13830,Office Supplies,Paper,Notebook,9781.82,5,0.15,-589.11
+699,ORD-2025-00699,2025-02-23,2025-02-25,First Class,CU3846,Pooja Verma,Corporate,India,Bangalore,Karnataka,560001,South,PR-OS-69577,Office Supplies,Storage,File Cabinet,44056.18,10,0.15,12.04
+700,ORD-2025-00700,2025-09-18,2025-09-21,Standard Class,CU3686,Deepak Rao,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-57774,Office Supplies,Paper,Copy Paper,20048.11,7,0.1,1421.41
+701,ORD-2024-00701,2024-03-27,2024-03-30,Standard Class,CU8726,Anjali More,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-OS-68582,Office Supplies,Storage,File Cabinet,25903.17,6,0.05,2064.53
+702,ORD-2024-00702,2024-09-08,2024-09-11,Second Class,CU9875,Manish Rao,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-72805,Furniture,Furnishings,Desk Lamp,187763.55,9,0.0,-14868.99
+703,ORD-2024-00703,2024-06-14,2024-06-17,Standard Class,CU8008,Arjun Verma,Home Office,India,Hyderabad,Telangana,500001,South,PR-TE-93420,Office Supplies,Storage,Storage Box,2378.9,8,0.0,113.04
+704,ORD-2025-00704,2025-05-10,2025-05-12,Standard Class,CU3574,Arjun Mehta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-30977,Technology,Phones,Android Phone,85003.34,8,0.2,-3421.51
+705,ORD-2025-00705,2025-03-25,2025-03-28,Same Day,CU6964,Vikas Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-72398,Furniture,Furnishings,Table Lamp,22742.05,2,0.05,2007.62
+706,ORD-2025-00706,2025-11-16,2025-11-17,Standard Class,CU5750,Simran Yadav,Corporate,India,Patna,Bihar,800001,East,PR-OS-43550,Technology,Phones,Android Phone,117107.75,2,0.1,18409.6
+707,ORD-2024-00707,2024-01-08,2024-01-13,First Class,CU2376,Anjali Patil,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-OS-68249,Office Supplies,Binders,File Binder,14759.03,7,0.0,1907.54
+708,ORD-2024-00708,2024-05-19,2024-05-20,First Class,CU2099,Karan Yadav,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-78173,Office Supplies,Paper,Copy Paper,26133.1,8,0.15,-2770.96
+709,ORD-2025-00709,2025-07-21,2025-07-24,Second Class,CU6083,Neha Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-87853,Office Supplies,Binders,File Binder,13888.22,4,0.2,2713.36
+710,ORD-2025-00710,2025-04-24,2025-04-25,Standard Class,CU9644,Kavita Nair,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-83678,Furniture,Bookcases,Office Bookcase,7324.74,7,0.0,418.74
+711,ORD-2025-00711,2025-11-06,2025-11-10,Second Class,CU7637,Riya Rao,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-25657,Office Supplies,Binders,File Binder,2142.56,1,0.2,161.59
+712,ORD-2025-00712,2025-09-21,2025-09-26,Second Class,CU1085,Arjun Yadav,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-73176,Furniture,Bookcases,Wooden Bookcase,179925.45,9,0.15,37651.79
+713,ORD-2024-00713,2024-10-30,2024-11-03,Standard Class,CU5381,Manish Mehta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-59581,Technology,Laptops,Gaming Laptop,177749.42,4,0.2,-9783.47
+714,ORD-2025-00714,2025-03-15,2025-03-16,Standard Class,CU9573,Meena Verma,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-15378,Furniture,Furnishings,Wall Clock,41908.23,2,0.2,-4722.12
+715,ORD-2025-00715,2025-08-24,2025-08-28,Standard Class,CU6660,Amit Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-61500,Furniture,Tables,Office Table,6031.29,8,0.1,-39.41
+716,ORD-2024-00716,2024-09-23,2024-09-25,Same Day,CU2701,Simran Singh,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-22270,Furniture,Tables,Office Table,80209.42,9,0.15,-1024.04
+717,ORD-2024-00717,2024-10-21,2024-10-26,First Class,CU8478,Arjun Joshi,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-25797,Technology,Accessories,Keyboard,592603.42,8,0.2,-10911.39
+718,ORD-2024-00718,2024-01-13,2024-01-15,First Class,CU8443,Sachin Yadav,Consumer,India,Patna,Bihar,800001,East,PR-TE-27084,Furniture,Bookcases,Wooden Bookcase,107127.08,7,0.1,-1969.01
+719,ORD-2025-00719,2025-02-26,2025-03-02,Standard Class,CU9168,Manish Nair,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-12928,Furniture,Furnishings,Wall Clock,67992.22,3,0.3,8603.6
+720,ORD-2025-00720,2025-05-28,2025-06-01,First Class,CU1868,Pooja Nair,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-47146,Technology,Laptops,Gaming Laptop,54653.89,4,0.0,-3147.21
+721,ORD-2024-00721,2024-04-22,2024-04-26,Standard Class,CU9493,Priya Sharma,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-37426,Technology,Laptops,Laptop,5399.38,2,0.2,430.63
+722,ORD-2024-00722,2024-11-12,2024-11-13,Standard Class,CU1211,Riya Jain,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-29072,Technology,Laptops,Business Laptop,72940.78,2,0.1,1561.78
+723,ORD-2024-00723,2024-01-09,2024-01-14,Second Class,CU4037,Vikas Nair,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-61843,Office Supplies,Binders,Ring Binder,2895.46,4,0.1,443.21
+724,ORD-2025-00724,2025-09-02,2025-09-03,Standard Class,CU5177,Simran Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-79377,Technology,Laptops,Business Laptop,237261.79,6,0.05,13296.39
+725,ORD-2025-00725,2025-08-17,2025-08-19,Standard Class,CU4069,Manish More,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-27430,Technology,Phones,Smartphone,148848.95,4,0.3,-14731.35
+726,ORD-2024-00726,2024-05-10,2024-05-14,Second Class,CU2320,Akash Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-16589,Furniture,Furnishings,Wall Clock,16263.45,9,0.3,102.02
+727,ORD-2024-00727,2024-03-18,2024-03-19,Standard Class,CU9499,Amit Yadav,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-31159,Technology,Accessories,Headphones,241982.01,9,0.1,35483.42
+728,ORD-2024-00728,2024-11-19,2024-11-24,Second Class,CU6153,Nisha Singh,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-44370,Technology,Phones,Android Phone,92385.59,2,0.0,20975.2
+729,ORD-2024-00729,2024-12-30,2024-12-31,Standard Class,CU7881,Simran Desai,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-80366,Furniture,Chairs,Executive Chair,102879.09,10,0.0,6154.1
+730,ORD-2025-00730,2025-12-04,2025-12-05,Second Class,CU4240,Priya Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-57419,Furniture,Bookcases,Wooden Bookcase,86580.6,5,0.2,-9581.44
+731,ORD-2025-00731,2025-08-05,2025-08-09,Second Class,CU4546,Rahul Joshi,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-38893,Technology,Phones,Android Phone,29276.38,4,0.15,5150.63
+732,ORD-2024-00732,2024-06-05,2024-06-06,First Class,CU8530,Amit Sharma,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-29491,Office Supplies,Storage,File Cabinet,5823.21,9,0.15,197.06
+733,ORD-2024-00733,2024-07-04,2024-07-05,First Class,CU1284,Priya Kumar,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-34996,Technology,Accessories,Headphones,232184.03,7,0.05,-8136.65
+734,ORD-2025-00734,2025-06-11,2025-06-13,Standard Class,CU8687,Nisha Singh,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-27441,Technology,Laptops,Business Laptop,403522.39,8,0.1,86984.34
+735,ORD-2025-00735,2025-05-04,2025-05-08,Same Day,CU6458,Kavita Mehta,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-85033,Technology,Accessories,Mouse,67519.98,9,0.15,-1213.54
+736,ORD-2025-00736,2025-02-26,2025-02-27,Standard Class,CU9490,Akash Shah,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-87865,Office Supplies,Storage,Storage Box,8263.7,5,0.05,150.6
+737,ORD-2024-00737,2024-02-16,2024-02-21,Standard Class,CU8693,Nisha Singh,Home Office,India,Hyderabad,Telangana,500001,South,PR-OS-63177,Technology,Phones,Android Phone,101439.27,7,0.15,18791.68
+738,ORD-2024-00738,2024-12-16,2024-12-21,Standard Class,CU6235,Deepak Mehta,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-OS-70558,Technology,Accessories,USB Cable,172318.39,4,0.1,1022.31
+739,ORD-2024-00739,2024-04-20,2024-04-21,Standard Class,CU7229,Anjali Mehta,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-95311,Office Supplies,Storage,Storage Box,9950.06,5,0.1,1922.1
+740,ORD-2025-00740,2025-02-18,2025-02-19,Second Class,CU1135,Kavita Patil,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-TE-95455,Furniture,Bookcases,Office Bookcase,15739.44,7,0.3,-658.63
+741,ORD-2024-00741,2024-01-01,2024-01-06,Standard Class,CU5681,Anjali Nair,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-23690,Technology,Phones,Business Phone,74080.0,1,0.0,11853.28
+742,ORD-2024-00742,2024-06-21,2024-06-23,First Class,CU3427,Akash Yadav,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-16563,Technology,Phones,Android Phone,73430.51,1,0.05,6256.57
+743,ORD-2025-00743,2025-05-23,2025-05-24,Standard Class,CU4033,Rahul Patil,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-90221,Office Supplies,Paper,Copy Paper,6245.46,2,0.05,523.08
+744,ORD-2024-00744,2024-12-23,2024-12-25,Same Day,CU6267,Vikas More,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-94458,Furniture,Tables,Computer Table,130349.0,9,0.2,-5712.94
+745,ORD-2025-00745,2025-11-05,2025-11-06,Standard Class,CU8323,Sneha Shah,Consumer,India,Patna,Bihar,800001,East,PR-TE-85937,Furniture,Bookcases,Wooden Bookcase,47525.28,2,0.2,3216.23
+746,ORD-2024-00746,2024-04-06,2024-04-07,Second Class,CU6300,Nisha Patil,Consumer,India,Patna,Bihar,800001,East,PR-OS-76846,Furniture,Chairs,Office Chair,22626.5,5,0.15,-2211.16
+747,ORD-2025-00747,2025-06-06,2025-06-08,Standard Class,CU4006,Manish Yadav,Consumer,India,Patna,Bihar,800001,East,PR-OS-97995,Furniture,Chairs,Office Chair,57545.54,5,0.05,6914.14
+748,ORD-2024-00748,2024-09-13,2024-09-14,First Class,CU7848,Vikas Gupta,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-TE-35909,Furniture,Tables,Dining Table,94967.49,7,0.0,-840.37
+749,ORD-2025-00749,2025-01-27,2025-01-31,Same Day,CU7441,Deepak Jain,Consumer,India,Patna,Bihar,800001,East,PR-TE-89314,Furniture,Chairs,Dining Chair,48102.71,3,0.0,-3685.77
+750,ORD-2025-00750,2025-05-31,2025-06-04,First Class,CU4247,Amit Joshi,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-16472,Office Supplies,Storage,File Cabinet,30294.35,9,0.0,6282.06
+751,ORD-2024-00751,2024-01-14,2024-01-17,Standard Class,CU5355,Simran Verma,Consumer,India,Patna,Bihar,800001,East,PR-TE-51534,Technology,Phones,Android Phone,361617.93,10,0.05,9943.47
+752,ORD-2025-00752,2025-04-28,2025-05-01,First Class,CU7618,Kavita Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-59334,Office Supplies,Storage,Document Storage,15556.85,4,0.05,1489.59
+753,ORD-2024-00753,2024-03-30,2024-04-01,Standard Class,CU8583,Pooja Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-77173,Technology,Laptops,Business Laptop,533933.19,10,0.3,-66315.42
+754,ORD-2025-00754,2025-07-28,2025-07-31,First Class,CU8485,Karan Singh,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-91439,Furniture,Tables,Computer Table,171563.5,9,0.2,7814.83
+755,ORD-2024-00755,2024-05-31,2024-06-03,Standard Class,CU1442,Riya Gupta,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-13936,Office Supplies,Paper,Printer Paper,12116.92,5,0.3,-7.33
+756,ORD-2025-00756,2025-12-21,2025-12-25,Standard Class,CU2176,Arjun Shah,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-71064,Office Supplies,Paper,Notebook,25612.75,9,0.0,1314.6
+757,ORD-2024-00757,2024-05-10,2024-05-14,Standard Class,CU7731,Sachin Shah,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-37566,Technology,Accessories,Mouse,492994.86,8,0.1,62398.97
+758,ORD-2024-00758,2024-07-22,2024-07-27,Standard Class,CU5965,Rahul Yadav,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-88872,Office Supplies,Paper,Printer Paper,49891.44,10,0.05,-586.4
+759,ORD-2025-00759,2025-01-31,2025-02-02,Standard Class,CU6475,Kavita Mehta,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-52348,Technology,Accessories,USB Cable,359346.57,7,0.05,-13954.38
+760,ORD-2024-00760,2024-10-14,2024-10-17,First Class,CU4746,Karan Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-59057,Furniture,Tables,Dining Table,64574.44,9,0.1,14388.03
+761,ORD-2025-00761,2025-10-11,2025-10-15,Standard Class,CU1176,Kavita Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-33088,Furniture,Chairs,Office Chair,37150.98,7,0.0,7789.08
+762,ORD-2025-00762,2025-03-22,2025-03-23,Standard Class,CU8962,Pooja Nair,Home Office,India,Delhi,Delhi,110001,Central,PR-TE-27748,Office Supplies,Paper,Printer Paper,8686.18,6,0.0,-288.35
+763,ORD-2024-00763,2024-01-07,2024-01-11,Standard Class,CU6016,Meena Yadav,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-29283,Furniture,Bookcases,Wooden Bookcase,20888.5,2,0.2,4083.51
+764,ORD-2025-00764,2025-02-02,2025-02-04,Second Class,CU4857,Arjun Rao,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-74512,Furniture,Chairs,Dining Chair,133833.16,10,0.05,28589.72
+765,ORD-2024-00765,2024-04-16,2024-04-21,Standard Class,CU5721,Karan Singh,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-16304,Office Supplies,Binders,Document Folder,792.38,2,0.2,92.87
+766,ORD-2025-00766,2025-06-10,2025-06-15,Same Day,CU4999,Simran Shah,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-46176,Technology,Accessories,Mouse,407327.29,7,0.05,68820.26
+767,ORD-2025-00767,2025-01-07,2025-01-09,Standard Class,CU4656,Rohit Shah,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-96066,Office Supplies,Binders,Ring Binder,4949.1,7,0.3,154.74
+768,ORD-2025-00768,2025-05-29,2025-05-31,Second Class,CU2853,Riya Joshi,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-31832,Office Supplies,Paper,Printer Paper,9586.63,2,0.2,32.82
+769,ORD-2024-00769,2024-07-27,2024-07-28,Second Class,CU7132,Neha Shah,Home Office,India,Patna,Bihar,800001,East,PR-TE-56454,Technology,Laptops,Gaming Laptop,166444.0,3,0.0,1681.0
+770,ORD-2024-00770,2024-07-15,2024-07-16,Same Day,CU5669,Rahul Joshi,Home Office,India,Hyderabad,Telangana,500001,South,PR-FU-47204,Office Supplies,Binders,Document Folder,20032.37,5,0.05,141.97
+771,ORD-2025-00771,2025-07-19,2025-07-23,Standard Class,CU5682,Nisha Singh,Consumer,India,Patna,Bihar,800001,East,PR-TE-21154,Office Supplies,Binders,Ring Binder,4360.7,2,0.2,638.05
+772,ORD-2024-00772,2024-12-28,2025-01-02,Second Class,CU8017,Anjali More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-26011,Office Supplies,Binders,File Binder,26435.25,6,0.15,4184.57
+773,ORD-2025-00773,2025-03-24,2025-03-27,Standard Class,CU9949,Arjun Kumar,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-89566,Furniture,Furnishings,Desk Lamp,148397.6,8,0.0,33342.45
+774,ORD-2024-00774,2024-12-07,2024-12-09,Standard Class,CU9152,Rohit Joshi,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-90869,Technology,Phones,Android Phone,94800.61,3,0.3,12237.07
+775,ORD-2024-00775,2024-11-14,2024-11-15,Standard Class,CU3076,Rohit Sharma,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-62342,Furniture,Furnishings,Table Lamp,30915.83,10,0.0,3137.84
+776,ORD-2024-00776,2024-11-22,2024-11-23,First Class,CU5852,Karan Verma,Home Office,India,Hyderabad,Telangana,500001,South,PR-FU-93190,Furniture,Tables,Office Table,91492.09,4,0.3,13718.97
+777,ORD-2025-00777,2025-07-28,2025-07-31,Standard Class,CU3560,Arjun Rao,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-67784,Office Supplies,Storage,File Cabinet,25093.92,10,0.1,-1577.02
+778,ORD-2024-00778,2024-12-03,2024-12-04,First Class,CU7467,Karan Desai,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-37949,Office Supplies,Storage,Storage Box,9799.82,8,0.0,-215.43
+779,ORD-2024-00779,2024-10-18,2024-10-20,Standard Class,CU1064,Sachin Verma,Consumer,India,Patna,Bihar,800001,East,PR-FU-80246,Furniture,Tables,Office Table,198519.15,9,0.15,17076.41
+780,ORD-2024-00780,2024-10-04,2024-10-08,Second Class,CU6441,Anjali Patil,Consumer,India,Patna,Bihar,800001,East,PR-FU-87255,Furniture,Chairs,Office Chair,56005.29,5,0.05,-3914.35
+781,ORD-2025-00781,2025-01-27,2025-02-01,Second Class,CU9053,Sneha Joshi,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-32787,Furniture,Tables,Computer Table,16955.25,1,0.0,4182.12
+782,ORD-2024-00782,2024-06-06,2024-06-09,Standard Class,CU4927,Sachin Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-52135,Technology,Laptops,Laptop,441935.4,5,0.05,31474.71
+783,ORD-2025-00783,2025-03-06,2025-03-09,Standard Class,CU5221,Vikas Singh,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-42322,Office Supplies,Binders,Document Folder,736.17,4,0.0,140.35
+784,ORD-2025-00784,2025-04-07,2025-04-09,Same Day,CU5270,Amit Joshi,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-71109,Office Supplies,Paper,Printer Paper,21198.05,6,0.15,2088.61
+785,ORD-2024-00785,2024-12-13,2024-12-14,Second Class,CU4291,Amit Jain,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-59393,Technology,Accessories,Headphones,766238.46,9,0.2,-82652.36
+786,ORD-2024-00786,2024-06-30,2024-07-01,Second Class,CU3555,Akash Joshi,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-25624,Office Supplies,Storage,File Cabinet,7118.3,3,0.3,716.76
+787,ORD-2024-00787,2024-04-14,2024-04-15,Standard Class,CU5960,Nisha Shah,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-93791,Office Supplies,Paper,Copy Paper,14050.32,3,0.2,2200.37
+788,ORD-2024-00788,2024-04-30,2024-05-04,Second Class,CU3758,Deepak Gupta,Consumer,India,Kolkata,West Bengal,700001,East,PR-FU-30491,Technology,Phones,Smartphone,61686.69,1,0.15,12309.18
+789,ORD-2025-00789,2025-01-17,2025-01-19,Standard Class,CU7724,Karan Kumar,Consumer,India,Mumbai,Maharashtra,400001,West,PR-OS-53950,Technology,Phones,Android Phone,14764.47,2,0.05,-307.18
+790,ORD-2024-00790,2024-03-22,2024-03-23,Standard Class,CU6796,Neha Sharma,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-17894,Furniture,Tables,Office Table,9483.35,1,0.05,-406.38
+791,ORD-2024-00791,2024-03-28,2024-03-30,Standard Class,CU3256,Sneha Kumar,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-OS-71455,Office Supplies,Binders,Ring Binder,5191.26,4,0.15,816.79
+792,ORD-2025-00792,2025-01-01,2025-01-05,Standard Class,CU1061,Amit Nair,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-69629,Office Supplies,Binders,File Binder,6290.32,4,0.3,-664.31
+793,ORD-2025-00793,2025-10-06,2025-10-09,Standard Class,CU4194,Meena Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-14789,Technology,Accessories,Mouse,224239.98,7,0.3,21237.38
+794,ORD-2024-00794,2024-08-18,2024-08-20,Standard Class,CU1723,Sachin Verma,Corporate,India,Pune,Maharashtra,411001,West,PR-TE-39473,Furniture,Furnishings,Table Lamp,81113.36,8,0.3,8651.37
+795,ORD-2024-00795,2024-10-02,2024-10-04,Standard Class,CU3482,Arjun Jain,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-19495,Office Supplies,Paper,Printer Paper,13588.55,7,0.15,2809.02
+796,ORD-2024-00796,2024-06-29,2024-07-02,Standard Class,CU2004,Sneha Nair,Consumer,India,Patna,Bihar,800001,East,PR-TE-46523,Technology,Laptops,Laptop,219885.14,7,0.15,39195.61
+797,ORD-2025-00797,2025-11-17,2025-11-18,Second Class,CU2156,Manish Kumar,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-66309,Office Supplies,Paper,Printer Paper,17048.32,4,0.2,-1937.88
+798,ORD-2024-00798,2024-10-08,2024-10-13,Standard Class,CU4048,Anjali Jain,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-43290,Office Supplies,Storage,Document Storage,26767.25,8,0.15,2270.67
+799,ORD-2025-00799,2025-07-03,2025-07-08,Second Class,CU8167,Deepak Verma,Consumer,India,Patna,Bihar,800001,East,PR-OS-51247,Office Supplies,Storage,Document Storage,11797.56,4,0.3,-1321.77
+800,ORD-2024-00800,2024-06-03,2024-06-06,Standard Class,CU4655,Manish Jain,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-38830,Furniture,Chairs,Office Chair,23216.08,4,0.3,2262.89
+801,ORD-2024-00801,2024-03-22,2024-03-23,First Class,CU4680,Pooja Shah,Consumer,India,Patna,Bihar,800001,East,PR-TE-96805,Office Supplies,Storage,Storage Box,16026.35,8,0.1,2657.54
+802,ORD-2024-00802,2024-08-03,2024-08-04,First Class,CU4317,Nisha Verma,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-95141,Office Supplies,Binders,Ring Binder,14814.11,4,0.2,2276.67
+803,ORD-2024-00803,2024-08-17,2024-08-20,Standard Class,CU9961,Akash Rao,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-33053,Technology,Phones,Android Phone,379999.25,5,0.3,30722.28
+804,ORD-2025-00804,2025-04-10,2025-04-15,Standard Class,CU1777,Manish Nair,Corporate,India,Bangalore,Karnataka,560001,South,PR-OS-29763,Technology,Phones,Android Phone,214943.03,8,0.2,24261.67
+805,ORD-2024-00805,2024-06-15,2024-06-20,Standard Class,CU6885,Neha Gupta,Corporate,India,Kolkata,West Bengal,700001,East,PR-TE-68914,Technology,Phones,Android Phone,10168.71,1,0.2,-1005.57
+806,ORD-2025-00806,2025-02-08,2025-02-13,Second Class,CU9491,Simran Nair,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-55013,Furniture,Bookcases,Office Bookcase,46794.75,7,0.2,3457.15
+807,ORD-2024-00807,2024-09-05,2024-09-06,Second Class,CU4089,Amit Rao,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-66317,Furniture,Bookcases,Office Bookcase,29845.31,4,0.05,4646.31
+808,ORD-2025-00808,2025-07-24,2025-07-28,First Class,CU6672,Riya Gupta,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-95483,Furniture,Bookcases,Office Bookcase,32610.98,10,0.3,2606.31
+809,ORD-2025-00809,2025-09-20,2025-09-23,Second Class,CU7002,Rahul Desai,Home Office,India,Hyderabad,Telangana,500001,South,PR-TE-92446,Office Supplies,Binders,File Binder,27649.52,8,0.1,5890.61
+810,ORD-2024-00810,2024-08-22,2024-08-25,First Class,CU5992,Vikas Singh,Corporate,India,Bangalore,Karnataka,560001,South,PR-OS-67966,Furniture,Tables,Office Table,9493.34,1,0.05,-581.24
+811,ORD-2024-00811,2024-11-20,2024-11-25,First Class,CU2874,Nisha Verma,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-20977,Office Supplies,Binders,File Binder,25125.92,8,0.05,1157.22
+812,ORD-2024-00812,2024-01-03,2024-01-08,Standard Class,CU4859,Arjun Mehta,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-39379,Technology,Accessories,Keyboard,166548.56,2,0.05,11050.07
+813,ORD-2025-00813,2025-06-12,2025-06-15,Standard Class,CU9066,Amit More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-42600,Office Supplies,Binders,File Binder,2126.86,1,0.3,338.81
+814,ORD-2025-00814,2025-09-04,2025-09-06,Same Day,CU3339,Sneha Sharma,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-71700,Furniture,Bookcases,Office Bookcase,73752.63,6,0.1,6676.13
+815,ORD-2024-00815,2024-01-06,2024-01-09,Standard Class,CU6701,Meena Joshi,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-70012,Furniture,Bookcases,Office Bookcase,15474.75,1,0.3,1505.79
+816,ORD-2025-00816,2025-07-09,2025-07-13,First Class,CU6167,Arjun Shah,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-51716,Furniture,Tables,Computer Table,21398.12,3,0.2,431.25
+817,ORD-2024-00817,2024-01-30,2024-01-31,Second Class,CU3391,Sachin Jain,Corporate,India,Patna,Bihar,800001,East,PR-FU-87332,Office Supplies,Storage,Document Storage,14361.12,6,0.3,-1195.28
+818,ORD-2024-00818,2024-01-27,2024-01-28,Same Day,CU3413,Pooja Patil,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-32555,Technology,Laptops,Gaming Laptop,282940.43,5,0.0,5011.22
+819,ORD-2024-00819,2024-05-06,2024-05-08,Standard Class,CU7833,Meena Joshi,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-31883,Furniture,Furnishings,Wall Clock,50004.44,3,0.0,12145.61
+820,ORD-2024-00820,2024-01-21,2024-01-26,First Class,CU7639,Nisha Gupta,Consumer,India,Patna,Bihar,800001,East,PR-TE-70616,Office Supplies,Binders,Ring Binder,20662.17,7,0.2,1878.71
+821,ORD-2024-00821,2024-02-29,2024-03-03,Standard Class,CU7995,Sachin Verma,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-22122,Office Supplies,Paper,Notebook,13199.78,6,0.2,-154.95
+822,ORD-2024-00822,2024-06-22,2024-06-26,Standard Class,CU3968,Arjun Desai,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-77115,Furniture,Furnishings,Wall Clock,125856.57,8,0.1,24225.29
+823,ORD-2024-00823,2024-11-04,2024-11-06,Standard Class,CU9598,Deepak Rao,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-58974,Furniture,Furnishings,Wall Clock,48847.85,6,0.2,-4416.81
+824,ORD-2025-00824,2025-08-30,2025-09-04,Second Class,CU7541,Akash Singh,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-78319,Technology,Laptops,Gaming Laptop,611936.23,7,0.3,96093.94
+825,ORD-2024-00825,2024-09-16,2024-09-19,Standard Class,CU5174,Rahul Gupta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-OS-15833,Office Supplies,Binders,Document Folder,1902.78,4,0.3,-71.68
+826,ORD-2024-00826,2024-01-14,2024-01-17,Standard Class,CU4187,Meena Shah,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-81031,Technology,Laptops,Gaming Laptop,268917.13,8,0.05,61588.7
+827,ORD-2024-00827,2024-04-21,2024-04-24,Second Class,CU9277,Sachin Kumar,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-53199,Furniture,Furnishings,Desk Lamp,93078.69,5,0.1,9846.23
+828,ORD-2025-00828,2025-10-19,2025-10-22,Standard Class,CU1128,Anjali Mehta,Consumer,India,Patna,Bihar,800001,East,PR-TE-30710,Office Supplies,Binders,Document Folder,6068.65,6,0.1,-127.01
+829,ORD-2024-00829,2024-12-20,2024-12-25,Second Class,CU9657,Amit Nair,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-31673,Office Supplies,Storage,Storage Box,16856.64,4,0.1,599.76
+830,ORD-2025-00830,2025-07-26,2025-07-29,Standard Class,CU7015,Sneha Verma,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-61673,Technology,Laptops,Gaming Laptop,178779.56,7,0.1,-1767.81
+831,ORD-2024-00831,2024-05-13,2024-05-16,Standard Class,CU1605,Anjali Shah,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-23003,Office Supplies,Paper,Copy Paper,3164.45,1,0.05,560.42
+832,ORD-2024-00832,2024-09-10,2024-09-15,Standard Class,CU2212,Priya More,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-17084,Furniture,Furnishings,Wall Clock,43334.22,6,0.0,8867.28
+833,ORD-2025-00833,2025-08-02,2025-08-04,Standard Class,CU7976,Manish Sharma,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-14601,Office Supplies,Paper,Notebook,4554.3,1,0.2,865.07
+834,ORD-2025-00834,2025-03-07,2025-03-09,Standard Class,CU6271,Nisha Patil,Corporate,India,Delhi,Delhi,110001,Central,PR-OS-81819,Technology,Laptops,Gaming Laptop,246351.07,3,0.05,6625.34
+835,ORD-2024-00835,2024-08-05,2024-08-07,Standard Class,CU2157,Manish Sharma,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-75391,Furniture,Chairs,Executive Chair,36630.21,4,0.3,-101.86
+836,ORD-2025-00836,2025-04-26,2025-04-28,Second Class,CU2925,Anjali Singh,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-46163,Technology,Phones,Android Phone,118866.42,3,0.15,-9959.0
+837,ORD-2024-00837,2024-01-07,2024-01-10,Second Class,CU3162,Karan More,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-82855,Technology,Phones,Android Phone,509852.95,10,0.05,42368.55
+838,ORD-2024-00838,2024-05-12,2024-05-15,Standard Class,CU7181,Deepak Shah,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-60606,Technology,Phones,Business Phone,65596.11,6,0.3,746.38
+839,ORD-2025-00839,2025-03-23,2025-03-27,Second Class,CU6171,Neha Nair,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-28077,Furniture,Furnishings,Table Lamp,17915.0,2,0.0,1576.65
+840,ORD-2024-00840,2024-12-05,2024-12-07,First Class,CU6129,Kavita Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-68097,Office Supplies,Binders,File Binder,9418.32,2,0.05,1495.71
+841,ORD-2024-00841,2024-08-12,2024-08-16,Second Class,CU4415,Rahul Verma,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-86944,Office Supplies,Binders,Document Folder,14638.84,4,0.3,-1266.82
+842,ORD-2025-00842,2025-11-19,2025-11-20,Standard Class,CU2238,Vikas Joshi,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-85857,Furniture,Tables,Office Table,34037.59,2,0.2,2098.46
+843,ORD-2025-00843,2025-05-17,2025-05-19,Same Day,CU6916,Sachin Jain,Consumer,India,Bangalore,Karnataka,560001,South,PR-TE-78235,Furniture,Chairs,Executive Chair,50615.42,3,0.1,10698.59
+844,ORD-2025-00844,2025-12-28,2025-12-29,Second Class,CU5441,Manish Gupta,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-30115,Technology,Accessories,Headphones,384992.44,10,0.05,62411.69
+845,ORD-2024-00845,2024-10-30,2024-11-04,Second Class,CU2991,Akash More,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-97350,Technology,Phones,Business Phone,148638.27,2,0.05,-10687.05
+846,ORD-2025-00846,2025-06-16,2025-06-18,Second Class,CU6091,Karan Yadav,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-FU-26636,Technology,Laptops,Business Laptop,24350.89,1,0.2,-1741.72
+847,ORD-2024-00847,2024-03-25,2024-03-29,Standard Class,CU2314,Sneha Rao,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-70482,Technology,Accessories,Mouse,462678.97,9,0.0,14749.94
+848,ORD-2025-00848,2025-03-31,2025-04-05,Standard Class,CU3506,Neha Mehta,Corporate,India,Patna,Bihar,800001,East,PR-FU-30709,Office Supplies,Binders,Ring Binder,3924.15,1,0.2,682.85
+849,ORD-2024-00849,2024-06-20,2024-06-22,Standard Class,CU4742,Nisha Sharma,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-10765,Technology,Accessories,Mouse,81205.83,1,0.15,13714.32
+850,ORD-2025-00850,2025-07-21,2025-07-24,Standard Class,CU2910,Pooja More,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-29897,Furniture,Chairs,Office Chair,2575.96,2,0.05,388.68
+851,ORD-2024-00851,2024-09-30,2024-10-01,First Class,CU5858,Anjali Rao,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-69834,Furniture,Chairs,Office Chair,142949.7,7,0.05,11773.69
+852,ORD-2025-00852,2025-03-01,2025-03-04,Same Day,CU8592,Deepak Patil,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-15131,Office Supplies,Storage,Document Storage,25533.2,7,0.3,684.97
+853,ORD-2025-00853,2025-01-22,2025-01-26,Same Day,CU7452,Rohit Sharma,Home Office,India,Patna,Bihar,800001,East,PR-TE-32778,Technology,Phones,Business Phone,75792.17,1,0.3,-6370.53
+854,ORD-2025-00854,2025-05-15,2025-05-20,Standard Class,CU8911,Anjali Singh,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-88412,Office Supplies,Storage,Document Storage,2208.8,2,0.2,212.82
+855,ORD-2024-00855,2024-04-19,2024-04-20,Second Class,CU8014,Pooja Verma,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-66977,Office Supplies,Binders,File Binder,41158.71,9,0.2,4903.13
+856,ORD-2024-00856,2024-02-13,2024-02-17,Standard Class,CU4405,Sachin Shah,Consumer,India,Patna,Bihar,800001,East,PR-FU-20862,Technology,Phones,Android Phone,21971.84,2,0.3,-1372.58
+857,ORD-2025-00857,2025-10-13,2025-10-17,Same Day,CU2607,Neha Patil,Home Office,India,Chennai,Tamil Nadu,600001,South,PR-OS-69183,Furniture,Furnishings,Wall Clock,108410.78,9,0.05,14511.5
+858,ORD-2024-00858,2024-03-07,2024-03-08,Second Class,CU6713,Deepak Desai,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-11151,Furniture,Bookcases,Wooden Bookcase,32213.04,7,0.3,2578.4
+859,ORD-2024-00859,2024-11-19,2024-11-21,Same Day,CU5626,Rahul Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-86313,Technology,Accessories,USB Cable,462375.73,6,0.15,-29670.11
+860,ORD-2024-00860,2024-03-20,2024-03-23,Standard Class,CU1739,Manish Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-47748,Furniture,Tables,Office Table,31456.77,9,0.15,-397.89
+861,ORD-2025-00861,2025-02-05,2025-02-08,First Class,CU8076,Karan Joshi,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-77602,Office Supplies,Binders,File Binder,40111.29,9,0.3,-3315.97
+862,ORD-2025-00862,2025-10-18,2025-10-22,Second Class,CU1461,Nisha Gupta,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-92036,Office Supplies,Binders,Ring Binder,3817.83,7,0.2,152.23
+863,ORD-2025-00863,2025-12-11,2025-12-12,Standard Class,CU8975,Riya Jain,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-29195,Furniture,Furnishings,Wall Clock,155004.98,10,0.1,17257.75
+864,ORD-2025-00864,2025-05-09,2025-05-11,First Class,CU3365,Riya Shah,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-53998,Office Supplies,Binders,File Binder,146.84,1,0.15,-5.76
+865,ORD-2024-00865,2024-04-27,2024-04-30,Second Class,CU6356,Amit Nair,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-40996,Furniture,Bookcases,Office Bookcase,15222.38,3,0.2,490.65
+866,ORD-2024-00866,2024-06-17,2024-06-20,First Class,CU6352,Nisha Singh,Corporate,India,Bangalore,Karnataka,560001,South,PR-FU-53130,Office Supplies,Storage,File Cabinet,3191.56,5,0.15,72.27
+867,ORD-2025-00867,2025-10-08,2025-10-10,Second Class,CU1527,Sneha Joshi,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-78458,Furniture,Furnishings,Table Lamp,113718.22,8,0.3,16250.83
+868,ORD-2025-00868,2025-10-30,2025-11-04,Standard Class,CU1027,Simran Verma,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-71897,Technology,Accessories,USB Cable,130016.99,2,0.15,7022.87
+869,ORD-2024-00869,2024-01-29,2024-02-02,Second Class,CU2430,Riya Patil,Corporate,India,Hyderabad,Telangana,500001,South,PR-FU-93452,Furniture,Bookcases,Wooden Bookcase,34412.2,7,0.0,3135.48
+870,ORD-2024-00870,2024-07-17,2024-07-18,Standard Class,CU1294,Deepak Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-51604,Office Supplies,Binders,File Binder,44379.66,10,0.05,2951.29
+871,ORD-2024-00871,2024-03-28,2024-04-02,Second Class,CU6918,Deepak Mehta,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-80990,Office Supplies,Paper,Copy Paper,2415.8,1,0.3,20.92
+872,ORD-2025-00872,2025-04-20,2025-04-21,Standard Class,CU3106,Nisha Yadav,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-35223,Technology,Accessories,Mouse,503269.93,7,0.3,-52872.22
+873,ORD-2024-00873,2024-12-17,2024-12-19,Second Class,CU1087,Simran Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-84300,Office Supplies,Paper,Printer Paper,4695.57,4,0.15,565.1
+874,ORD-2025-00874,2025-08-15,2025-08-17,Standard Class,CU2449,Vikas Kumar,Home Office,India,Kolkata,West Bengal,700001,East,PR-TE-81347,Office Supplies,Storage,Document Storage,22341.29,8,0.05,2947.24
+875,ORD-2024-00875,2024-04-16,2024-04-18,Second Class,CU4238,Kavita Rao,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-80780,Furniture,Bookcases,Office Bookcase,5222.48,1,0.1,865.44
+876,ORD-2024-00876,2024-08-13,2024-08-14,Standard Class,CU9843,Anjali Shah,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-97834,Office Supplies,Binders,Document Folder,14421.1,5,0.3,1639.53
+877,ORD-2024-00877,2024-07-18,2024-07-22,Second Class,CU4044,Deepak Kumar,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-14992,Furniture,Bookcases,Wooden Bookcase,40579.38,6,0.05,1972.57
+878,ORD-2024-00878,2024-08-10,2024-08-14,Standard Class,CU2486,Kavita Singh,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-35992,Technology,Laptops,Gaming Laptop,163740.69,2,0.15,29103.32
+879,ORD-2025-00879,2025-07-18,2025-07-21,Standard Class,CU9428,Anjali Shah,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-51887,Furniture,Furnishings,Table Lamp,9546.12,2,0.1,-186.44
+880,ORD-2024-00880,2024-01-29,2024-02-02,Standard Class,CU8216,Akash Sharma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-80441,Technology,Laptops,Gaming Laptop,4976.72,3,0.3,77.61
+881,ORD-2025-00881,2025-02-19,2025-02-22,Second Class,CU9046,Kavita Shah,Home Office,India,Bangalore,Karnataka,560001,South,PR-OS-69556,Office Supplies,Storage,Document Storage,741.97,1,0.05,102.51
+882,ORD-2024-00882,2024-07-31,2024-08-03,Standard Class,CU8802,Anjali Verma,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-73372,Office Supplies,Paper,Notebook,7579.5,2,0.3,1110.65
+883,ORD-2025-00883,2025-04-04,2025-04-07,Standard Class,CU3018,Karan Verma,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-25915,Technology,Phones,Smartphone,128286.76,6,0.3,18523.52
+884,ORD-2024-00884,2024-01-08,2024-01-13,Standard Class,CU6839,Kavita Joshi,Home Office,India,Hyderabad,Telangana,500001,South,PR-FU-54938,Office Supplies,Paper,Printer Paper,12055.56,9,0.05,1603.5
+885,ORD-2025-00885,2025-07-12,2025-07-13,Second Class,CU8935,Manish Kumar,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-21240,Technology,Phones,Smartphone,42264.56,10,0.1,-1218.49
+886,ORD-2025-00886,2025-09-29,2025-10-04,Standard Class,CU1837,Rohit Desai,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-18463,Office Supplies,Storage,File Cabinet,4274.8,2,0.0,1018.98
+887,ORD-2025-00887,2025-11-11,2025-11-13,Same Day,CU1589,Rohit Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-75311,Technology,Phones,Smartphone,51633.09,2,0.2,-3119.17
+888,ORD-2025-00888,2025-01-06,2025-01-07,Second Class,CU8257,Karan Sharma,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-81474,Furniture,Chairs,Office Chair,183766.39,8,0.0,7308.35
+889,ORD-2025-00889,2025-04-10,2025-04-14,Standard Class,CU2865,Karan Yadav,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-38887,Technology,Laptops,Gaming Laptop,73515.03,4,0.05,1258.37
+890,ORD-2025-00890,2025-06-26,2025-06-28,Standard Class,CU4572,Arjun Joshi,Home Office,India,Patna,Bihar,800001,East,PR-OS-70098,Technology,Accessories,Headphones,417495.45,8,0.3,-36961.06
+891,ORD-2025-00891,2025-08-24,2025-08-25,First Class,CU6602,Manish Gupta,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-89852,Furniture,Furnishings,Wall Clock,70908.41,10,0.1,-5704.54
+892,ORD-2025-00892,2025-11-08,2025-11-09,Standard Class,CU9089,Sachin Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-69670,Furniture,Bookcases,Office Bookcase,29098.42,7,0.05,676.01
+893,ORD-2024-00893,2024-06-09,2024-06-11,Second Class,CU2688,Anjali Patil,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-28460,Technology,Accessories,Mouse,693844.84,10,0.0,38142.42
+894,ORD-2024-00894,2024-03-13,2024-03-16,Standard Class,CU5373,Amit Kumar,Corporate,India,Delhi,Delhi,110001,Central,PR-FU-55805,Furniture,Furnishings,Desk Lamp,6809.8,7,0.2,626.33
+895,ORD-2024-00895,2024-01-17,2024-01-19,First Class,CU2887,Amit Singh,Corporate,India,Patna,Bihar,800001,East,PR-FU-44603,Office Supplies,Binders,Ring Binder,4708.72,3,0.15,-270.74
+896,ORD-2025-00896,2025-04-16,2025-04-18,Standard Class,CU5779,Sachin Yadav,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-66908,Technology,Phones,Android Phone,161373.61,4,0.1,-9127.67
+897,ORD-2025-00897,2025-08-26,2025-08-27,Standard Class,CU4311,Simran More,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-34259,Furniture,Furnishings,Wall Clock,42858.6,3,0.1,8158.6
+898,ORD-2025-00898,2025-01-24,2025-01-29,Same Day,CU1841,Sachin More,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-55706,Furniture,Bookcases,Wooden Bookcase,62040.52,5,0.15,11919.08
+899,ORD-2024-00899,2024-10-25,2024-10-28,Standard Class,CU2633,Deepak Yadav,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-66172,Technology,Accessories,USB Cable,161983.93,8,0.05,25429.12
+900,ORD-2025-00900,2025-08-14,2025-08-18,Second Class,CU1567,Arjun Rao,Home Office,India,Ahmedabad,Gujarat,380001,West,PR-FU-87751,Technology,Laptops,Business Laptop,465078.84,10,0.2,40834.32
+901,ORD-2024-00901,2024-02-27,2024-02-28,First Class,CU8312,Rahul Shah,Consumer,India,Patna,Bihar,800001,East,PR-TE-96450,Office Supplies,Storage,Storage Box,10592.35,3,0.1,1242.93
+902,ORD-2024-00902,2024-10-19,2024-10-24,Standard Class,CU3563,Vikas Gupta,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-27637,Office Supplies,Storage,Document Storage,4739.52,6,0.1,316.75
+903,ORD-2025-00903,2025-09-06,2025-09-10,Second Class,CU2378,Priya Jain,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-37491,Furniture,Furnishings,Desk Lamp,3784.12,4,0.0,272.89
+904,ORD-2024-00904,2024-10-27,2024-10-28,Standard Class,CU4816,Meena Jain,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-15037,Office Supplies,Binders,File Binder,7078.18,2,0.15,-741.05
+905,ORD-2024-00905,2024-01-03,2024-01-06,Second Class,CU8450,Deepak Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-18104,Furniture,Chairs,Office Chair,16305.03,1,0.1,1999.49
+906,ORD-2024-00906,2024-06-30,2024-07-01,Standard Class,CU6319,Akash Shah,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-54227,Technology,Laptops,Gaming Laptop,582021.27,8,0.3,73291.21
+907,ORD-2024-00907,2024-11-22,2024-11-24,Standard Class,CU3953,Neha Desai,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-86151,Technology,Accessories,Headphones,860204.71,10,0.0,13218.77
+908,ORD-2024-00908,2024-12-08,2024-12-11,Second Class,CU6899,Manish More,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-19888,Office Supplies,Storage,Document Storage,1659.44,7,0.1,37.07
+909,ORD-2025-00909,2025-07-29,2025-08-01,Standard Class,CU2982,Arjun Sharma,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-45765,Furniture,Chairs,Dining Chair,27418.33,7,0.0,2673.4
+910,ORD-2024-00910,2024-03-05,2024-03-10,First Class,CU4015,Kavita Verma,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-TE-49113,Technology,Laptops,Laptop,118130.5,3,0.3,1111.59
+911,ORD-2025-00911,2025-10-10,2025-10-15,First Class,CU2692,Simran Mehta,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-52205,Office Supplies,Binders,Document Folder,1964.69,4,0.1,-110.12
+912,ORD-2025-00912,2025-10-25,2025-10-27,Standard Class,CU2241,Neha Verma,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-97919,Furniture,Bookcases,Wooden Bookcase,72120.43,9,0.0,17734.89
+913,ORD-2025-00913,2025-04-11,2025-04-12,Same Day,CU9103,Karan Shah,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-74930,Furniture,Furnishings,Wall Clock,10130.34,2,0.15,335.81
+914,ORD-2024-00914,2024-05-02,2024-05-04,First Class,CU1631,Rohit Jain,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-75126,Office Supplies,Storage,Storage Box,19789.42,4,0.05,3195.36
+915,ORD-2025-00915,2025-05-07,2025-05-09,Standard Class,CU7154,Kavita Gupta,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-FU-19136,Office Supplies,Paper,Copy Paper,6676.18,6,0.0,215.7
+916,ORD-2024-00916,2024-11-02,2024-11-06,Second Class,CU3112,Riya Sharma,Consumer,India,Patna,Bihar,800001,East,PR-TE-57361,Furniture,Furnishings,Desk Lamp,69613.39,3,0.15,-6983.8
+917,ORD-2025-00917,2025-05-15,2025-05-18,Standard Class,CU1149,Manish Rao,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-54488,Furniture,Bookcases,Office Bookcase,138975.35,9,0.15,8656.03
+918,ORD-2024-00918,2024-12-27,2024-12-29,Standard Class,CU2229,Riya Kumar,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-95096,Furniture,Furnishings,Desk Lamp,41674.68,3,0.3,5880.63
+919,ORD-2025-00919,2025-06-26,2025-06-29,Standard Class,CU5013,Vikas Shah,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-42799,Technology,Laptops,Gaming Laptop,101480.14,4,0.3,11891.91
+920,ORD-2024-00920,2024-01-27,2024-01-31,Standard Class,CU8951,Meena Jain,Home Office,India,Jaipur,Rajasthan,302001,Central,PR-FU-73620,Technology,Phones,Smartphone,359961.79,4,0.3,-48483.59
+921,ORD-2025-00921,2025-01-16,2025-01-17,Standard Class,CU8903,Deepak Patil,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-74366,Office Supplies,Binders,File Binder,48695.58,10,0.1,-900.18
+922,ORD-2024-00922,2024-04-16,2024-04-17,Standard Class,CU6380,Akash Mehta,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-FU-68770,Office Supplies,Paper,Printer Paper,5866.44,5,0.2,-623.45
+923,ORD-2025-00923,2025-10-17,2025-10-19,Standard Class,CU4560,Karan Nair,Consumer,India,Bangalore,Karnataka,560001,South,PR-FU-57656,Furniture,Chairs,Dining Chair,107784.3,9,0.2,19154.2
+924,ORD-2024-00924,2024-07-14,2024-07-16,First Class,CU5723,Manish Singh,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-93035,Furniture,Furnishings,Desk Lamp,78991.43,4,0.2,-4829.51
+925,ORD-2024-00925,2024-08-31,2024-09-05,First Class,CU3182,Akash More,Consumer,India,Patna,Bihar,800001,East,PR-TE-40255,Furniture,Tables,Dining Table,4203.47,1,0.1,761.85
+926,ORD-2025-00926,2025-05-13,2025-05-18,Standard Class,CU6629,Riya Singh,Consumer,India,Delhi,Delhi,110001,Central,PR-OS-32789,Technology,Laptops,Gaming Laptop,237587.64,4,0.0,25740.87
+927,ORD-2024-00927,2024-08-21,2024-08-23,Same Day,CU3523,Sneha More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-TE-49038,Technology,Laptops,Business Laptop,112873.6,3,0.0,26036.07
+928,ORD-2025-00928,2025-01-31,2025-02-03,First Class,CU2464,Neha Patil,Home Office,India,Pune,Maharashtra,411001,West,PR-OS-21628,Furniture,Tables,Computer Table,173353.86,7,0.05,8166.6
+929,ORD-2025-00929,2025-09-02,2025-09-06,Standard Class,CU1063,Deepak Jain,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-84397,Furniture,Chairs,Office Chair,24073.68,8,0.3,-3595.19
+930,ORD-2025-00930,2025-09-09,2025-09-12,Second Class,CU1189,Manish Desai,Consumer,India,Pune,Maharashtra,411001,West,PR-FU-17482,Office Supplies,Paper,Notebook,16336.4,10,0.15,1248.0
+931,ORD-2025-00931,2025-12-19,2025-12-24,Same Day,CU2135,Rahul Shah,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-21913,Technology,Phones,Android Phone,159730.34,7,0.05,-13847.74
+932,ORD-2024-00932,2024-01-07,2024-01-09,Second Class,CU3807,Riya Nair,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-36248,Furniture,Bookcases,Wooden Bookcase,72941.69,6,0.15,7906.85
+933,ORD-2025-00933,2025-09-22,2025-09-24,Second Class,CU9108,Anjali Patil,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-58302,Furniture,Chairs,Executive Chair,38143.05,3,0.05,6437.47
+934,ORD-2024-00934,2024-10-21,2024-10-23,Standard Class,CU3109,Simran Shah,Consumer,India,Hyderabad,Telangana,500001,South,PR-OS-83662,Office Supplies,Storage,File Cabinet,27688.65,7,0.1,5844.98
+935,ORD-2024-00935,2024-07-07,2024-07-11,Second Class,CU9645,Nisha Sharma,Consumer,India,Patna,Bihar,800001,East,PR-TE-51596,Furniture,Tables,Computer Table,95553.33,10,0.3,-2566.73
+936,ORD-2024-00936,2024-07-20,2024-07-22,Standard Class,CU9988,Rohit Verma,Home Office,India,Bangalore,Karnataka,560001,South,PR-TE-88488,Furniture,Furnishings,Desk Lamp,31061.15,2,0.2,-1464.0
+937,ORD-2025-00937,2025-08-28,2025-08-30,Second Class,CU8021,Meena Singh,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-TE-63096,Furniture,Chairs,Office Chair,37803.22,9,0.05,3030.55
+938,ORD-2024-00938,2024-05-11,2024-05-15,Standard Class,CU1079,Sneha Singh,Corporate,India,Bangalore,Karnataka,560001,South,PR-TE-12966,Office Supplies,Binders,Document Folder,13127.4,3,0.1,-72.71
+939,ORD-2024-00939,2024-05-05,2024-05-08,Second Class,CU7856,Rohit Yadav,Home Office,India,Delhi,Delhi,110001,Central,PR-TE-80854,Technology,Accessories,Headphones,193200.83,3,0.2,-10798.45
+940,ORD-2025-00940,2025-05-19,2025-05-23,Standard Class,CU4872,Priya Patil,Home Office,India,Pune,Maharashtra,411001,West,PR-TE-46688,Furniture,Bookcases,Office Bookcase,89791.8,4,0.2,5514.51
+941,ORD-2025-00941,2025-07-24,2025-07-25,Standard Class,CU5723,Rohit Singh,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-32797,Office Supplies,Storage,Document Storage,8365.44,4,0.2,929.27
+942,ORD-2025-00942,2025-11-30,2025-12-05,First Class,CU5407,Nisha Rao,Consumer,India,Patna,Bihar,800001,East,PR-TE-82264,Office Supplies,Binders,Document Folder,15967.9,4,0.15,2464.36
+943,ORD-2025-00943,2025-05-28,2025-06-02,Second Class,CU9464,Priya Verma,Corporate,India,Patna,Bihar,800001,East,PR-OS-98196,Furniture,Furnishings,Desk Lamp,52249.22,4,0.3,1632.94
+944,ORD-2024-00944,2024-01-16,2024-01-21,First Class,CU1589,Rohit Sharma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-OS-64056,Technology,Accessories,USB Cable,293327.79,9,0.1,17810.8
+945,ORD-2025-00945,2025-11-10,2025-11-15,Second Class,CU4603,Vikas Sharma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-46681,Office Supplies,Binders,Document Folder,4315.09,2,0.0,-68.62
+946,ORD-2024-00946,2024-04-29,2024-04-30,Standard Class,CU4596,Akash Yadav,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-44130,Furniture,Furnishings,Desk Lamp,178383.89,8,0.05,39224.97
+947,ORD-2025-00947,2025-06-13,2025-06-18,Standard Class,CU6277,Sneha Singh,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-56579,Technology,Phones,Business Phone,258712.37,4,0.0,17938.11
+948,ORD-2025-00948,2025-08-05,2025-08-07,Standard Class,CU6924,Arjun Verma,Corporate,India,Patna,Bihar,800001,East,PR-OS-59671,Technology,Accessories,Keyboard,332544.04,5,0.0,54456.91
+949,ORD-2024-00949,2024-07-20,2024-07-24,Standard Class,CU7255,Sachin Desai,Home Office,India,Kolkata,West Bengal,700001,East,PR-OS-45983,Technology,Laptops,Business Laptop,169943.63,2,0.3,20704.36
+950,ORD-2025-00950,2025-08-15,2025-08-20,Standard Class,CU7603,Sachin Singh,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-11403,Technology,Phones,Business Phone,275290.62,9,0.15,32666.25
+951,ORD-2024-00951,2024-12-04,2024-12-08,Second Class,CU7023,Arjun Sharma,Home Office,India,Bangalore,Karnataka,560001,South,PR-TE-52337,Technology,Phones,Business Phone,263254.04,7,0.1,59215.23
+952,ORD-2024-00952,2024-01-13,2024-01-14,Second Class,CU3520,Pooja Sharma,Consumer,India,Patna,Bihar,800001,East,PR-FU-30098,Technology,Laptops,Gaming Laptop,64556.04,4,0.0,13765.98
+953,ORD-2024-00953,2024-02-15,2024-02-16,Second Class,CU5451,Kavita More,Consumer,India,Kolkata,West Bengal,700001,East,PR-TE-22202,Office Supplies,Binders,Document Folder,8530.13,10,0.15,1425.65
+954,ORD-2025-00954,2025-12-23,2025-12-24,Standard Class,CU5768,Deepak Jain,Corporate,India,Mumbai,Maharashtra,400001,West,PR-FU-46589,Furniture,Chairs,Dining Chair,73852.03,3,0.15,12007.48
+955,ORD-2025-00955,2025-03-24,2025-03-26,First Class,CU2097,Karan Shah,Consumer,India,Pune,Maharashtra,411001,West,PR-OS-91120,Furniture,Furnishings,Desk Lamp,163229.54,10,0.3,-3428.72
+956,ORD-2024-00956,2024-06-09,2024-06-10,First Class,CU6546,Amit Kumar,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-93845,Technology,Accessories,Headphones,64810.94,1,0.05,-2929.95
+957,ORD-2025-00957,2025-06-16,2025-06-19,Second Class,CU2017,Meena Verma,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-FU-17712,Technology,Laptops,Gaming Laptop,7502.39,3,0.05,-466.0
+958,ORD-2025-00958,2025-04-25,2025-04-29,First Class,CU3814,Rohit Gupta,Consumer,India,Patna,Bihar,800001,East,PR-FU-56205,Furniture,Furnishings,Wall Clock,93192.32,7,0.05,-6256.9
+959,ORD-2025-00959,2025-05-24,2025-05-26,Standard Class,CU4204,Arjun Jain,Home Office,India,Delhi,Delhi,110001,Central,PR-OS-99343,Office Supplies,Binders,Document Folder,4678.62,2,0.05,185.03
+960,ORD-2024-00960,2024-10-27,2024-10-28,First Class,CU7978,Neha Singh,Consumer,India,Ahmedabad,Gujarat,380001,West,PR-TE-50533,Technology,Phones,Business Phone,114901.06,3,0.2,-9360.64
+961,ORD-2024-00961,2024-11-20,2024-11-22,Second Class,CU5642,Nisha Patil,Corporate,India,Hyderabad,Telangana,500001,South,PR-OS-61302,Furniture,Tables,Office Table,32350.99,10,0.3,-2630.33
+962,ORD-2024-00962,2024-05-15,2024-05-17,Second Class,CU1845,Riya Nair,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-93247,Technology,Accessories,Keyboard,175166.43,6,0.2,22893.19
+963,ORD-2024-00963,2024-01-12,2024-01-14,Second Class,CU8838,Deepak Sharma,Consumer,India,Hyderabad,Telangana,500001,South,PR-TE-75671,Furniture,Tables,Office Table,96499.8,10,0.0,5980.61
+964,ORD-2025-00964,2025-07-10,2025-07-12,Standard Class,CU3681,Vikas Nair,Corporate,India,Ahmedabad,Gujarat,380001,West,PR-OS-28639,Furniture,Chairs,Dining Chair,59030.48,4,0.1,-4083.54
+965,ORD-2025-00965,2025-12-27,2025-12-31,Standard Class,CU7590,Meena Kumar,Consumer,India,Bangalore,Karnataka,560001,South,PR-OS-37924,Furniture,Furnishings,Table Lamp,51036.6,7,0.15,-3374.05
+966,ORD-2024-00966,2024-04-20,2024-04-25,Second Class,CU1360,Sneha More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-45958,Technology,Laptops,Laptop,7412.62,4,0.3,-152.04
+967,ORD-2025-00967,2025-08-10,2025-08-15,Same Day,CU9747,Nisha More,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-88670,Office Supplies,Paper,Printer Paper,2891.44,5,0.3,-218.75
+968,ORD-2024-00968,2024-05-19,2024-05-23,Standard Class,CU7185,Pooja Rao,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-66389,Furniture,Tables,Office Table,40093.96,3,0.1,8997.3
+969,ORD-2025-00969,2025-11-15,2025-11-18,Standard Class,CU6029,Kavita Shah,Corporate,India,Pune,Maharashtra,411001,West,PR-FU-12774,Office Supplies,Paper,Notebook,28113.49,7,0.2,-1135.61
+970,ORD-2024-00970,2024-06-22,2024-06-24,Standard Class,CU4754,Anjali Nair,Consumer,India,Pune,Maharashtra,411001,West,PR-TE-96290,Office Supplies,Storage,File Cabinet,37602.79,9,0.05,3642.28
+971,ORD-2024-00971,2024-08-01,2024-08-04,Standard Class,CU4178,Rahul Nair,Consumer,India,Kolkata,West Bengal,700001,East,PR-OS-63642,Furniture,Furnishings,Wall Clock,4278.46,1,0.15,-85.99
+972,ORD-2025-00972,2025-03-21,2025-03-22,Second Class,CU3844,Arjun Joshi,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-TE-96340,Office Supplies,Storage,Storage Box,40337.87,9,0.0,8044.56
+973,ORD-2025-00973,2025-10-26,2025-10-30,Standard Class,CU2248,Kavita More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-91006,Office Supplies,Paper,Copy Paper,8913.04,4,0.2,-172.82
+974,ORD-2024-00974,2024-05-11,2024-05-12,Standard Class,CU7384,Sachin Patil,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-14486,Furniture,Chairs,Executive Chair,118877.67,8,0.1,-10497.08
+975,ORD-2025-00975,2025-05-12,2025-05-14,Standard Class,CU3923,Arjun More,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-OS-29623,Office Supplies,Paper,Notebook,2361.19,9,0.3,-156.87
+976,ORD-2025-00976,2025-03-27,2025-03-30,Second Class,CU8595,Manish Rao,Home Office,India,Hyderabad,Telangana,500001,South,PR-TE-99125,Office Supplies,Storage,Document Storage,1116.31,7,0.05,76.75
+977,ORD-2024-00977,2024-03-14,2024-03-15,Second Class,CU5834,Akash Verma,Consumer,India,Patna,Bihar,800001,East,PR-TE-86519,Furniture,Chairs,Dining Chair,759.88,1,0.1,-78.78
+978,ORD-2024-00978,2024-07-25,2024-07-26,Standard Class,CU5939,Kavita Gupta,Corporate,India,Mumbai,Maharashtra,400001,West,PR-TE-51319,Office Supplies,Paper,Printer Paper,5036.24,3,0.15,-569.48
+979,ORD-2025-00979,2025-04-09,2025-04-14,Second Class,CU9449,Priya Sharma,Consumer,India,Jaipur,Rajasthan,302001,Central,PR-OS-30809,Furniture,Tables,Dining Table,24834.05,4,0.2,769.65
+980,ORD-2024-00980,2024-07-04,2024-07-06,Standard Class,CU6125,Arjun Joshi,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-31553,Furniture,Bookcases,Wooden Bookcase,22132.34,1,0.05,3452.05
+981,ORD-2025-00981,2025-05-11,2025-05-13,Standard Class,CU7420,Manish Gupta,Corporate,India,Patna,Bihar,800001,East,PR-FU-27991,Office Supplies,Binders,Document Folder,24910.01,8,0.15,5121.67
+982,ORD-2025-00982,2025-11-21,2025-11-22,Second Class,CU6274,Anjali Joshi,Consumer,India,Delhi,Delhi,110001,Central,PR-TE-49056,Office Supplies,Binders,File Binder,9569.16,4,0.2,-260.6
+983,ORD-2025-00983,2025-02-26,2025-02-28,Standard Class,CU9335,Arjun More,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-TE-30150,Furniture,Bookcases,Office Bookcase,18616.68,4,0.15,-382.49
+984,ORD-2025-00984,2025-01-09,2025-01-14,Standard Class,CU1561,Manish Gupta,Consumer,India,Delhi,Delhi,110001,Central,PR-FU-99336,Technology,Laptops,Business Laptop,795205.28,10,0.3,-21575.22
+985,ORD-2024-00985,2024-04-15,2024-04-16,Standard Class,CU8518,Pooja Nair,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-31164,Technology,Accessories,Headphones,451720.37,9,0.2,-581.53
+986,ORD-2025-00986,2025-05-09,2025-05-10,First Class,CU6719,Akash Singh,Corporate,India,Kolkata,West Bengal,700001,East,PR-FU-99142,Technology,Laptops,Business Laptop,691608.55,10,0.0,53925.91
+987,ORD-2024-00987,2024-04-22,2024-04-26,Standard Class,CU1411,Priya Sharma,Home Office,India,Bangalore,Karnataka,560001,South,PR-TE-90446,Furniture,Bookcases,Office Bookcase,1317.99,2,0.1,230.48
+988,ORD-2025-00988,2025-08-04,2025-08-08,First Class,CU5182,Pooja More,Corporate,India,Chennai,Tamil Nadu,600001,South,PR-OS-54700,Technology,Accessories,Mouse,497262.12,6,0.15,-11283.41
+989,ORD-2025-00989,2025-12-03,2025-12-05,Standard Class,CU9140,Deepak Joshi,Home Office,India,Bangalore,Karnataka,560001,South,PR-FU-61188,Furniture,Bookcases,Wooden Bookcase,23500.5,1,0.1,1180.54
+990,ORD-2024-00990,2024-08-07,2024-08-09,Standard Class,CU5753,Sachin Gupta,Corporate,India,Delhi,Delhi,110001,Central,PR-TE-18645,Furniture,Bookcases,Wooden Bookcase,68229.1,6,0.2,-6617.94
+991,ORD-2024-00991,2024-11-28,2024-12-02,Second Class,CU3560,Rahul Shah,Consumer,India,Mumbai,Maharashtra,400001,West,PR-TE-80639,Furniture,Furnishings,Desk Lamp,165914.53,10,0.15,16662.39
+992,ORD-2024-00992,2024-05-17,2024-05-20,Standard Class,CU3216,Meena Singh,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-99937,Furniture,Furnishings,Wall Clock,138431.0,8,0.05,12940.65
+993,ORD-2025-00993,2025-05-31,2025-06-02,First Class,CU2381,Manish Shah,Consumer,India,Hyderabad,Telangana,500001,South,PR-FU-33867,Technology,Laptops,Business Laptop,84454.88,2,0.1,8097.62
+994,ORD-2025-00994,2025-12-23,2025-12-28,Second Class,CU2468,Meena Nair,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-91454,Technology,Laptops,Gaming Laptop,419853.15,10,0.0,90739.44
+995,ORD-2024-00995,2024-07-29,2024-08-03,Standard Class,CU6943,Amit Yadav,Consumer,India,Chennai,Tamil Nadu,600001,South,PR-FU-32720,Furniture,Chairs,Office Chair,146904.24,8,0.1,32237.19
+996,ORD-2025-00996,2025-02-12,2025-02-16,Second Class,CU7950,Akash Gupta,Home Office,India,Delhi,Delhi,110001,Central,PR-OS-11927,Technology,Laptops,Laptop,358785.59,10,0.1,39378.59
+997,ORD-2025-00997,2025-01-07,2025-01-10,First Class,CU3570,Neha Rao,Corporate,India,Kolkata,West Bengal,700001,East,PR-OS-95807,Office Supplies,Storage,Storage Box,11830.15,3,0.0,104.66
+998,ORD-2024-00998,2024-02-24,2024-02-25,Second Class,CU1947,Karan Jain,Corporate,India,Jaipur,Rajasthan,302001,Central,PR-FU-85348,Furniture,Tables,Office Table,234911.99,10,0.3,-27946.29
+999,ORD-2025-00999,2025-12-28,2026-01-01,Standard Class,CU5014,Akash Kumar,Consumer,India,Mumbai,Maharashtra,400001,West,PR-FU-63506,Office Supplies,Binders,File Binder,4491.38,10,0.3,670.56
+1000,ORD-2024-01000,2024-10-08,2024-10-10,Second Class,CU3781,Rahul More,Corporate,India,Pune,Maharashtra,411001,West,PR-OS-44407,Technology,Accessories,Headphones,518170.11,10,0.0,86911.35
